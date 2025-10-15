@@ -1,0 +1,558 @@
+🏦 BANK REPORT SUMMARY
+Name:  
+Email: N/A
+Report Date: N/A
+----------------------------------------
+📂 CONNECTED ACCOUNTS:
+- Bank: 010 | Type: chequing | Transit: 02432 | Account: 8964394 | Balance: $343.78
+- Bank: 010 | Type: saving | Transit: 02432 | Account: 8964432 | Balance: $43.24
+- Bank: 010 | Type: credit-card | Transit:  | Account: 450553XXXXXX2874 | Balance: $2493.55
+----------------------------------------
+No summary data available.
+----------------------------------------
+📈 Account Statistics for 8964394 (chequing)
+  - Mean Closing Balance: 340.11
+  - Mean Closing Balance 30: 216.43
+  - Debits 30 Count: 65
+  - Credits 30 Count: 17
+  - Debits 30 Total: 10420.81
+  - Credits 30 Total: 10373.02
+  - Returns 30 Count: 0
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 0.00
+  - Returns 30 Net: 0.00
+  - Loans 30 Count: 12
+  - Loans 30 Debits: 2220.15
+  - Loans 30 Credits: 3085.22
+  - Loans 30 Net: 865.07
+  - Payday 30 Count: 12
+  - Payday 30 Debits: 2220.15
+  - Payday 30 Credits: 3085.22
+  - Payday 30 Net: 865.07
+  - Overdraft 30 Count: 30
+  - Overdraft 30 Debits: 4027.20
+  - Overdraft 30 Credits: 189.22
+  - Overdraft 30 Net: -3837.98
+  - Debits 60 Count: 127
+  - Credits 60 Count: 45
+  - Debits 60 Total: 39794.98
+  - Credits 60 Total: 39267.97
+  - Returns 60 Count: 0
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 0.00
+  - Returns 60 Net: 0.00
+  - Loans 60 Count: 16
+  - Loans 60 Debits: 2394.95
+  - Loans 60 Credits: 3835.22
+  - Loans 60 Net: 1440.27
+  - Payday 60 Count: 16
+  - Payday 60 Debits: 2394.95
+  - Payday 60 Credits: 3835.22
+  - Payday 60 Net: 1440.27
+  - Overdraft 60 Count: 37
+  - Overdraft 60 Debits: 6836.52
+  - Overdraft 60 Credits: 189.22
+  - Overdraft 60 Net: -6647.30
+  - Debits 90 Count: 192
+  - Credits 90 Count: 57
+  - Debits 90 Total: 44812.88
+  - Credits 90 Total: 44296.96
+  - Returns 90 Count: 0
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 0.00
+  - Returns 90 Net: 0.00
+  - Loans 90 Count: 18
+  - Loans 90 Debits: 2597.20
+  - Loans 90 Credits: 3835.22
+  - Loans 90 Net: 1238.02
+  - Payday 90 Count: 18
+  - Payday 90 Debits: 2597.20
+  - Payday 90 Credits: 3835.22
+  - Payday 90 Net: 1238.02
+  - Overdraft 90 Count: 48
+  - Overdraft 90 Debits: 7176.43
+  - Overdraft 90 Credits: 189.22
+  - Overdraft 90 Net: -6987.21
+  - Debits 180 Count: 383
+  - Credits 180 Count: 96
+  - Debits 180 Total: 64731.79
+  - Credits 180 Total: 64071.71
+  - Returns 180 Count: 0
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 0.00
+  - Returns 180 Net: 0.00
+  - Loans 180 Count: 22
+  - Loans 180 Debits: 2902.55
+  - Loans 180 Credits: 3835.22
+  - Loans 180 Net: 932.67
+  - Payday 180 Count: 22
+  - Payday 180 Debits: 2902.55
+  - Payday 180 Credits: 3835.22
+  - Payday 180 Net: 932.67
+  - Overdraft 180 Count: 55
+  - Overdraft 180 Debits: 7259.40
+  - Overdraft 180 Credits: 191.22
+  - Overdraft 180 Net: -7068.18
+  - Debits 365 Count: 764
+  - Credits 365 Count: 185
+  - Debits 365 Total: 118839.88
+  - Credits 365 Total: 118051.37
+  - Returns 365 Count: 0
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 0.00
+  - Returns 365 Net: 0.00
+  - Loans 365 Count: 25
+  - Loans 365 Debits: 5902.55
+  - Loans 365 Credits: 6835.22
+  - Loans 365 Net: 932.67
+  - Payday 365 Count: 25
+  - Payday 365 Debits: 5902.55
+  - Payday 365 Credits: 6835.22
+  - Payday 365 Net: 932.67
+  - Overdraft 365 Count: 55
+  - Overdraft 365 Debits: 7259.40
+  - Overdraft 365 Credits: 191.22
+  - Overdraft 365 Net: -7068.18
+  - Mean Closing Balance 60: 448.28
+  - Mean Closing Balance 90: 340.11
+  - Mean Closing Balance 180: 550.82
+  - Mean Closing Balance 365: 773.82
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: True
+  - Days Of History: 393
+  - Mean Balance After Payroll: 954.05
+  - Current Overdraft: True
+  - quarter_all_time: [Invalid data]
+  - quarter_3_months: [Invalid data]
+  - quarter_6_months: [Invalid data]
+  - quarter_9_months: [Invalid data]
+  - quarter_12_months: [Invalid data]
+  - employer_monthly_income: [Invalid data]
+  - government_monthly_income: [Invalid data]
+  - total_monthly_credit: [Invalid data]
+  - government_monthly_income_freq: [Invalid data]
+  - employer_monthly_income_freq: [Invalid data]
+  - Average Monthly Employer Income: 2205.16
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 6502.78
+  - Average Monthly Free Cash Flow: 17457.75
+  - Employer Income 30 To Average: 0.93
+  - Total Deposit Trend: 1.19
+  - Transfer Debit Count: 88
+  - Transfer Debit Total: 48153.46
+  - Transfer Credit Count: 114
+  - Transfer Credit Total: 65758.60
+  - Transfer Net: 17605.14
+  - Health And Fitness Debit Count: 73
+  - Health And Fitness Debit Total: 2010.24
+  - Health And Fitness Credit Count: 0
+  - Health And Fitness Credit Total: 0.00
+  - Health And Fitness Net: -2010.24
+  - Income Debit Count: 0
+  - Income Debit Total: 0.00
+  - Income Credit Count: 33
+  - Income Credit Total: 28502.96
+  - Income Net: 28502.96
+  - Fees And Charges Debit Count: 134
+  - Fees And Charges Debit Total: 16337.11
+  - Fees And Charges Credit Count: 20
+  - Fees And Charges Credit Total: 23293.88
+  - Fees And Charges Net: 6956.77
+  - Shopping Debit Count: 197
+  - Shopping Debit Total: 22116.20
+  - Shopping Credit Count: 3
+  - Shopping Credit Total: 276.97
+  - Shopping Net: -21839.23
+  - Home Debit Count: 10
+  - Home Debit Total: 11418.89
+  - Home Credit Count: 0
+  - Home Credit Total: 0.00
+  - Home Net: -11418.89
+  - Auto And Transport Debit Count: 56
+  - Auto And Transport Debit Total: 1229.12
+  - Auto And Transport Credit Count: 14
+  - Auto And Transport Credit Total: 136.84
+  - Auto And Transport Net: -1092.28
+  - Entertainment Debit Count: 85
+  - Entertainment Debit Total: 13743.00
+  - Entertainment Credit Count: 3
+  - Entertainment Credit Total: 329.95
+  - Entertainment Net: -13413.05
+  - Food And Dining Debit Count: 113
+  - Food And Dining Debit Total: 2900.99
+  - Food And Dining Credit Count: 0
+  - Food And Dining Credit Total: 0.00
+  - Food And Dining Net: -2900.99
+  - Bills And Utilities Debit Count: 7
+  - Bills And Utilities Debit Total: 401.68
+  - Bills And Utilities Credit Count: 0
+  - Bills And Utilities Credit Total: 0.00
+  - Bills And Utilities Net: -401.68
+  - Travel Debit Count: 1
+  - Travel Debit Total: 288.54
+  - Travel Credit Count: 0
+  - Travel Credit Total: 0.00
+  - Travel Net: -288.54
+  - Insurance Debit Count: 5
+  - Insurance Debit Total: 421.88
+  - Insurance Credit Count: 1
+  - Insurance Credit Total: 136.17
+  - Insurance Net: -285.71
+  - monthly_category_stats: [Invalid data]
+----------------------------------------
+No pay schedule detected.
+----------------------------------------
+No transaction flags summary available.
+----------------------------------------
+📈 Account Statistics for 8964432 (saving)
+  - Mean Closing Balance: -8.78
+  - Mean Closing Balance 30: -34.61
+  - Debits 30 Count: 3
+  - Credits 30 Count: 1
+  - Debits 30 Total: 697.55
+  - Credits 30 Total: 652.08
+  - Returns 30 Count: 1
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 652.08
+  - Returns 30 Net: 652.08
+  - Loans 30 Count: 0
+  - Loans 30 Debits: 0.00
+  - Loans 30 Credits: 0.00
+  - Loans 30 Net: 0.00
+  - Payday 30 Count: 0
+  - Payday 30 Debits: 0.00
+  - Payday 30 Credits: 0.00
+  - Payday 30 Net: 0.00
+  - Overdraft 30 Count: 4
+  - Overdraft 30 Debits: 697.55
+  - Overdraft 30 Credits: 652.08
+  - Overdraft 30 Net: -45.47
+  - Debits 60 Count: 4
+  - Credits 60 Count: 2
+  - Debits 60 Total: 1267.55
+  - Credits 60 Total: 1224.08
+  - Returns 60 Count: 1
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 652.08
+  - Returns 60 Net: 652.08
+  - Loans 60 Count: 0
+  - Loans 60 Debits: 0.00
+  - Loans 60 Credits: 0.00
+  - Loans 60 Net: 0.00
+  - Payday 60 Count: 0
+  - Payday 60 Debits: 0.00
+  - Payday 60 Credits: 0.00
+  - Payday 60 Net: 0.00
+  - Overdraft 60 Count: 4
+  - Overdraft 60 Debits: 697.55
+  - Overdraft 60 Credits: 652.08
+  - Overdraft 60 Net: -45.47
+  - Debits 90 Count: 4
+  - Credits 90 Count: 2
+  - Debits 90 Total: 1267.55
+  - Credits 90 Total: 1224.08
+  - Returns 90 Count: 1
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 652.08
+  - Returns 90 Net: 652.08
+  - Loans 90 Count: 0
+  - Loans 90 Debits: 0.00
+  - Loans 90 Credits: 0.00
+  - Loans 90 Net: 0.00
+  - Payday 90 Count: 0
+  - Payday 90 Debits: 0.00
+  - Payday 90 Credits: 0.00
+  - Payday 90 Net: 0.00
+  - Overdraft 90 Count: 4
+  - Overdraft 90 Debits: 697.55
+  - Overdraft 90 Credits: 652.08
+  - Overdraft 90 Net: -45.47
+  - Debits 180 Count: 8
+  - Credits 180 Count: 4
+  - Debits 180 Total: 1769.55
+  - Credits 180 Total: 1224.20
+  - Returns 180 Count: 1
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 652.08
+  - Returns 180 Net: 652.08
+  - Loans 180 Count: 0
+  - Loans 180 Debits: 0.00
+  - Loans 180 Credits: 0.00
+  - Loans 180 Net: 0.00
+  - Payday 180 Count: 0
+  - Payday 180 Debits: 0.00
+  - Payday 180 Credits: 0.00
+  - Payday 180 Net: 0.00
+  - Overdraft 180 Count: 4
+  - Overdraft 180 Debits: 697.55
+  - Overdraft 180 Credits: 652.08
+  - Overdraft 180 Net: -45.47
+  - Debits 365 Count: 28
+  - Credits 365 Count: 29
+  - Debits 365 Total: 7132.72
+  - Credits 365 Total: 6885.49
+  - Returns 365 Count: 2
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 813.05
+  - Returns 365 Net: 813.05
+  - Loans 365 Count: 0
+  - Loans 365 Debits: 0.00
+  - Loans 365 Credits: 0.00
+  - Loans 365 Net: 0.00
+  - Payday 365 Count: 0
+  - Payday 365 Debits: 0.00
+  - Payday 365 Credits: 0.00
+  - Payday 365 Net: 0.00
+  - Overdraft 365 Count: 6
+  - Overdraft 365 Debits: 1019.49
+  - Overdraft 365 Credits: 652.08
+  - Overdraft 365 Net: -367.41
+  - Mean Closing Balance 60: -13.97
+  - Mean Closing Balance 90: -8.78
+  - Mean Closing Balance 180: 71.61
+  - Mean Closing Balance 365: 340.19
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: True
+  - Days Of History: 393
+  - Current Overdraft: True
+  - quarter_all_time: [Invalid data]
+  - quarter_3_months: [Invalid data]
+  - quarter_6_months: [Invalid data]
+  - quarter_9_months: [Invalid data]
+  - quarter_12_months: [Invalid data]
+  - employer_monthly_income: [Invalid data]
+  - government_monthly_income: [Invalid data]
+  - total_monthly_credit: [Invalid data]
+  - government_monthly_income_freq: [Invalid data]
+  - employer_monthly_income_freq: [Invalid data]
+  - Average Monthly Employer Income: 0.00
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 529.66
+  - Average Monthly Free Cash Flow: 1135.26
+  - Employer Income 30 To Average: n/a
+  - Total Deposit Trend: 1.23
+  - Fees And Charges Debit Count: 10
+  - Fees And Charges Debit Total: 1240.72
+  - Fees And Charges Credit Count: 13
+  - Fees And Charges Credit Total: 1386.40
+  - Fees And Charges Net: 145.68
+  - Transfer Debit Count: 19
+  - Transfer Debit Total: 5982.00
+  - Transfer Credit Count: 13
+  - Transfer Credit Total: 5498.73
+  - Transfer Net: -483.27
+  - Income Debit Count: 0
+  - Income Debit Total: 0.00
+  - Income Credit Count: 3
+  - Income Credit Total: 0.36
+  - Income Net: 0.36
+  - monthly_category_stats: [Invalid data]
+----------------------------------------
+No pay schedule detected.
+----------------------------------------
+No transaction flags summary available.
+----------------------------------------
+📈 Account Statistics for 450553XXXXXX2874 (credit-card)
+  - Debits 30 Count: 7
+  - Credits 30 Count: 3
+  - Debits 30 Total: 243.75
+  - Credits 30 Total: 166.73
+  - Returns 30 Count: 0
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 0.00
+  - Returns 30 Net: 0.00
+  - Loans 30 Count: 0
+  - Loans 30 Debits: 0.00
+  - Loans 30 Credits: 0.00
+  - Loans 30 Net: 0.00
+  - Payday 30 Count: 0
+  - Payday 30 Debits: 0.00
+  - Payday 30 Credits: 0.00
+  - Payday 30 Net: 0.00
+  - Overdraft 30 Count: 0
+  - Overdraft 30 Debits: 0.00
+  - Overdraft 30 Credits: 0.00
+  - Overdraft 30 Net: 0.00
+  - Debits 60 Count: 37
+  - Credits 60 Count: 7
+  - Debits 60 Total: 3287.61
+  - Credits 60 Total: 1676.73
+  - Returns 60 Count: 0
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 0.00
+  - Returns 60 Net: 0.00
+  - Loans 60 Count: 0
+  - Loans 60 Debits: 0.00
+  - Loans 60 Credits: 0.00
+  - Loans 60 Net: 0.00
+  - Payday 60 Count: 0
+  - Payday 60 Debits: 0.00
+  - Payday 60 Credits: 0.00
+  - Payday 60 Net: 0.00
+  - Overdraft 60 Count: 0
+  - Overdraft 60 Debits: 0.00
+  - Overdraft 60 Credits: 0.00
+  - Overdraft 60 Net: 0.00
+  - Debits 90 Count: 67
+  - Credits 90 Count: 11
+  - Debits 90 Total: 4221.33
+  - Credits 90 Total: 2544.19
+  - Returns 90 Count: 0
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 0.00
+  - Returns 90 Net: 0.00
+  - Loans 90 Count: 0
+  - Loans 90 Debits: 0.00
+  - Loans 90 Credits: 0.00
+  - Loans 90 Net: 0.00
+  - Payday 90 Count: 0
+  - Payday 90 Debits: 0.00
+  - Payday 90 Credits: 0.00
+  - Payday 90 Net: 0.00
+  - Overdraft 90 Count: 0
+  - Overdraft 90 Debits: 0.00
+  - Overdraft 90 Credits: 0.00
+  - Overdraft 90 Net: 0.00
+  - Debits 180 Count: 162
+  - Credits 180 Count: 19
+  - Debits 180 Total: 8281.30
+  - Credits 180 Total: 6611.19
+  - Returns 180 Count: 0
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 0.00
+  - Returns 180 Net: 0.00
+  - Loans 180 Count: 0
+  - Loans 180 Debits: 0.00
+  - Loans 180 Credits: 0.00
+  - Loans 180 Net: 0.00
+  - Payday 180 Count: 0
+  - Payday 180 Debits: 0.00
+  - Payday 180 Credits: 0.00
+  - Payday 180 Net: 0.00
+  - Overdraft 180 Count: 0
+  - Overdraft 180 Debits: 0.00
+  - Overdraft 180 Credits: 0.00
+  - Overdraft 180 Net: 0.00
+  - Debits 365 Count: 364
+  - Credits 365 Count: 36
+  - Debits 365 Total: 17386.52
+  - Credits 365 Total: 15234.66
+  - Returns 365 Count: 0
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 0.00
+  - Returns 365 Net: 0.00
+  - Loans 365 Count: 0
+  - Loans 365 Debits: 0.00
+  - Loans 365 Credits: 0.00
+  - Loans 365 Net: 0.00
+  - Payday 365 Count: 0
+  - Payday 365 Debits: 0.00
+  - Payday 365 Credits: 0.00
+  - Payday 365 Net: 0.00
+  - Overdraft 365 Count: 0
+  - Overdraft 365 Debits: 0.00
+  - Overdraft 365 Credits: 0.00
+  - Overdraft 365 Net: 0.00
+  - Mean Closing Balance 30: 0.00
+  - Mean Closing Balance 60: 0.00
+  - Mean Closing Balance 90: 0.00
+  - Mean Closing Balance 180: 0.00
+  - Mean Closing Balance 365: 0.00
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: True
+  - Days Of History: 395
+  - Current Overdraft: False
+  - quarter_all_time: [Invalid data]
+  - quarter_3_months: [Invalid data]
+  - quarter_6_months: [Invalid data]
+  - quarter_9_months: [Invalid data]
+  - quarter_12_months: [Invalid data]
+  - employer_monthly_income: [Invalid data]
+  - government_monthly_income: [Invalid data]
+  - total_monthly_credit: [Invalid data]
+  - government_monthly_income_freq: [Invalid data]
+  - employer_monthly_income_freq: [Invalid data]
+  - Average Monthly Employer Income: 485.23
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 749.93
+  - Average Monthly Free Cash Flow: 2615.24
+  - Employer Income 30 To Average: 0.00
+  - Total Deposit Trend: 0.13
+  - Transfer Debit Count: 11
+  - Transfer Debit Total: 588.70
+  - Transfer Credit Count: 21
+  - Transfer Credit Total: 8282.18
+  - Transfer Net: 7693.48
+  - Health And Fitness Debit Count: 40
+  - Health And Fitness Debit Total: 1016.72
+  - Health And Fitness Credit Count: 0
+  - Health And Fitness Credit Total: 0.00
+  - Health And Fitness Net: -1016.72
+  - Business Services Debit Count: 1
+  - Business Services Debit Total: 24.41
+  - Business Services Credit Count: 0
+  - Business Services Credit Total: 0.00
+  - Business Services Net: -24.41
+  - Income Debit Count: 2
+  - Income Debit Total: 19.16
+  - Income Credit Count: 12
+  - Income Credit Total: 6885.29
+  - Income Net: 6866.13
+  - Fees And Charges Debit Count: 19
+  - Fees And Charges Debit Total: 3881.66
+  - Fees And Charges Credit Count: 2
+  - Fees And Charges Credit Total: 0.54
+  - Fees And Charges Net: -3881.12
+  - Shopping Debit Count: 35
+  - Shopping Debit Total: 2504.76
+  - Shopping Credit Count: 0
+  - Shopping Credit Total: 0.00
+  - Shopping Net: -2504.76
+  - Auto And Transport Debit Count: 102
+  - Auto And Transport Debit Total: 4876.82
+  - Auto And Transport Credit Count: 0
+  - Auto And Transport Credit Total: 0.00
+  - Auto And Transport Net: -4876.82
+  - Entertainment Debit Count: 42
+  - Entertainment Debit Total: 875.09
+  - Entertainment Credit Count: 0
+  - Entertainment Credit Total: 0.00
+  - Entertainment Net: -875.09
+  - Food And Dining Debit Count: 91
+  - Food And Dining Debit Total: 2793.28
+  - Food And Dining Credit Count: 1
+  - Food And Dining Credit Total: 66.65
+  - Food And Dining Net: -2726.63
+  - Bills And Utilities Debit Count: 11
+  - Bills And Utilities Debit Total: 623.40
+  - Bills And Utilities Credit Count: 0
+  - Bills And Utilities Credit Total: 0.00
+  - Bills And Utilities Net: -623.40
+  - Travel Debit Count: 6
+  - Travel Debit Total: 136.30
+  - Travel Credit Count: 0
+  - Travel Credit Total: 0.00
+  - Travel Net: -136.30
+  - Education Debit Count: 5
+  - Education Debit Total: 58.85
+  - Education Credit Count: 0
+  - Education Credit Total: 0.00
+  - Education Net: -58.85
+  - monthly_category_stats: [Invalid data]
+----------------------------------------
+No pay schedule detected.
+----------------------------------------
+No transaction flags summary available.
+----------------------------------------
+----------------------------------------
+📜 RECENT TRANSACTIONS (first 50):
+No transactions available.

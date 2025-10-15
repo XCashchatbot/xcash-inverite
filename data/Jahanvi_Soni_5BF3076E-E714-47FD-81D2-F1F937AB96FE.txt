@@ -1,0 +1,171 @@
+🏦 BANK REPORT SUMMARY
+Name:  
+Email: N/A
+Report Date: N/A
+----------------------------------------
+📂 CONNECTED ACCOUNTS:
+- Bank: 623 | Type:  | Transit: 80002 | Account: 123131158 | Balance: $N/A
+----------------------------------------
+No summary data available.
+----------------------------------------
+📈 Account Statistics for 123131158 ()
+  - Mean Closing Balance: 471.75
+  - Mean Closing Balance 30: 651.97
+  - Debits 30 Count: 94
+  - Credits 30 Count: 50
+  - Debits 30 Total: 13761.46
+  - Credits 30 Total: 10851.46
+  - Returns 30 Count: 0
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 0.00
+  - Returns 30 Net: 0.00
+  - Loans 30 Count: 0
+  - Loans 30 Debits: 0.00
+  - Loans 30 Credits: 0.00
+  - Loans 30 Net: 0.00
+  - Payday 30 Count: 0
+  - Payday 30 Debits: 0.00
+  - Payday 30 Credits: 0.00
+  - Payday 30 Net: 0.00
+  - Overdraft 30 Count: 25
+  - Overdraft 30 Debits: 2869.06
+  - Overdraft 30 Credits: 44.00
+  - Overdraft 30 Net: -2825.06
+  - Debits 60 Count: 233
+  - Credits 60 Count: 95
+  - Debits 60 Total: 23402.67
+  - Credits 60 Total: 21652.67
+  - Returns 60 Count: 0
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 0.00
+  - Returns 60 Net: 0.00
+  - Loans 60 Count: 0
+  - Loans 60 Debits: 0.00
+  - Loans 60 Credits: 0.00
+  - Loans 60 Net: 0.00
+  - Payday 60 Count: 0
+  - Payday 60 Debits: 0.00
+  - Payday 60 Credits: 0.00
+  - Payday 60 Net: 0.00
+  - Overdraft 60 Count: 53
+  - Overdraft 60 Debits: 4214.41
+  - Overdraft 60 Credits: 80.02
+  - Overdraft 60 Net: -4134.39
+  - Debits 90 Count: 263
+  - Credits 90 Count: 107
+  - Debits 90 Total: 28618.55
+  - Credits 90 Total: 28428.55
+  - Returns 90 Count: 0
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 0.00
+  - Returns 90 Net: 0.00
+  - Loans 90 Count: 0
+  - Loans 90 Debits: 0.00
+  - Loans 90 Credits: 0.00
+  - Loans 90 Net: 0.00
+  - Payday 90 Count: 0
+  - Payday 90 Debits: 0.00
+  - Payday 90 Credits: 0.00
+  - Payday 90 Net: 0.00
+  - Overdraft 90 Count: 62
+  - Overdraft 90 Debits: 5324.44
+  - Overdraft 90 Credits: 80.02
+  - Overdraft 90 Net: -5244.42
+  - Debits 180 Count: 307
+  - Credits 180 Count: 121
+  - Debits 180 Total: 43601.84
+  - Credits 180 Total: 43601.84
+  - Returns 180 Count: 0
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 0.00
+  - Returns 180 Net: 0.00
+  - Loans 180 Count: 0
+  - Loans 180 Debits: 0.00
+  - Loans 180 Credits: 0.00
+  - Loans 180 Net: 0.00
+  - Payday 180 Count: 0
+  - Payday 180 Debits: 0.00
+  - Payday 180 Credits: 0.00
+  - Payday 180 Net: 0.00
+  - Overdraft 180 Count: 73
+  - Overdraft 180 Debits: 10347.54
+  - Overdraft 180 Credits: 80.02
+  - Overdraft 180 Net: -10267.52
+  - Debits 365 Count: 362
+  - Credits 365 Count: 139
+  - Debits 365 Total: 56612.04
+  - Credits 365 Total: 56612.04
+  - Returns 365 Count: 1
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 94.65
+  - Returns 365 Net: 94.65
+  - Loans 365 Count: 0
+  - Loans 365 Debits: 0.00
+  - Loans 365 Credits: 0.00
+  - Loans 365 Net: 0.00
+  - Payday 365 Count: 0
+  - Payday 365 Debits: 0.00
+  - Payday 365 Credits: 0.00
+  - Payday 365 Net: 0.00
+  - Overdraft 365 Count: 88
+  - Overdraft 365 Debits: 14822.19
+  - Overdraft 365 Credits: 174.67
+  - Overdraft 365 Net: -14647.52
+  - Mean Closing Balance 60: 636.75
+  - Mean Closing Balance 90: 471.75
+  - Mean Closing Balance 180: 282.01
+  - Mean Closing Balance 365: 245.58
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: False
+  - Days Of History: 258
+  - Mean Balance After Payroll: 396.77
+  - Current Overdraft: False
+  - quarter_all_time: [Invalid data]
+  - quarter_3_months: [Invalid data]
+  - quarter_6_months: [Invalid data]
+  - quarter_9_months: [Invalid data]
+  - quarter_12_months: [Invalid data]
+  - employer_monthly_income: [Invalid data]
+  - government_monthly_income: [Invalid data]
+  - total_monthly_credit: [Invalid data]
+  - government_monthly_income_freq: [Invalid data]
+  - employer_monthly_income_freq: [Invalid data]
+  - Average Monthly Employer Income: 4372.26
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 1288.94
+  - Average Monthly Free Cash Flow: 11322.41
+  - Employer Income 30 To Average: 0.85
+  - Total Deposit Trend: 1.92
+  - Likely New Account: 1
+  - Transfer Debit Count: 237
+  - Transfer Debit Total: 46834.07
+  - Transfer Credit Count: 92
+  - Transfer Credit Total: 9642.98
+  - Transfer Net: -37191.09
+  - Entertainment Debit Count: 40
+  - Entertainment Debit Total: 3242.00
+  - Entertainment Credit Count: 12
+  - Entertainment Credit Total: 3240.00
+  - Entertainment Net: -2.00
+  - Income Debit Count: 0
+  - Income Debit Total: 0.00
+  - Income Credit Count: 35
+  - Income Credit Total: 43729.06
+  - Income Net: 43729.06
+  - Auto And Transport Debit Count: 85
+  - Auto And Transport Debit Total: 6535.97
+  - Auto And Transport Credit Count: 0
+  - Auto And Transport Credit Total: 0.00
+  - Auto And Transport Net: -6535.97
+  - monthly_category_stats: [Invalid data]
+----------------------------------------
+No pay schedule detected.
+----------------------------------------
+No transaction flags summary available.
+----------------------------------------
+----------------------------------------
+📜 RECENT TRANSACTIONS (first 50):
+No transactions available.

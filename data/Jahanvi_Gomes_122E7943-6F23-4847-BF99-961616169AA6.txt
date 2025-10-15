@@ -1,0 +1,555 @@
+🏦 INVERITE BANK REPORT SUMMARY
+Name: 
+Reference ID: payday_Jahanvi Soni
+Status: Verified
+Completed At: 2025-10-07 14:01:37
+----------------------------------------
+💳 Account #1: N/A
+- Type: chequing
+- Institution: 010
+- Current Balance: 343.78
+- Available Balance: 156.22
+--------------------
+📊 Account Statistics:
+  - Mean Closing Balance: 340.11
+  - Mean Closing Balance 30: 216.43
+  - Debits 30 Count: 65
+  - Credits 30 Count: 17
+  - Debits 30 Total: 10420.81
+  - Credits 30 Total: 10373.02
+  - Returns 30 Count: 0
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 0.00
+  - Returns 30 Net: 0.00
+  - Loans 30 Count: 12
+  - Loans 30 Debits: 2220.15
+  - Loans 30 Credits: 3085.22
+  - Loans 30 Net: 865.07
+  - Payday 30 Count: 12
+  - Payday 30 Debits: 2220.15
+  - Payday 30 Credits: 3085.22
+  - Payday 30 Net: 865.07
+  - Overdraft 30 Count: 30
+  - Overdraft 30 Debits: 4027.20
+  - Overdraft 30 Credits: 189.22
+  - Overdraft 30 Net: -3837.98
+  - Debits 60 Count: 127
+  - Credits 60 Count: 45
+  - Debits 60 Total: 39794.98
+  - Credits 60 Total: 39267.97
+  - Returns 60 Count: 0
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 0.00
+  - Returns 60 Net: 0.00
+  - Loans 60 Count: 16
+  - Loans 60 Debits: 2394.95
+  - Loans 60 Credits: 3835.22
+  - Loans 60 Net: 1440.27
+  - Payday 60 Count: 16
+  - Payday 60 Debits: 2394.95
+  - Payday 60 Credits: 3835.22
+  - Payday 60 Net: 1440.27
+  - Overdraft 60 Count: 37
+  - Overdraft 60 Debits: 6836.52
+  - Overdraft 60 Credits: 189.22
+  - Overdraft 60 Net: -6647.30
+  - Debits 90 Count: 192
+  - Credits 90 Count: 57
+  - Debits 90 Total: 44812.88
+  - Credits 90 Total: 44296.96
+  - Returns 90 Count: 0
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 0.00
+  - Returns 90 Net: 0.00
+  - Loans 90 Count: 18
+  - Loans 90 Debits: 2597.20
+  - Loans 90 Credits: 3835.22
+  - Loans 90 Net: 1238.02
+  - Payday 90 Count: 18
+  - Payday 90 Debits: 2597.20
+  - Payday 90 Credits: 3835.22
+  - Payday 90 Net: 1238.02
+  - Overdraft 90 Count: 48
+  - Overdraft 90 Debits: 7176.43
+  - Overdraft 90 Credits: 189.22
+  - Overdraft 90 Net: -6987.21
+  - Debits 180 Count: 383
+  - Credits 180 Count: 96
+  - Debits 180 Total: 64731.79
+  - Credits 180 Total: 64071.71
+  - Returns 180 Count: 0
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 0.00
+  - Returns 180 Net: 0.00
+  - Loans 180 Count: 22
+  - Loans 180 Debits: 2902.55
+  - Loans 180 Credits: 3835.22
+  - Loans 180 Net: 932.67
+  - Payday 180 Count: 22
+  - Payday 180 Debits: 2902.55
+  - Payday 180 Credits: 3835.22
+  - Payday 180 Net: 932.67
+  - Overdraft 180 Count: 55
+  - Overdraft 180 Debits: 7259.40
+  - Overdraft 180 Credits: 191.22
+  - Overdraft 180 Net: -7068.18
+  - Debits 365 Count: 764
+  - Credits 365 Count: 185
+  - Debits 365 Total: 118839.88
+  - Credits 365 Total: 118051.37
+  - Returns 365 Count: 0
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 0.00
+  - Returns 365 Net: 0.00
+  - Loans 365 Count: 25
+  - Loans 365 Debits: 5902.55
+  - Loans 365 Credits: 6835.22
+  - Loans 365 Net: 932.67
+  - Payday 365 Count: 25
+  - Payday 365 Debits: 5902.55
+  - Payday 365 Credits: 6835.22
+  - Payday 365 Net: 932.67
+  - Overdraft 365 Count: 55
+  - Overdraft 365 Debits: 7259.40
+  - Overdraft 365 Credits: 191.22
+  - Overdraft 365 Net: -7068.18
+  - Mean Closing Balance 60: 448.28
+  - Mean Closing Balance 90: 340.11
+  - Mean Closing Balance 180: 550.82
+  - Mean Closing Balance 365: 773.82
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: True
+  - Days Of History: 393
+  - Mean Balance After Payroll: 954.05
+  - Current Overdraft: True
+  - Quarter All Time: {'number_of_deposit': '199', 'amount_of_deposit': '121911.25', 'average_number_of_deposit': '66.33', 'average_amount_of_deposit': '40637.08', 'highest_deposit': '8359.25', 'lowest_deposit': '0.05', 'number_of_withdrawal': '824', 'amount_of_withdrawal': '122497.21', 'average_number_of_withdrawal': '274.67', 'average_amount_of_withdrawal': '40832.40', 'highest_withdrawal': '6340.00', 'lowest_withdrawal': '0.01', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '8596.37', 'lowest_balance': '-481.98', 'average_balance': '799.96', 'highest_overdraft': '-0.82', 'lowest_overdraft': '-481.98', 'number_of_overdraft': '55', 'average_amount_overdraft': '-197.54', 'newest_transaction': '2025-10-07', 'oldest_transaction': '2024-09-09'}
+  - Quarter 3 Months: {'number_of_deposit': '57', 'amount_of_deposit': '44296.96', 'average_number_of_deposit': '19.00', 'average_amount_of_deposit': '14765.65', 'highest_deposit': '7500.00', 'lowest_deposit': '4.00', 'number_of_withdrawal': '192', 'amount_of_withdrawal': '44812.88', 'average_number_of_withdrawal': '64.00', 'average_amount_of_withdrawal': '14937.63', 'highest_withdrawal': '6340.00', 'lowest_withdrawal': '0.01', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '7271.08', 'lowest_balance': '-481.98', 'average_balance': '517.53', 'highest_overdraft': '-6.49', 'lowest_overdraft': '-481.98', 'number_of_overdraft': '48', 'average_amount_overdraft': '-225.43', 'newest_transaction': '2025-10-07', 'oldest_transaction': '2025-07-10'}
+  - Quarter 6 Months: {'number_of_deposit': '37', 'amount_of_deposit': '19726.76', 'average_number_of_deposit': '12.33', 'average_amount_of_deposit': '6575.59', 'highest_deposit': '3000.00', 'lowest_deposit': '2.00', 'number_of_withdrawal': '187', 'amount_of_withdrawal': '19822.93', 'average_number_of_withdrawal': '62.33', 'average_amount_of_withdrawal': '6607.64', 'highest_withdrawal': '2200.00', 'lowest_withdrawal': '1.19', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '3465.53', 'lowest_balance': '-11.22', 'average_balance': '788.97', 'highest_overdraft': '-0.82', 'lowest_overdraft': '-11.22', 'number_of_overdraft': '7', 'average_amount_overdraft': '-6.29', 'newest_transaction': '2025-07-08', 'oldest_transaction': '2025-04-11'}
+  - Quarter 9 Months: {'number_of_deposit': '45', 'amount_of_deposit': '31621.53', 'average_number_of_deposit': '15.00', 'average_amount_of_deposit': '10540.51', 'highest_deposit': '8359.25', 'lowest_deposit': '0.05', 'number_of_withdrawal': '139', 'amount_of_withdrawal': '35845.38', 'average_number_of_withdrawal': '46.33', 'average_amount_of_withdrawal': '11948.46', 'highest_withdrawal': '4400.00', 'lowest_withdrawal': '1.34', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '8596.37', 'lowest_balance': '79.47', 'average_balance': '1544.54', 'highest_overdraft': '0.00', 'lowest_overdraft': '0.00', 'number_of_overdraft': '0', 'average_amount_overdraft': '0.00', 'newest_transaction': '2025-04-09', 'oldest_transaction': '2025-01-13'}
+  - Quarter 12 Months: {'number_of_deposit': '38', 'amount_of_deposit': '16034.47', 'average_number_of_deposit': '12.67', 'average_amount_of_deposit': '5344.82', 'highest_deposit': '1330.46', 'lowest_deposit': '11.79', 'number_of_withdrawal': '229', 'amount_of_withdrawal': '17425.41', 'average_number_of_withdrawal': '76.33', 'average_amount_of_withdrawal': '5808.47', 'highest_withdrawal': '1100.00', 'lowest_withdrawal': '0.99', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '1796.27', 'lowest_balance': '50.66', 'average_balance': '609.91', 'highest_overdraft': '0.00', 'lowest_overdraft': '0.00', 'number_of_overdraft': '0', 'average_amount_overdraft': '0.00', 'newest_transaction': '2025-01-09', 'oldest_transaction': '2024-10-15'}
+  - Employer Monthly Income: {'0_months_ago': '0.00', '1_months_ago': '2044.71', '2_months_ago': '3403.02', '3_months_ago': '1961.04', '4_months_ago': '2164.59', '5_months_ago': '1938.78', '6_months_ago': '1776.14', '7_months_ago': '1957.85', '8_months_ago': '0.00', '9_months_ago': '2872.53', '10_months_ago': '2413.85', '11_months_ago': '4146.25', '12_months_ago': '4324.20'}
+  - Government Monthly Income: {'0_months_ago': '0.00', '1_months_ago': '0.00', '2_months_ago': '0.00', '3_months_ago': '0.00', '4_months_ago': '0.00', '5_months_ago': '0.00', '6_months_ago': '0.00', '7_months_ago': '0.00', '8_months_ago': '0.00', '9_months_ago': '0.00', '10_months_ago': '0.00', '11_months_ago': '0.00', '12_months_ago': '0.00'}
+  - Total Monthly Credit: {'0_months_ago': '2508.71', '1_months_ago': '14377.91', '2_months_ago': '25545.08', '3_months_ago': '3099.36', '4_months_ago': '7545.36', '5_months_ago': '6513.46', '6_months_ago': '6350.81', '7_months_ago': '13303.42', '8_months_ago': '4938.15', '9_months_ago': '19208.56', '10_months_ago': '5272.69', '11_months_ago': '4745.22', '12_months_ago': '5803.38'}
+  - Government Monthly Income Freq: {'0_months_ago': '0', '1_months_ago': '0', '2_months_ago': '0', '3_months_ago': '0', '4_months_ago': '0', '5_months_ago': '0', '6_months_ago': '0', '7_months_ago': '0', '8_months_ago': '0', '9_months_ago': '0', '10_months_ago': '0', '11_months_ago': '0', '12_months_ago': '0'}
+  - Employer Monthly Income Freq: {'0_months_ago': '0', '1_months_ago': '2', '2_months_ago': '3', '3_months_ago': '2', '4_months_ago': '2', '5_months_ago': '2', '6_months_ago': '2', '7_months_ago': '2', '8_months_ago': '0', '9_months_ago': '3', '10_months_ago': '2', '11_months_ago': '6', '12_months_ago': '8'}
+  - Average Monthly Employer Income: 2205.16
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 6502.78
+  - Average Monthly Free Cash Flow: 17457.75
+  - Employer Income 30 To Average: 0.93
+  - Total Deposit Trend: 1.19
+  - Transfer Debit Count: 88
+  - Transfer Debit Total: 48153.46
+  - Transfer Credit Count: 114
+  - Transfer Credit Total: 65758.60
+  - Transfer Net: 17605.14
+  - Health And Fitness Debit Count: 73
+  - Health And Fitness Debit Total: 2010.24
+  - Health And Fitness Credit Count: 0
+  - Health And Fitness Credit Total: 0.00
+  - Health And Fitness Net: -2010.24
+  - Income Debit Count: 0
+  - Income Debit Total: 0.00
+  - Income Credit Count: 33
+  - Income Credit Total: 28502.96
+  - Income Net: 28502.96
+  - Fees And Charges Debit Count: 134
+  - Fees And Charges Debit Total: 16337.11
+  - Fees And Charges Credit Count: 20
+  - Fees And Charges Credit Total: 23293.88
+  - Fees And Charges Net: 6956.77
+  - Shopping Debit Count: 197
+  - Shopping Debit Total: 22116.20
+  - Shopping Credit Count: 3
+  - Shopping Credit Total: 276.97
+  - Shopping Net: -21839.23
+  - Home Debit Count: 10
+  - Home Debit Total: 11418.89
+  - Home Credit Count: 0
+  - Home Credit Total: 0.00
+  - Home Net: -11418.89
+  - Auto And Transport Debit Count: 56
+  - Auto And Transport Debit Total: 1229.12
+  - Auto And Transport Credit Count: 14
+  - Auto And Transport Credit Total: 136.84
+  - Auto And Transport Net: -1092.28
+  - Entertainment Debit Count: 85
+  - Entertainment Debit Total: 13743.00
+  - Entertainment Credit Count: 3
+  - Entertainment Credit Total: 329.95
+  - Entertainment Net: -13413.05
+  - Food And Dining Debit Count: 113
+  - Food And Dining Debit Total: 2900.99
+  - Food And Dining Credit Count: 0
+  - Food And Dining Credit Total: 0.00
+  - Food And Dining Net: -2900.99
+  - Bills And Utilities Debit Count: 7
+  - Bills And Utilities Debit Total: 401.68
+  - Bills And Utilities Credit Count: 0
+  - Bills And Utilities Credit Total: 0.00
+  - Bills And Utilities Net: -401.68
+  - Travel Debit Count: 1
+  - Travel Debit Total: 288.54
+  - Travel Credit Count: 0
+  - Travel Credit Total: 0.00
+  - Travel Net: -288.54
+  - Insurance Debit Count: 5
+  - Insurance Debit Total: 421.88
+  - Insurance Credit Count: 1
+  - Insurance Credit Total: 136.17
+  - Insurance Net: -285.71
+  - Monthly Category Stats: [{'start': '2025-10-01', 'end': '2025-10-31', 'result': {'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '3', 'transfer_credit_total': '278.71', 'transfer_net': '278.71', 'fees_and_charges_debit_count': '3', 'fees_and_charges_debit_total': '14.25', 'fees_and_charges_credit_count': '4', 'fees_and_charges_credit_total': '2230.00', 'fees_and_charges_net': '2215.75', 'shopping_debit_count': '17', 'shopping_debit_total': '4352.46', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-4352.46', 'entertainment_debit_count': '2', 'entertainment_debit_total': '8.00', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-8.00', 'food_and_dining_debit_count': '3', 'food_and_dining_debit_total': '48.45', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-48.45', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '79.03', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-79.03'}}, {'start': '2025-09-01', 'end': '2025-09-30', 'result': {'transfer_debit_count': '7', 'transfer_debit_total': '4710.00', 'transfer_credit_count': '5', 'transfer_credit_total': '8532.60', 'transfer_net': '3822.60', 'health_and_fitness_debit_count': '1', 'health_and_fitness_debit_total': '3.60', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-3.60', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '2044.71', 'income_net': '2044.71', 'fees_and_charges_debit_count': '21', 'fees_and_charges_debit_total': '3935.22', 'fees_and_charges_credit_count': '8', 'fees_and_charges_credit_total': '3800.60', 'fees_and_charges_net': '-134.62', 'shopping_debit_count': '11', 'shopping_debit_total': '2107.18', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-2107.18', 'home_debit_count': '2', 'home_debit_total': '2208.39', 'home_credit_count': '0', 'home_credit_total': '0.00', 'home_net': '-2208.39', 'auto_and_transport_debit_count': '1', 'auto_and_transport_debit_total': '11.92', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-11.92', 'entertainment_debit_count': '4', 'entertainment_debit_total': '390.48', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-390.48', 'food_and_dining_debit_count': '5', 'food_and_dining_debit_total': '78.13', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-78.13', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '47.91', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-47.91'}}, {'start': '2025-08-01', 'end': '2025-08-31', 'result': {'transfer_debit_count': '4', 'transfer_debit_total': '1926.00', 'transfer_credit_count': '21', 'transfer_credit_total': '13771.45', 'transfer_net': '11845.45', 'health_and_fitness_debit_count': '6', 'health_and_fitness_debit_total': '34.94', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-34.94', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '3', 'income_credit_total': '3403.02', 'income_net': '3403.02', 'fees_and_charges_debit_count': '14', 'fees_and_charges_debit_total': '1280.32', 'fees_and_charges_credit_count': '2', 'fees_and_charges_credit_total': '8072.50', 'fees_and_charges_net': '6792.18', 'shopping_debit_count': '9', 'shopping_debit_total': '7668.77', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-7668.77', 'home_debit_count': '2', 'home_debit_total': '2204.50', 'home_credit_count': '0', 'home_credit_total': '0.00', 'home_net': '-2204.50', 'auto_and_transport_debit_count': '1', 'auto_and_transport_debit_total': '26.41', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-26.41', 'entertainment_debit_count': '20', 'entertainment_debit_total': '11356.17', 'entertainment_credit_count': '1', 'entertainment_credit_total': '298.11', 'entertainment_net': '-11058.06', 'food_and_dining_debit_count': '4', 'food_and_dining_debit_total': '170.61', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-170.61', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '57.85', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-57.85'}}, {'start': '2025-07-01', 'end': '2025-07-31', 'result': {'transfer_debit_count': '5', 'transfer_debit_total': '587.76', 'transfer_credit_count': '9', 'transfer_credit_total': '1094.66', 'transfer_net': '506.90', 'health_and_fitness_debit_count': '8', 'health_and_fitness_debit_total': '179.05', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-179.05', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '1961.04', 'income_net': '1961.04', 'fees_and_charges_debit_count': '11', 'fees_and_charges_debit_total': '754.68', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-754.68', 'shopping_debit_count': '17', 'shopping_debit_total': '870.99', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-870.99', 'home_debit_count': '1', 'home_debit_total': '6.00', 'home_credit_count': '0', 'home_credit_total': '0.00', 'home_net': '-6.00', 'auto_and_transport_debit_count': '12', 'auto_and_transport_debit_total': '190.57', 'auto_and_transport_credit_count': '4', 'auto_and_transport_credit_total': '43.66', 'auto_and_transport_net': '-146.91', 'entertainment_debit_count': '11', 'entertainment_debit_total': '421.81', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-421.81', 'food_and_dining_debit_count': '12', 'food_and_dining_debit_total': '231.60', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-231.60', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '50.84', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-50.84'}}, {'start': '2025-06-01', 'end': '2025-06-30', 'result': {'transfer_debit_count': '5', 'transfer_debit_total': '1994.00', 'transfer_credit_count': '8', 'transfer_credit_total': '5359.35', 'transfer_net': '3365.35', 'health_and_fitness_debit_count': '4', 'health_and_fitness_debit_total': '130.43', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-130.43', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '2164.59', 'income_net': '2164.59', 'fees_and_charges_debit_count': '8', 'fees_and_charges_debit_total': '629.94', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-629.94', 'shopping_debit_count': '13', 'shopping_debit_total': '863.57', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-863.57', 'home_debit_count': '2', 'home_debit_total': '4400.00', 'home_credit_count': '0', 'home_credit_total': '0.00', 'home_net': '-4400.00', 'auto_and_transport_debit_count': '6', 'auto_and_transport_debit_total': '134.51', 'auto_and_transport_credit_count': '1', 'auto_and_transport_credit_total': '21.42', 'auto_and_transport_net': '-113.09', 'entertainment_debit_count': '24', 'entertainment_debit_total': '1233.06', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-1233.06', 'food_and_dining_debit_count': '6', 'food_and_dining_debit_total': '214.65', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-214.65', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '59.64', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-59.64'}}, {'start': '2025-05-01', 'end': '2025-05-31', 'result': {'transfer_debit_count': '3', 'transfer_debit_total': '1550.00', 'transfer_credit_count': '5', 'transfer_credit_total': '4516.60', 'transfer_net': '2966.60', 'health_and_fitness_debit_count': '5', 'health_and_fitness_debit_total': '132.63', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-132.63', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '1938.78', 'income_net': '1938.78', 'fees_and_charges_debit_count': '8', 'fees_and_charges_debit_total': '724.85', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-724.85', 'shopping_debit_count': '20', 'shopping_debit_total': '1537.42', 'shopping_credit_count': '1', 'shopping_credit_total': '8.01', 'shopping_net': '-1529.41', 'auto_and_transport_debit_count': '6', 'auto_and_transport_debit_total': '246.04', 'auto_and_transport_credit_count': '1', 'auto_and_transport_credit_total': '50.07', 'auto_and_transport_net': '-195.97', 'entertainment_debit_count': '14', 'entertainment_debit_total': '169.93', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-169.93', 'food_and_dining_debit_count': '4', 'food_and_dining_debit_total': '142.92', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-142.92', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '68.30', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-68.30'}}, {'start': '2025-04-01', 'end': '2025-04-30', 'result': {'transfer_debit_count': '6', 'transfer_debit_total': '1892.90', 'transfer_credit_count': '10', 'transfer_credit_total': '4374.64', 'transfer_net': '2481.74', 'health_and_fitness_debit_count': '9', 'health_and_fitness_debit_total': '42.32', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-42.32', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '1776.14', 'income_net': '1776.14', 'fees_and_charges_debit_count': '10', 'fees_and_charges_debit_total': '1386.57', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-1386.57', 'home_debit_count': '1', 'home_debit_total': '2200.00', 'home_credit_count': '0', 'home_credit_total': '0.00', 'home_net': '-2200.00', 'shopping_debit_count': '12', 'shopping_debit_total': '803.31', 'shopping_credit_count': '1', 'shopping_credit_total': '158.04', 'shopping_net': '-645.27', 'auto_and_transport_debit_count': '5', 'auto_and_transport_debit_total': '184.17', 'auto_and_transport_credit_count': '7', 'auto_and_transport_credit_total': '10.15', 'auto_and_transport_net': '-174.02', 'entertainment_debit_count': '5', 'entertainment_debit_total': '73.05', 'entertainment_credit_count': '2', 'entertainment_credit_total': '31.84', 'entertainment_net': '-41.21', 'food_and_dining_debit_count': '10', 'food_and_dining_debit_total': '507.02', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-507.02'}}, {'start': '2025-03-01', 'end': '2025-03-31', 'result': {'transfer_debit_count': '10', 'transfer_debit_total': '10872.72', 'transfer_credit_count': '12', 'transfer_credit_total': '10934.09', 'transfer_net': '61.37', 'health_and_fitness_debit_count': '6', 'health_and_fitness_debit_total': '179.26', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-179.26', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '1957.85', 'income_net': '1957.85', 'fees_and_charges_debit_count': '9', 'fees_and_charges_debit_total': '773.35', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '164.39', 'fees_and_charges_net': '-608.96', 'shopping_debit_count': '15', 'shopping_debit_total': '1184.51', 'shopping_credit_count': '1', 'shopping_credit_total': '110.92', 'shopping_net': '-1073.59', 'home_debit_count': '2', 'home_debit_total': '400.00', 'home_credit_count': '0', 'home_credit_total': '0.00', 'home_net': '-400.00', 'auto_and_transport_debit_count': '10', 'auto_and_transport_debit_total': '195.58', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-195.58', 'food_and_dining_debit_count': '9', 'food_and_dining_debit_total': '469.88', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-469.88', 'insurance_debit_count': '3', 'insurance_debit_total': '383.22', 'insurance_credit_count': '1', 'insurance_credit_total': '136.17', 'insurance_net': '-247.05'}}, {'start': '2025-02-01', 'end': '2025-02-28', 'result': {'transfer_debit_count': '6', 'transfer_debit_total': '2256.26', 'transfer_credit_count': '6', 'transfer_credit_total': '4938.15', 'transfer_net': '2681.89', 'health_and_fitness_debit_count': '1', 'health_and_fitness_debit_total': '1.34', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-1.34', 'fees_and_charges_debit_count': '6', 'fees_and_charges_debit_total': '570.63', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-570.63', 'shopping_debit_count': '4', 'shopping_debit_total': '96.29', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-96.29', 'travel_debit_count': '1', 'travel_debit_total': '288.54', 'travel_credit_count': '0', 'travel_credit_total': '0.00', 'travel_net': '-288.54'}}, {'start': '2025-01-01', 'end': '2025-01-31', 'result': {'transfer_debit_count': '17', 'transfer_debit_total': '14042.33', 'transfer_credit_count': '15', 'transfer_credit_total': '7332.00', 'transfer_net': '-6710.33', 'health_and_fitness_debit_count': '5', 'health_and_fitness_debit_total': '77.76', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-77.76', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '3', 'income_credit_total': '2872.53', 'income_net': '2872.53', 'fees_and_charges_debit_count': '12', 'fees_and_charges_debit_total': '3650.59', 'fees_and_charges_credit_count': '3', 'fees_and_charges_credit_total': '8992.49', 'fees_and_charges_net': '5341.90', 'shopping_debit_count': '14', 'shopping_debit_total': '674.00', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-674.00', 'auto_and_transport_debit_count': '2', 'auto_and_transport_debit_total': '23.08', 'auto_and_transport_credit_count': '1', 'auto_and_transport_credit_total': '11.54', 'auto_and_transport_net': '-11.54', 'entertainment_debit_count': '2', 'entertainment_debit_total': '63.04', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-63.04', 'food_and_dining_debit_count': '11', 'food_and_dining_debit_total': '253.95', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-253.95'}}, {'start': '2024-12-01', 'end': '2024-12-31', 'result': {'transfer_debit_count': '9', 'transfer_debit_total': '3352.90', 'transfer_credit_count': '7', 'transfer_credit_total': '2858.84', 'transfer_net': '-494.06', 'health_and_fitness_debit_count': '12', 'health_and_fitness_debit_total': '409.30', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-409.30', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '2413.85', 'income_net': '2413.85', 'fees_and_charges_debit_count': '10', 'fees_and_charges_debit_total': '451.92', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-451.92', 'shopping_debit_count': '55', 'shopping_debit_total': '1130.78', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-1130.78', 'auto_and_transport_debit_count': '5', 'auto_and_transport_debit_total': '92.10', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-92.10', 'entertainment_debit_count': '1', 'entertainment_debit_total': '17.50', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-17.50', 'food_and_dining_debit_count': '19', 'food_and_dining_debit_total': '280.39', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-280.39', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '38.11', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-38.11'}}, {'start': '2024-11-01', 'end': '2024-11-30', 'result': {'transfer_debit_count': '8', 'transfer_debit_total': '2878.93', 'transfer_credit_count': '3', 'transfer_credit_total': '582.02', 'transfer_net': '-2296.91', 'health_and_fitness_debit_count': '6', 'health_and_fitness_debit_total': '129.53', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-129.53', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '6', 'income_credit_total': '4146.25', 'income_net': '4146.25', 'fees_and_charges_debit_count': '9', 'fees_and_charges_debit_total': '542.11', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '16.95', 'fees_and_charges_net': '-525.16', 'shopping_debit_count': '4', 'shopping_debit_total': '516.23', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-516.23', 'auto_and_transport_debit_count': '3', 'auto_and_transport_debit_total': '63.05', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-63.05', 'entertainment_debit_count': '2', 'entertainment_debit_total': '9.96', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-9.96', 'food_and_dining_debit_count': '15', 'food_and_dining_debit_total': '329.30', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-329.30'}}]
+----------------------------------------
+💳 Account #2: N/A
+- Type: saving
+- Institution: 010
+- Current Balance: 43.24
+- Available Balance: 0.00
+--------------------
+📊 Account Statistics:
+  - Mean Closing Balance: -8.78
+  - Mean Closing Balance 30: -34.61
+  - Debits 30 Count: 3
+  - Credits 30 Count: 1
+  - Debits 30 Total: 697.55
+  - Credits 30 Total: 652.08
+  - Returns 30 Count: 1
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 652.08
+  - Returns 30 Net: 652.08
+  - Loans 30 Count: 0
+  - Loans 30 Debits: 0.00
+  - Loans 30 Credits: 0.00
+  - Loans 30 Net: 0.00
+  - Payday 30 Count: 0
+  - Payday 30 Debits: 0.00
+  - Payday 30 Credits: 0.00
+  - Payday 30 Net: 0.00
+  - Overdraft 30 Count: 4
+  - Overdraft 30 Debits: 697.55
+  - Overdraft 30 Credits: 652.08
+  - Overdraft 30 Net: -45.47
+  - Debits 60 Count: 4
+  - Credits 60 Count: 2
+  - Debits 60 Total: 1267.55
+  - Credits 60 Total: 1224.08
+  - Returns 60 Count: 1
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 652.08
+  - Returns 60 Net: 652.08
+  - Loans 60 Count: 0
+  - Loans 60 Debits: 0.00
+  - Loans 60 Credits: 0.00
+  - Loans 60 Net: 0.00
+  - Payday 60 Count: 0
+  - Payday 60 Debits: 0.00
+  - Payday 60 Credits: 0.00
+  - Payday 60 Net: 0.00
+  - Overdraft 60 Count: 4
+  - Overdraft 60 Debits: 697.55
+  - Overdraft 60 Credits: 652.08
+  - Overdraft 60 Net: -45.47
+  - Debits 90 Count: 4
+  - Credits 90 Count: 2
+  - Debits 90 Total: 1267.55
+  - Credits 90 Total: 1224.08
+  - Returns 90 Count: 1
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 652.08
+  - Returns 90 Net: 652.08
+  - Loans 90 Count: 0
+  - Loans 90 Debits: 0.00
+  - Loans 90 Credits: 0.00
+  - Loans 90 Net: 0.00
+  - Payday 90 Count: 0
+  - Payday 90 Debits: 0.00
+  - Payday 90 Credits: 0.00
+  - Payday 90 Net: 0.00
+  - Overdraft 90 Count: 4
+  - Overdraft 90 Debits: 697.55
+  - Overdraft 90 Credits: 652.08
+  - Overdraft 90 Net: -45.47
+  - Debits 180 Count: 8
+  - Credits 180 Count: 4
+  - Debits 180 Total: 1769.55
+  - Credits 180 Total: 1224.20
+  - Returns 180 Count: 1
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 652.08
+  - Returns 180 Net: 652.08
+  - Loans 180 Count: 0
+  - Loans 180 Debits: 0.00
+  - Loans 180 Credits: 0.00
+  - Loans 180 Net: 0.00
+  - Payday 180 Count: 0
+  - Payday 180 Debits: 0.00
+  - Payday 180 Credits: 0.00
+  - Payday 180 Net: 0.00
+  - Overdraft 180 Count: 4
+  - Overdraft 180 Debits: 697.55
+  - Overdraft 180 Credits: 652.08
+  - Overdraft 180 Net: -45.47
+  - Debits 365 Count: 28
+  - Credits 365 Count: 29
+  - Debits 365 Total: 7132.72
+  - Credits 365 Total: 6885.49
+  - Returns 365 Count: 2
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 813.05
+  - Returns 365 Net: 813.05
+  - Loans 365 Count: 0
+  - Loans 365 Debits: 0.00
+  - Loans 365 Credits: 0.00
+  - Loans 365 Net: 0.00
+  - Payday 365 Count: 0
+  - Payday 365 Debits: 0.00
+  - Payday 365 Credits: 0.00
+  - Payday 365 Net: 0.00
+  - Overdraft 365 Count: 6
+  - Overdraft 365 Debits: 1019.49
+  - Overdraft 365 Credits: 652.08
+  - Overdraft 365 Net: -367.41
+  - Mean Closing Balance 60: -13.97
+  - Mean Closing Balance 90: -8.78
+  - Mean Closing Balance 180: 71.61
+  - Mean Closing Balance 365: 340.19
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: True
+  - Days Of History: 393
+  - Current Overdraft: True
+  - Quarter All Time: {'number_of_deposit': '30', 'amount_of_deposit': '6885.63', 'average_number_of_deposit': '10.00', 'average_amount_of_deposit': '2295.21', 'highest_deposit': '2000.00', 'lowest_deposit': '0.01', 'number_of_withdrawal': '30', 'amount_of_withdrawal': '7872.72', 'average_number_of_withdrawal': '10.00', 'average_amount_of_withdrawal': '2624.24', 'highest_withdrawal': '700.00', 'lowest_withdrawal': '0.26', 'number_of_nsf': '2', 'average_number_nsf': '0.67', 'highest_balance': '2291.57', 'lowest_balance': '-694.85', 'average_balance': '384.60', 'highest_overdraft': '-42.77', 'lowest_overdraft': '-694.85', 'number_of_overdraft': '6', 'average_amount_overdraft': '-268.37', 'newest_transaction': '2025-09-29', 'oldest_transaction': '2024-09-09'}
+  - Quarter 3 Months: {'number_of_deposit': '2', 'amount_of_deposit': '1224.08', 'average_number_of_deposit': '0.67', 'average_amount_of_deposit': '408.03', 'highest_deposit': '652.08', 'lowest_deposit': '572.00', 'number_of_withdrawal': '4', 'amount_of_withdrawal': '1267.55', 'average_number_of_withdrawal': '1.33', 'average_amount_of_withdrawal': '422.52', 'highest_withdrawal': '652.08', 'lowest_withdrawal': '0.47', 'number_of_nsf': '1', 'average_number_nsf': '0.33', 'highest_balance': '572.23', 'lowest_balance': '-694.85', 'average_balance': '-142.71', 'highest_overdraft': '-42.77', 'lowest_overdraft': '-694.85', 'number_of_overdraft': '4', 'average_amount_overdraft': '-357.68', 'newest_transaction': '2025-09-29', 'oldest_transaction': '2025-08-25'}
+  - Quarter 6 Months: {'number_of_deposit': '2', 'amount_of_deposit': '0.12', 'average_number_of_deposit': '0.67', 'average_amount_of_deposit': '0.04', 'highest_deposit': '0.10', 'lowest_deposit': '0.02', 'number_of_withdrawal': '4', 'amount_of_withdrawal': '502.00', 'average_number_of_withdrawal': '1.33', 'average_amount_of_withdrawal': '167.33', 'highest_withdrawal': '300.00', 'lowest_withdrawal': '2.00', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '202.11', 'lowest_balance': '0.23', 'average_balance': '85.19', 'highest_overdraft': '0.00', 'lowest_overdraft': '0.00', 'number_of_overdraft': '0', 'average_amount_overdraft': '0.00', 'newest_transaction': '2025-06-09', 'oldest_transaction': '2025-04-30'}
+  - Quarter 9 Months: {'number_of_deposit': '11', 'amount_of_deposit': '3041.58', 'average_number_of_deposit': '3.67', 'average_amount_of_deposit': '1013.86', 'highest_deposit': '2000.00', 'lowest_deposit': '0.01', 'number_of_withdrawal': '11', 'amount_of_withdrawal': '2633.17', 'average_number_of_withdrawal': '3.67', 'average_amount_of_withdrawal': '877.72', 'highest_withdrawal': '700.00', 'lowest_withdrawal': '0.26', 'number_of_nsf': '1', 'average_number_nsf': '0.33', 'highest_balance': '2291.57', 'lowest_balance': '-112.21', 'average_balance': '361.83', 'highest_overdraft': '-67.27', 'lowest_overdraft': '-112.21', 'number_of_overdraft': '2', 'average_amount_overdraft': '-89.74', 'newest_transaction': '2025-04-07', 'oldest_transaction': '2025-01-31'}
+  - Quarter 12 Months: {'number_of_deposit': '14', 'amount_of_deposit': '2619.71', 'average_number_of_deposit': '4.67', 'average_amount_of_deposit': '873.24', 'highest_deposit': '587.37', 'lowest_deposit': '0.02', 'number_of_withdrawal': '9', 'amount_of_withdrawal': '2730.00', 'average_number_of_withdrawal': '3.00', 'average_amount_of_withdrawal': '910.00', 'highest_withdrawal': '700.00', 'lowest_withdrawal': '100.00', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': '1380.52', 'lowest_balance': '93.70', 'average_balance': '637.77', 'highest_overdraft': '0.00', 'lowest_overdraft': '0.00', 'number_of_overdraft': '0', 'average_amount_overdraft': '0.00', 'newest_transaction': '2025-01-07', 'oldest_transaction': '2024-10-17'}
+  - Employer Monthly Income: {'0_months_ago': '0.00', '1_months_ago': '0.00', '2_months_ago': '0.00', '3_months_ago': '0.00', '4_months_ago': '0.00', '5_months_ago': '0.00', '6_months_ago': '0.00', '7_months_ago': '0.00', '8_months_ago': '0.00', '9_months_ago': '0.00', '10_months_ago': '0.00', '11_months_ago': '0.00', '12_months_ago': '0.00'}
+  - Government Monthly Income: {'0_months_ago': '0.00', '1_months_ago': '0.00', '2_months_ago': '0.00', '3_months_ago': '0.00', '4_months_ago': '0.00', '5_months_ago': '0.00', '6_months_ago': '0.00', '7_months_ago': '0.00', '8_months_ago': '0.00', '9_months_ago': '0.00', '10_months_ago': '0.00', '11_months_ago': '0.00', '12_months_ago': '0.00'}
+  - Total Monthly Credit: {'0_months_ago': '0.00', '1_months_ago': '652.08', '2_months_ago': '572.00', '3_months_ago': '0.00', '4_months_ago': '0.00', '5_months_ago': '0.02', '6_months_ago': '300.37', '7_months_ago': '2200.27', '8_months_ago': '380.01', '9_months_ago': '361.03', '10_months_ago': '800.71', '11_months_ago': '1052.21', '12_months_ago': '566.79'}
+  - Government Monthly Income Freq: {'0_months_ago': '0', '1_months_ago': '0', '2_months_ago': '0', '3_months_ago': '0', '4_months_ago': '0', '5_months_ago': '0', '6_months_ago': '0', '7_months_ago': '0', '8_months_ago': '0', '9_months_ago': '0', '10_months_ago': '0', '11_months_ago': '0', '12_months_ago': '0'}
+  - Employer Monthly Income Freq: {'0_months_ago': '0', '1_months_ago': '0', '2_months_ago': '0', '3_months_ago': '0', '4_months_ago': '0', '5_months_ago': '0', '6_months_ago': '0', '7_months_ago': '0', '8_months_ago': '0', '9_months_ago': '0', '10_months_ago': '0', '11_months_ago': '0', '12_months_ago': '0'}
+  - Average Monthly Employer Income: 0.00
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 529.66
+  - Average Monthly Free Cash Flow: 1135.26
+  - Employer Income 30 To Average: n/a
+  - Total Deposit Trend: 1.23
+  - Fees And Charges Debit Count: 10
+  - Fees And Charges Debit Total: 1240.72
+  - Fees And Charges Credit Count: 13
+  - Fees And Charges Credit Total: 1386.40
+  - Fees And Charges Net: 145.68
+  - Transfer Debit Count: 19
+  - Transfer Debit Total: 5982.00
+  - Transfer Credit Count: 13
+  - Transfer Credit Total: 5498.73
+  - Transfer Net: -483.27
+  - Income Debit Count: 0
+  - Income Debit Total: 0.00
+  - Income Credit Count: 3
+  - Income Credit Total: 0.36
+  - Income Net: 0.36
+  - Monthly Category Stats: [{'start': '2025-09-01', 'end': '2025-09-30', 'result': {'fees_and_charges_debit_count': '3', 'fees_and_charges_debit_total': '697.55', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '652.08', 'fees_and_charges_net': '-45.47'}}, {'start': '2025-08-01', 'end': '2025-08-31', 'result': {'transfer_debit_count': '1', 'transfer_debit_total': '570.00', 'transfer_credit_count': '0', 'transfer_credit_total': '0.00', 'transfer_net': '-570.00', 'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '572.00', 'fees_and_charges_net': '572.00'}}, {'start': '2025-06-01', 'end': '2025-06-30', 'result': {'transfer_debit_count': '2', 'transfer_debit_total': '102.00', 'transfer_credit_count': '0', 'transfer_credit_total': '0.00', 'transfer_net': '-102.00'}}, {'start': '2025-05-01', 'end': '2025-05-31', 'result': {'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.02', 'fees_and_charges_net': '0.02'}}, {'start': '2025-04-01', 'end': '2025-04-30', 'result': {'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '2', 'fees_and_charges_credit_total': '0.37', 'fees_and_charges_net': '0.37', 'transfer_debit_count': '3', 'transfer_debit_total': '700.00', 'transfer_credit_count': '1', 'transfer_credit_total': '300.00', 'transfer_net': '-400.00'}}, {'start': '2025-03-01', 'end': '2025-03-31', 'result': {'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.27', 'fees_and_charges_net': '0.27', 'transfer_debit_count': '3', 'transfer_debit_total': '1790.00', 'transfer_credit_count': '2', 'transfer_credit_total': '2200.00', 'transfer_net': '410.00'}}, {'start': '2025-02-01', 'end': '2025-02-28', 'result': {'fees_and_charges_debit_count': '5', 'fees_and_charges_debit_total': '337.20', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.01', 'fees_and_charges_net': '-337.19', 'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '2', 'transfer_credit_total': '380.00', 'transfer_net': '380.00'}}, {'start': '2025-01-01', 'end': '2025-01-31', 'result': {'fees_and_charges_debit_count': '2', 'fees_and_charges_debit_total': '205.97', 'fees_and_charges_credit_count': '2', 'fees_and_charges_credit_total': '161.02', 'fees_and_charges_net': '-44.95', 'transfer_debit_count': '2', 'transfer_debit_total': '900.00', 'transfer_credit_count': '1', 'transfer_credit_total': '200.00', 'transfer_net': '-700.00', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '0.01', 'income_net': '0.01'}}, {'start': '2024-12-01', 'end': '2024-12-31', 'result': {'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '2', 'fees_and_charges_credit_total': '0.37', 'fees_and_charges_net': '0.37', 'transfer_debit_count': '2', 'transfer_debit_total': '800.00', 'transfer_credit_count': '2', 'transfer_credit_total': '800.01', 'transfer_net': '0.01', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '0.33', 'income_net': '0.33'}}, {'start': '2024-11-01', 'end': '2024-11-30', 'result': {'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.19', 'fees_and_charges_net': '0.19', 'transfer_debit_count': '1', 'transfer_debit_total': '400.00', 'transfer_credit_count': '3', 'transfer_credit_total': '1052.00', 'transfer_net': '652.00', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '0.02', 'income_net': '0.02'}}, {'start': '2024-10-01', 'end': '2024-10-31', 'result': {'fees_and_charges_debit_count': '0', 'fees_and_charges_debit_total': '0.00', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.07', 'fees_and_charges_net': '0.07', 'transfer_debit_count': '5', 'transfer_debit_total': '720.00', 'transfer_credit_count': '2', 'transfer_credit_total': '566.72', 'transfer_net': '-153.28'}}]
+----------------------------------------
+💳 Account #3: N/A
+- Type: credit-card
+- Institution: 010
+- Current Balance: 2493.55
+- Available Balance: N/A
+--------------------
+📊 Account Statistics:
+  - Debits 30 Count: 7
+  - Credits 30 Count: 3
+  - Debits 30 Total: 243.75
+  - Credits 30 Total: 166.73
+  - Returns 30 Count: 0
+  - Returns 30 Debits: 0.00
+  - Returns 30 Credits: 0.00
+  - Returns 30 Net: 0.00
+  - Loans 30 Count: 0
+  - Loans 30 Debits: 0.00
+  - Loans 30 Credits: 0.00
+  - Loans 30 Net: 0.00
+  - Payday 30 Count: 0
+  - Payday 30 Debits: 0.00
+  - Payday 30 Credits: 0.00
+  - Payday 30 Net: 0.00
+  - Overdraft 30 Count: 0
+  - Overdraft 30 Debits: 0.00
+  - Overdraft 30 Credits: 0.00
+  - Overdraft 30 Net: 0.00
+  - Debits 60 Count: 37
+  - Credits 60 Count: 7
+  - Debits 60 Total: 3287.61
+  - Credits 60 Total: 1676.73
+  - Returns 60 Count: 0
+  - Returns 60 Debits: 0.00
+  - Returns 60 Credits: 0.00
+  - Returns 60 Net: 0.00
+  - Loans 60 Count: 0
+  - Loans 60 Debits: 0.00
+  - Loans 60 Credits: 0.00
+  - Loans 60 Net: 0.00
+  - Payday 60 Count: 0
+  - Payday 60 Debits: 0.00
+  - Payday 60 Credits: 0.00
+  - Payday 60 Net: 0.00
+  - Overdraft 60 Count: 0
+  - Overdraft 60 Debits: 0.00
+  - Overdraft 60 Credits: 0.00
+  - Overdraft 60 Net: 0.00
+  - Debits 90 Count: 67
+  - Credits 90 Count: 11
+  - Debits 90 Total: 4221.33
+  - Credits 90 Total: 2544.19
+  - Returns 90 Count: 0
+  - Returns 90 Debits: 0.00
+  - Returns 90 Credits: 0.00
+  - Returns 90 Net: 0.00
+  - Loans 90 Count: 0
+  - Loans 90 Debits: 0.00
+  - Loans 90 Credits: 0.00
+  - Loans 90 Net: 0.00
+  - Payday 90 Count: 0
+  - Payday 90 Debits: 0.00
+  - Payday 90 Credits: 0.00
+  - Payday 90 Net: 0.00
+  - Overdraft 90 Count: 0
+  - Overdraft 90 Debits: 0.00
+  - Overdraft 90 Credits: 0.00
+  - Overdraft 90 Net: 0.00
+  - Debits 180 Count: 162
+  - Credits 180 Count: 19
+  - Debits 180 Total: 8281.30
+  - Credits 180 Total: 6611.19
+  - Returns 180 Count: 0
+  - Returns 180 Debits: 0.00
+  - Returns 180 Credits: 0.00
+  - Returns 180 Net: 0.00
+  - Loans 180 Count: 0
+  - Loans 180 Debits: 0.00
+  - Loans 180 Credits: 0.00
+  - Loans 180 Net: 0.00
+  - Payday 180 Count: 0
+  - Payday 180 Debits: 0.00
+  - Payday 180 Credits: 0.00
+  - Payday 180 Net: 0.00
+  - Overdraft 180 Count: 0
+  - Overdraft 180 Debits: 0.00
+  - Overdraft 180 Credits: 0.00
+  - Overdraft 180 Net: 0.00
+  - Debits 365 Count: 364
+  - Credits 365 Count: 36
+  - Debits 365 Total: 17386.52
+  - Credits 365 Total: 15234.66
+  - Returns 365 Count: 0
+  - Returns 365 Debits: 0.00
+  - Returns 365 Credits: 0.00
+  - Returns 365 Net: 0.00
+  - Loans 365 Count: 0
+  - Loans 365 Debits: 0.00
+  - Loans 365 Credits: 0.00
+  - Loans 365 Net: 0.00
+  - Payday 365 Count: 0
+  - Payday 365 Debits: 0.00
+  - Payday 365 Credits: 0.00
+  - Payday 365 Net: 0.00
+  - Overdraft 365 Count: 0
+  - Overdraft 365 Debits: 0.00
+  - Overdraft 365 Credits: 0.00
+  - Overdraft 365 Net: 0.00
+  - Mean Closing Balance 30: 0.00
+  - Mean Closing Balance 60: 0.00
+  - Mean Closing Balance 90: 0.00
+  - Mean Closing Balance 180: 0.00
+  - Mean Closing Balance 365: 0.00
+  - Has 30 Days: True
+  - Has 60 Days: True
+  - Has 90 Days: True
+  - Has 180 Days: True
+  - Has 365 Days: True
+  - Days Of History: 395
+  - Current Overdraft: False
+  - Quarter All Time: {'number_of_deposit': '42', 'amount_of_deposit': '17292.28', 'average_number_of_deposit': '14.00', 'average_amount_of_deposit': '5764.09', 'highest_deposit': '1500.00', 'lowest_deposit': '0.08', 'number_of_withdrawal': '412', 'amount_of_withdrawal': '19321.05', 'average_number_of_withdrawal': '137.33', 'average_amount_of_withdrawal': '6440.35', 'highest_withdrawal': '1500.00', 'lowest_withdrawal': '0.50', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': 'n/a', 'lowest_balance': 'n/a', 'average_balance': 'n/a', 'highest_overdraft': 'n/a', 'lowest_overdraft': 'n/a', 'number_of_overdraft': 'n/a', 'average_amount_overdraft': 'n/a', 'newest_transaction': '2025-10-05', 'oldest_transaction': '2024-09-07'}
+  - Quarter 3 Months: {'number_of_deposit': '11', 'amount_of_deposit': '2544.19', 'average_number_of_deposit': '3.67', 'average_amount_of_deposit': '848.06', 'highest_deposit': '1100.00', 'lowest_deposit': '0.08', 'number_of_withdrawal': '67', 'amount_of_withdrawal': '4221.33', 'average_number_of_withdrawal': '22.33', 'average_amount_of_withdrawal': '1407.11', 'highest_withdrawal': '1100.00', 'lowest_withdrawal': '3.14', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': 'n/a', 'lowest_balance': 'n/a', 'average_balance': 'n/a', 'highest_overdraft': 'n/a', 'lowest_overdraft': 'n/a', 'number_of_overdraft': 'n/a', 'average_amount_overdraft': 'n/a', 'newest_transaction': '2025-10-05', 'oldest_transaction': '2025-07-10'}
+  - Quarter 6 Months: {'number_of_deposit': '8', 'amount_of_deposit': '4067.00', 'average_number_of_deposit': '2.67', 'average_amount_of_deposit': '1355.67', 'highest_deposit': '1000.00', 'lowest_deposit': '50.00', 'number_of_withdrawal': '94', 'amount_of_withdrawal': '4054.97', 'average_number_of_withdrawal': '31.33', 'average_amount_of_withdrawal': '1351.66', 'highest_withdrawal': '199.95', 'lowest_withdrawal': '0.50', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': 'n/a', 'lowest_balance': 'n/a', 'average_balance': 'n/a', 'highest_overdraft': 'n/a', 'lowest_overdraft': 'n/a', 'number_of_overdraft': 'n/a', 'average_amount_overdraft': 'n/a', 'newest_transaction': '2025-07-08', 'oldest_transaction': '2025-04-11'}
+  - Quarter 9 Months: {'number_of_deposit': '7', 'amount_of_deposit': '4220.26', 'average_number_of_deposit': '2.33', 'average_amount_of_deposit': '1406.75', 'highest_deposit': '1500.00', 'lowest_deposit': '100.00', 'number_of_withdrawal': '72', 'amount_of_withdrawal': '4153.76', 'average_number_of_withdrawal': '24.00', 'average_amount_of_withdrawal': '1384.59', 'highest_withdrawal': '1500.00', 'lowest_withdrawal': '1.34', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': 'n/a', 'lowest_balance': 'n/a', 'average_balance': 'n/a', 'highest_overdraft': 'n/a', 'lowest_overdraft': 'n/a', 'number_of_overdraft': 'n/a', 'average_amount_overdraft': 'n/a', 'newest_transaction': '2025-04-09', 'oldest_transaction': '2025-01-11'}
+  - Quarter 12 Months: {'number_of_deposit': '10', 'amount_of_deposit': '4403.21', 'average_number_of_deposit': '3.33', 'average_amount_of_deposit': '1467.74', 'highest_deposit': '800.00', 'lowest_deposit': '92.03', 'number_of_withdrawal': '122', 'amount_of_withdrawal': '4777.10', 'average_number_of_withdrawal': '40.67', 'average_amount_of_withdrawal': '1592.37', 'highest_withdrawal': '259.18', 'lowest_withdrawal': '1.12', 'number_of_nsf': '0', 'average_number_nsf': '0.00', 'highest_balance': 'n/a', 'lowest_balance': 'n/a', 'average_balance': 'n/a', 'highest_overdraft': 'n/a', 'lowest_overdraft': 'n/a', 'number_of_overdraft': 'n/a', 'average_amount_overdraft': 'n/a', 'newest_transaction': '2025-01-07', 'oldest_transaction': '2024-10-15'}
+  - Employer Monthly Income: {'0_months_ago': '0.00', '1_months_ago': '0.00', '2_months_ago': '1800.00', '3_months_ago': '400.00', '4_months_ago': '0.00', '5_months_ago': '1500.00', '6_months_ago': '623.00', '7_months_ago': '730.00', '8_months_ago': '1340.26', '9_months_ago': '400.00', '10_months_ago': '0.00', '11_months_ago': '0.00', '12_months_ago': '0.00'}
+  - Government Monthly Income: {'0_months_ago': '0.00', '1_months_ago': '0.00', '2_months_ago': '0.00', '3_months_ago': '0.00', '4_months_ago': '0.00', '5_months_ago': '0.00', '6_months_ago': '0.00', '7_months_ago': '0.00', '8_months_ago': '0.00', '9_months_ago': '0.00', '10_months_ago': '0.00', '11_months_ago': '0.00', '12_months_ago': '0.00'}
+  - Total Monthly Credit: {'0_months_ago': '0.00', '1_months_ago': '276.73', '2_months_ago': '1800.00', '3_months_ago': '467.46', '4_months_ago': '1894.00', '5_months_ago': '1550.00', '6_months_ago': '773.00', '7_months_ago': '730.00', '8_months_ago': '1440.26', '9_months_ago': '1900.00', '10_months_ago': '2116.69', '11_months_ago': '1386.52', '12_months_ago': '1456.74'}
+  - Government Monthly Income Freq: {'0_months_ago': '0', '1_months_ago': '0', '2_months_ago': '0', '3_months_ago': '0', '4_months_ago': '0', '5_months_ago': '0', '6_months_ago': '0', '7_months_ago': '0', '8_months_ago': '0', '9_months_ago': '0', '10_months_ago': '0', '11_months_ago': '0', '12_months_ago': '0'}
+  - Employer Monthly Income Freq: {'0_months_ago': '0', '1_months_ago': '0', '2_months_ago': '3', '3_months_ago': '1', '4_months_ago': '0', '5_months_ago': '2', '6_months_ago': '1', '7_months_ago': '1', '8_months_ago': '2', '9_months_ago': '1', '10_months_ago': '0', '11_months_ago': '0', '12_months_ago': '0'}
+  - Average Monthly Employer Income: 485.23
+  - Average Monthly Govt Income: 0.00
+  - Average Monthly Non Employer Income: 749.93
+  - Average Monthly Free Cash Flow: 2615.24
+  - Employer Income 30 To Average: 0.00
+  - Total Deposit Trend: 0.13
+  - Transfer Debit Count: 11
+  - Transfer Debit Total: 588.70
+  - Transfer Credit Count: 21
+  - Transfer Credit Total: 8282.18
+  - Transfer Net: 7693.48
+  - Health And Fitness Debit Count: 40
+  - Health And Fitness Debit Total: 1016.72
+  - Health And Fitness Credit Count: 0
+  - Health And Fitness Credit Total: 0.00
+  - Health And Fitness Net: -1016.72
+  - Business Services Debit Count: 1
+  - Business Services Debit Total: 24.41
+  - Business Services Credit Count: 0
+  - Business Services Credit Total: 0.00
+  - Business Services Net: -24.41
+  - Income Debit Count: 2
+  - Income Debit Total: 19.16
+  - Income Credit Count: 12
+  - Income Credit Total: 6885.29
+  - Income Net: 6866.13
+  - Fees And Charges Debit Count: 19
+  - Fees And Charges Debit Total: 3881.66
+  - Fees And Charges Credit Count: 2
+  - Fees And Charges Credit Total: 0.54
+  - Fees And Charges Net: -3881.12
+  - Shopping Debit Count: 35
+  - Shopping Debit Total: 2504.76
+  - Shopping Credit Count: 0
+  - Shopping Credit Total: 0.00
+  - Shopping Net: -2504.76
+  - Auto And Transport Debit Count: 102
+  - Auto And Transport Debit Total: 4876.82
+  - Auto And Transport Credit Count: 0
+  - Auto And Transport Credit Total: 0.00
+  - Auto And Transport Net: -4876.82
+  - Entertainment Debit Count: 42
+  - Entertainment Debit Total: 875.09
+  - Entertainment Credit Count: 0
+  - Entertainment Credit Total: 0.00
+  - Entertainment Net: -875.09
+  - Food And Dining Debit Count: 91
+  - Food And Dining Debit Total: 2793.28
+  - Food And Dining Credit Count: 1
+  - Food And Dining Credit Total: 66.65
+  - Food And Dining Net: -2726.63
+  - Bills And Utilities Debit Count: 11
+  - Bills And Utilities Debit Total: 623.40
+  - Bills And Utilities Credit Count: 0
+  - Bills And Utilities Credit Total: 0.00
+  - Bills And Utilities Net: -623.40
+  - Travel Debit Count: 6
+  - Travel Debit Total: 136.30
+  - Travel Credit Count: 0
+  - Travel Credit Total: 0.00
+  - Travel Net: -136.30
+  - Education Debit Count: 5
+  - Education Debit Total: 58.85
+  - Education Credit Count: 0
+  - Education Credit Total: 0.00
+  - Education Net: -58.85
+  - Monthly Category Stats: [{'start': '2025-10-01', 'end': '2025-10-31', 'result': {'auto_and_transport_debit_count': '2', 'auto_and_transport_debit_total': '30.00', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-30.00'}}, {'start': '2025-09-01', 'end': '2025-09-30', 'result': {'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '3', 'transfer_credit_total': '210.00', 'transfer_net': '210.00', 'health_and_fitness_debit_count': '1', 'health_and_fitness_debit_total': '12.26', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-12.26', 'fees_and_charges_debit_count': '2', 'fees_and_charges_debit_total': '35.59', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.08', 'fees_and_charges_net': '-35.51', 'auto_and_transport_debit_count': '3', 'auto_and_transport_debit_total': '184.25', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-184.25', 'food_and_dining_debit_count': '2', 'food_and_dining_debit_total': '80.26', 'food_and_dining_credit_count': '1', 'food_and_dining_credit_total': '66.65', 'food_and_dining_net': '-13.61'}}, {'start': '2025-08-01', 'end': '2025-08-31', 'result': {'transfer_debit_count': '2', 'transfer_debit_total': '55.43', 'transfer_credit_count': '0', 'transfer_credit_total': '0.00', 'transfer_net': '-55.43', 'health_and_fitness_debit_count': '3', 'health_and_fitness_debit_total': '30.90', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-30.90', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '3', 'income_credit_total': '1800.00', 'income_net': '1800.00', 'fees_and_charges_debit_count': '9', 'fees_and_charges_debit_total': '2273.38', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-2273.38', 'shopping_debit_count': '1', 'shopping_debit_total': '52.56', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-52.56', 'auto_and_transport_debit_count': '10', 'auto_and_transport_debit_total': '493.19', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-493.19', 'entertainment_debit_count': '6', 'entertainment_debit_total': '64.25', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-64.25', 'food_and_dining_debit_count': '5', 'food_and_dining_debit_total': '197.33', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-197.33', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '64.28', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-64.28'}}, {'start': '2025-07-01', 'end': '2025-07-31', 'result': {'transfer_debit_count': '3', 'transfer_debit_total': '115.97', 'transfer_credit_count': '1', 'transfer_credit_total': '67.00', 'transfer_net': '-48.97', 'health_and_fitness_debit_count': '2', 'health_and_fitness_debit_total': '148.76', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-148.76', 'income_debit_count': '1', 'income_debit_total': '12.62', 'income_credit_count': '1', 'income_credit_total': '400.00', 'income_net': '387.38', 'fees_and_charges_debit_count': '1', 'fees_and_charges_debit_total': '14.00', 'fees_and_charges_credit_count': '1', 'fees_and_charges_credit_total': '0.46', 'fees_and_charges_net': '-13.54', 'auto_and_transport_debit_count': '8', 'auto_and_transport_debit_total': '439.70', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-439.70', 'entertainment_debit_count': '8', 'entertainment_debit_total': '86.00', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-86.00', 'food_and_dining_debit_count': '9', 'food_and_dining_debit_total': '119.22', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-119.22', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '66.03', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-66.03'}}, {'start': '2025-06-01', 'end': '2025-06-30', 'result': {'transfer_debit_count': '3', 'transfer_debit_total': '78.40', 'transfer_credit_count': '4', 'transfer_credit_total': '1894.00', 'transfer_net': '1815.60', 'health_and_fitness_debit_count': '1', 'health_and_fitness_debit_total': '3.60', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-3.60', 'business_services_debit_count': '1', 'business_services_debit_total': '24.41', 'business_services_credit_count': '0', 'business_services_credit_total': '0.00', 'business_services_net': '-24.41', 'shopping_debit_count': '1', 'shopping_debit_total': '1.91', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-1.91', 'auto_and_transport_debit_count': '6', 'auto_and_transport_debit_total': '330.00', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-330.00', 'entertainment_debit_count': '16', 'entertainment_debit_total': '523.20', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-523.20', 'food_and_dining_debit_count': '12', 'food_and_dining_debit_total': '801.68', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-801.68', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '52.98', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-52.98'}}, {'start': '2025-05-01', 'end': '2025-05-31', 'result': {'transfer_debit_count': '1', 'transfer_debit_total': '199.95', 'transfer_credit_count': '1', 'transfer_credit_total': '50.00', 'transfer_net': '-149.95', 'health_and_fitness_debit_count': '3', 'health_and_fitness_debit_total': '93.55', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-93.55', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '2', 'income_credit_total': '1500.00', 'income_net': '1500.00', 'shopping_debit_count': '2', 'shopping_debit_total': '74.45', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-74.45', 'auto_and_transport_debit_count': '4', 'auto_and_transport_debit_total': '340.00', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-340.00', 'entertainment_debit_count': '8', 'entertainment_debit_total': '144.64', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-144.64', 'food_and_dining_debit_count': '4', 'food_and_dining_debit_total': '241.35', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-241.35', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '52.98', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-52.98'}}, {'start': '2025-04-01', 'end': '2025-04-30', 'result': {'transfer_debit_count': '2', 'transfer_debit_total': '138.95', 'transfer_credit_count': '1', 'transfer_credit_total': '150.00', 'transfer_net': '11.05', 'health_and_fitness_debit_count': '1', 'health_and_fitness_debit_total': '1.35', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-1.35', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '623.00', 'income_net': '623.00', 'shopping_debit_count': '1', 'shopping_debit_total': '9.04', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-9.04', 'auto_and_transport_debit_count': '4', 'auto_and_transport_debit_total': '409.89', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-409.89', 'entertainment_debit_count': '4', 'entertainment_debit_total': '57.00', 'entertainment_credit_count': '0', 'entertainment_credit_total': '0.00', 'entertainment_net': '-57.00', 'food_and_dining_debit_count': '7', 'food_and_dining_debit_total': '225.74', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-225.74', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '59.25', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-59.25'}}, {'start': '2025-03-01', 'end': '2025-03-31', 'result': {'health_and_fitness_debit_count': '11', 'health_and_fitness_debit_total': '307.98', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-307.98', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '730.00', 'income_net': '730.00', 'fees_and_charges_debit_count': '2', 'fees_and_charges_debit_total': '14.77', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-14.77', 'shopping_debit_count': '10', 'shopping_debit_total': '835.25', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-835.25', 'auto_and_transport_debit_count': '8', 'auto_and_transport_debit_total': '416.98', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-416.98', 'food_and_dining_debit_count': '25', 'food_and_dining_debit_total': '521.67', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-521.67', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '52.98', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-52.98'}}, {'start': '2025-02-01', 'end': '2025-02-28', 'result': {'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '1', 'transfer_credit_total': '100.00', 'transfer_net': '100.00', 'income_debit_count': '1', 'income_debit_total': '6.54', 'income_credit_count': '2', 'income_credit_total': '1340.26', 'income_net': '1333.72', 'fees_and_charges_debit_count': '1', 'fees_and_charges_debit_total': '10.14', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-10.14', 'auto_and_transport_debit_count': '1', 'auto_and_transport_debit_total': '100.00', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-100.00', 'food_and_dining_debit_count': '1', 'food_and_dining_debit_total': '4.99', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-4.99', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '47.27', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-47.27', 'travel_debit_count': '1', 'travel_debit_total': '40.08', 'travel_credit_count': '0', 'travel_credit_total': '0.00', 'travel_net': '-40.08', 'education_debit_count': '1', 'education_debit_total': '9.95', 'education_credit_count': '0', 'education_credit_total': '0.00', 'education_net': '-9.95'}}, {'start': '2025-01-01', 'end': '2025-01-31', 'result': {'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '1', 'transfer_credit_total': '1500.00', 'transfer_net': '1500.00', 'health_and_fitness_debit_count': '3', 'health_and_fitness_debit_total': '54.64', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-54.64', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '400.00', 'income_net': '400.00', 'fees_and_charges_debit_count': '3', 'fees_and_charges_debit_total': '1509.68', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-1509.68', 'shopping_debit_count': '3', 'shopping_debit_total': '93.23', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-93.23', 'auto_and_transport_debit_count': '4', 'auto_and_transport_debit_total': '183.77', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-183.77', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '51.00', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-51.00', 'travel_debit_count': '2', 'travel_debit_total': '29.62', 'travel_credit_count': '0', 'travel_credit_total': '0.00', 'travel_net': '-29.62', 'education_debit_count': '4', 'education_debit_total': '48.90', 'education_credit_count': '0', 'education_credit_total': '0.00', 'education_net': '-48.90'}}, {'start': '2024-12-01', 'end': '2024-12-31', 'result': {'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '3', 'transfer_credit_total': '2024.66', 'transfer_net': '2024.66', 'health_and_fitness_debit_count': '5', 'health_and_fitness_debit_total': '160.12', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-160.12', 'income_debit_count': '0', 'income_debit_total': '0.00', 'income_credit_count': '1', 'income_credit_total': '92.03', 'income_net': '92.03', 'fees_and_charges_debit_count': '1', 'fees_and_charges_debit_total': '24.10', 'fees_and_charges_credit_count': '0', 'fees_and_charges_credit_total': '0.00', 'fees_and_charges_net': '-24.10', 'shopping_debit_count': '9', 'shopping_debit_total': '721.64', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-721.64', 'auto_and_transport_debit_count': '18', 'auto_and_transport_debit_total': '711.14', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-711.14', 'food_and_dining_debit_count': '8', 'food_and_dining_debit_total': '297.28', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-297.28', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '108.83', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-108.83', 'travel_debit_count': '3', 'travel_debit_total': '66.60', 'travel_credit_count': '0', 'travel_credit_total': '0.00', 'travel_net': '-66.60'}}, {'start': '2024-11-01', 'end': '2024-11-30', 'result': {'transfer_debit_count': '0', 'transfer_debit_total': '0.00', 'transfer_credit_count': '3', 'transfer_credit_total': '1386.52', 'transfer_net': '1386.52', 'health_and_fitness_debit_count': '4', 'health_and_fitness_debit_total': '141.55', 'health_and_fitness_credit_count': '0', 'health_and_fitness_credit_total': '0.00', 'health_and_fitness_net': '-141.55', 'shopping_debit_count': '2', 'shopping_debit_total': '94.86', 'shopping_credit_count': '0', 'shopping_credit_total': '0.00', 'shopping_net': '-94.86', 'auto_and_transport_debit_count': '22', 'auto_and_transport_debit_total': '871.09', 'auto_and_transport_credit_count': '0', 'auto_and_transport_credit_total': '0.00', 'auto_and_transport_net': '-871.09', 'food_and_dining_debit_count': '7', 'food_and_dining_debit_total': '130.27', 'food_and_dining_credit_count': '0', 'food_and_dining_credit_total': '0.00', 'food_and_dining_net': '-130.27', 'bills_and_utilities_debit_count': '1', 'bills_and_utilities_debit_total': '33.90', 'bills_and_utilities_credit_count': '0', 'bills_and_utilities_credit_total': '0.00', 'bills_and_utilities_net': '-33.90'}}]
+----------------------------------------
