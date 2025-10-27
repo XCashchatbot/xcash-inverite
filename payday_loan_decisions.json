@@ -1,0 +1,75 @@
+[
+  {
+    "first_name": "Tatiana",
+    "last_name": "Smith",
+    "guid": "62E4B682-8B93-48D0-A101-F776FD86A5A1",
+    "loan_type": "payday",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple active loans, with 7 loan deductions identified in the past 30 days, indicating high existing loan exposure. Additionally, there are frequent overdrafts across all accounts, with negative balances reported. These factors suggest financial distress, making the applicant ineligible for the requested loan.",
+    "timestamp": "2025-10-15 13:42:27"
+  },
+  {
+    "first_name": "Brandon",
+    "last_name": "Lee",
+    "guid": "9E70BCAF-B4AF-460B-85B5-15D704D5E76D",
+    "loan_type": "payday",
+    "loan_amount": "750",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple accounts with a total balance of only $1,257.27, and there is a history of overdrafts, with one recorded in the last 30 days. Additionally, there are no loan deductions found, but the overall financial behavior indicates a lack of sufficient cash flow to support the requested loan amount of $750. The account shows signs of financial distress, which leads to a decline.",
+    "timestamp": "2025-10-27 11:21:11"
+  },
+  {
+    "first_name": "MICHAEL",
+    "last_name": "Downey",
+    "guid": "A3BD7F89-AE6B-4F21-A1A6-F48A205EC633",
+    "loan_type": "payday",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 7 active loan deductions in the past 30 days, indicating high reliance on loans. Additionally, there are 171 overdraft occurrences in the same period, suggesting significant financial distress. With these factors combined, the applicant does not meet the criteria for approval.",
+    "timestamp": "2025-10-27 11:33:49"
+  },
+  {
+    "first_name": "Selma",
+    "last_name": "Awwad",
+    "guid": "F2E1820B-D53A-4F61-9D00-BA7EE04EF977",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "Detected 1 loan deduction, 0 new payday loans received, 1 active payday loan, across 1 distinct lender. The applicant has a single active payday loan with a deduction of $115.33, indicating reliance on payday lending. Additionally, the account shows a high number of debits and a low balance, suggesting potential financial distress.",
+    "timestamp": "2025-10-27 12:30:33"
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Bridger",
+    "guid": "9FDE2289-0581-49DF-9CA1-C16F5B06CE1C",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "Detected 8 loan deductions, 2 new payday loans received, 1 active payday loan, across 1 distinct lender. The applicant has a high number of loan deductions relative to their income, indicating potential financial distress. Additionally, there are multiple overdrafts and a negative cash flow trend, which further increases the risk of default.",
+    "timestamp": "2025-10-27 12:30:37"
+  },
+  {
+    "first_name": "Jessell",
+    "last_name": "Quiogue",
+    "guid": "62EF69CE-C0D5-4EE3-BDD7-5D37405B7B86",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "Detected 1 loan deduction, 0 new payday loans received, 0 active payday loans, across 0 distinct lenders. The applicant has a history of overdrafts (3 in the last 30 days) and a negative cash flow, indicating financial distress. Given these factors, the application for a payday loan is declined.",
+    "timestamp": "2025-10-27 12:30:40"
+  },
+  {
+    "first_name": "Danielle",
+    "last_name": "Rusk",
+    "guid": "C342BFB5-C8FA-4500-A163-2EE92DA060DB",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "Detected 1 loan deduction, 0 new payday loans received, 1 active payday loan, across 1 distinct lender. The applicant has a single payday loan deduction with no new loans received, indicating limited borrowing capacity. Additionally, there are no NSF or overdraft issues, but the presence of an active loan combined with the loan deduction suggests financial strain, leading to a decline.",
+    "timestamp": "2025-10-27 12:30:46"
+  }
+]
