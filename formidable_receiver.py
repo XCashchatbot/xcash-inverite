@@ -348,9 +348,14 @@ def payday_webhook():
         print(f"❌ Error in payday_webhook: {e}")
         return jsonify({"error": str(e)}), 500
 
-@app.route("/")
+# add near the other routes
+@app.route("/", methods=["GET", "HEAD"])
 def home():
     return "App is running!", 200
+
+@app.route("/healthz", methods=["GET", "HEAD"])
+def healthz():
+    return jsonify({"status": "ok"}), 200
 
 # ──────────────────────────────────────
 # Run server
