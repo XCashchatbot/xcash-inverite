@@ -3,12 +3,14 @@ from flask import Flask, request, jsonify
 from dotenv import load_dotenv
 from inverite_data import fetch_report, convert_to_text
 from loan_analyzer import analyze_bank_statement
+
 from datetime import datetime
 import os
 import json
 import requests
 import logging
 import time
+import traceback
 
 
 # ──────────────────────────────────────
@@ -345,17 +347,27 @@ def payday_webhook():
         }), 200
 
     except Exception as e:
-        print(f"❌ Error in payday_webhook: {e}")
+        print(f"❌ Failed to parse JSON: {e}")
         return jsonify({"error": str(e)}), 500
 
-# add near the other routes
+  
+
 @app.route("/", methods=["GET", "HEAD"])
 def home():
-    return "App is running!", 200
+    # plain text OK for Render health checks; handles HEAD too
+    resp = make_response("App is running!", 200)
+    resp.headers["Content-Type"] = "text/plain; charset=utf-8"
+    return resp
 
 @app.route("/healthz", methods=["GET", "HEAD"])
 def healthz():
+    # JSON health for UptimeRobot (and Render if you prefer)
     return jsonify({"status": "ok"}), 200
+
+# silence favicon errors in logs (optional)
+@app.route("/favicon.ico", methods=["GET", "HEAD"])
+def favicon():
+    return "", 204
 
 # ──────────────────────────────────────
 # Run server

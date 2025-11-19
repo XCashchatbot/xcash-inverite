@@ -71,5 +71,1483 @@
     "approved_amount": null,
     "rationale": "Detected 1 loan deduction, 0 new payday loans received, 1 active payday loan, across 1 distinct lender. The applicant has a single payday loan deduction with no new loans received, indicating limited borrowing capacity. Additionally, there are no NSF or overdraft issues, but the presence of an active loan combined with the loan deduction suggests financial strain, leading to a decline.",
     "timestamp": "2025-10-27 12:30:46"
+  },
+  {
+    "first_name": "Jacob",
+    "last_name": "Rosko-Chiarelli",
+    "guid": "B754F627-7EEC-427C-845A-7CFA1392D041",
+    "loan_amount": "500",
+    "decision": "Approved",
+    "approved_amount": 500,
+    "rationale": "The applicant has no payday loan deductions or new loans received in the last 30 days, indicating no current reliance on payday lending. Additionally, there are no NSFs or overdrafts reported, which reflects a low financial risk. Given the absence of existing loans and stable income, the full loan amount is approved.",
+    "timestamp": "2025-10-27 13:47:33"
+  },
+  {
+    "first_name": "Craig",
+    "last_name": "Enwright",
+    "guid": "52C67292-1B39-48F7-B66B-15D95CB31824",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance of $-518.35 and a high frequency of overdrafts (44 in the last 30 days), indicating financial distress. There are 10 payday transactions, with 10 deductions totaling $1628.84, which suggests multiple active loans. This high level of loan activity and the negative cash flow make the applicant a high-risk candidate for a payday loan.",
+    "timestamp": "2025-10-27 13:47:37"
+  },
+  {
+    "first_name": "Mason",
+    "last_name": "Groves",
+    "guid": "575BF069-3246-4175-A636-5820C0CD5AA0",
+    "loan_amount": "150",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan deductions or new loans received in the last 30 days, which is positive. However, there are 44 overdrafts in the last 30 days, indicating significant financial distress. The account shows a negative balance trend and high withdrawal activity, which raises concerns about repayment capacity. Therefore, the application is declined.",
+    "timestamp": "2025-10-27 14:00:33"
+  },
+  {
+    "first_name": "Megan",
+    "last_name": "Mcglone",
+    "guid": "E391DB33-89A0-4105-BB6E-7E7E4C2BA757",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts (127 in the last 30 days) and a significant negative net balance. There are 2 payday loans recorded, indicating multiple loan deductions, which suggests financial distress. Additionally, the overall cash flow shows a concerning trend with high expenses relative to income, leading to the decision to decline the loan application.",
+    "timestamp": "2025-10-27 16:46:38"
+  },
+  {
+    "first_name": "William",
+    "last_name": "Devries",
+    "guid": "3A131CBE-3004-484E-8D0F-F0D3A5FA9E52",
+    "loan_type": "payday",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no loan deductions or new loans received in the last 30 days, indicating no recent payday loan activity. However, there are significant overdrafts in the past 60 and 90 days, with a total of 29 overdrafts over the past year, which suggests financial distress. Given these factors, the application is declined due to high financial risk.",
+    "timestamp": "2025-10-27 17:23:43"
+  },
+  {
+    "first_name": "Mohamad Yassar",
+    "last_name": "Latif",
+    "guid": "8F31127E-B9E0-4025-8451-C41483536882",
+    "loan_type": "payday",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (5 in the last 30 days) with no new loans received, indicating significant existing loan exposure. Additionally, there are 16 overdrafts in the last 30 days, suggesting financial distress. Given these factors, the applicant does not meet the criteria for approval.",
+    "timestamp": "2025-10-28 13:20:25"
+  },
+  {
+    "first_name": "jansen mar",
+    "last_name": "valmonte",
+    "guid": "34A300C1-E50B-44DF-80A3-145214F4F6FD",
+    "loan_type": "payday",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no loan deductions or new payday loans received in the last 30 days, which is a positive factor. However, the applicant has a high number of debits (82) compared to credits (20) in their chequing account, indicating potential cash flow issues. Additionally, there are multiple overdrafts in the past 180 days, which raises concerns about financial stability. Therefore, the application is declined due to high financial risk.",
+    "timestamp": "2025-10-28 14:19:34"
+  },
+  {
+    "first_name": "Tristan",
+    "last_name": "Williams",
+    "guid": "DF0BC19D-2AF7-4460-A582-257C4B42DA90",
+    "loan_amount": "600",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity in the last 30 days, with no new loans received or loan deductions found. However, there are multiple overdrafts (7 in the last 30 days) and a negative mean closing balance, indicating financial distress. Given these factors, the application is declined to minimize default risk.",
+    "timestamp": "2025-10-29 09:24:37"
+  },
+  {
+    "first_name": "Edjelyn",
+    "last_name": "Sevilles",
+    "guid": "9B3EDEDB-81E9-4B92-8260-53E28140DDEF",
+    "loan_amount": "400",
+    "decision": "Approved",
+    "approved_amount": 400,
+    "rationale": "The applicant has no payday loan deductions or new loans received in the last 30 days, indicating no reliance on payday lending. Their income appears stable with an average monthly employer income of $1,299.07 and a positive cash flow. There are 0 NSFs and 2 overdrafts, which is a moderate risk but manageable. Overall, the financial behavior suggests they can afford the requested amount.",
+    "timestamp": "2025-10-29 09:24:41"
+  },
+  {
+    "first_name": "Kalyn",
+    "last_name": "Pocha",
+    "guid": "2A3974E2-75A5-4B24-92D0-6743202CF1F6",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 1 new payday loan received but also has 2 loan deductions, indicating multiple active loans. Additionally, there are 4 overdrafts in the last 30 days, which suggests financial distress. The combination of multiple loan deductions and overdrafts leads to a high-risk assessment, resulting in a decline for the payday loan application.",
+    "timestamp": "2025-10-29 09:24:45"
+  },
+  {
+    "first_name": "Adam",
+    "last_name": "McDonald",
+    "guid": "38F16D71-E398-42BE-BA81-9DCE03B59E33",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions, with 17 deductions totaling $8665.33 in the last 30 days, indicating significant reliance on payday loans. There are no new loans received, and the applicant has a history of negative cash flow with a net loss of $2631.73 from payday transactions. Additionally, the absence of NSF or overdraft activity is positive, but the overall financial behavior suggests high risk due to multiple loan deductions.",
+    "timestamp": "2025-10-29 09:24:49"
+  },
+  {
+    "first_name": "Kimberley",
+    "last_name": "Bernard",
+    "guid": "C23E1057-C360-404F-8865-71FE6B2A080C",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 2 active payday loans with a total of 1293.90 in loan deductions over the last 30 days, indicating high reliance on payday lending. Additionally, there are no new loans received, and the account shows a history of overdrafts and significant withdrawals compared to deposits. This financial behavior suggests a high risk of default.",
+    "timestamp": "2025-10-29 09:24:52"
+  },
+  {
+    "first_name": "Ashley",
+    "last_name": "Hill",
+    "guid": "D05E450D-7261-4CE7-B99C-8941A5EF926F",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, with zero new loans received and no loan deductions found. However, the chequing account shows a negative balance and a history of overdrafts, indicating financial distress. Additionally, the applicant has a high number of debits relative to credits, suggesting potential cash flow issues. Therefore, the application is declined due to insufficient financial stability.",
+    "timestamp": "2025-10-29 09:24:56"
+  },
+  {
+    "first_name": "Kerri",
+    "last_name": "Fluke",
+    "guid": "5B3AFD39-BC3A-4E7B-9009-73FED1F6CCFA",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 6 payday loan deductions in the last 30 days, indicating high reliance on payday loans. Additionally, there are 109 overdrafts in the same period, which suggests significant financial distress. The income appears inconsistent, and the overall financial behavior reflects a high-risk profile, leading to the decision to decline the loan application.",
+    "timestamp": "2025-10-29 09:24:59"
+  },
+  {
+    "first_name": "Jessica",
+    "last_name": "Starrett",
+    "guid": "75DA1C74-71C4-4663-B275-E767D0E441C7",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 1 active payday loan with a deduction of $114.00 in the last 30 days. Additionally, there are 3 overdrafts recorded, indicating potential financial distress. The income appears stable, but the presence of existing loans and overdrafts suggests a high risk for further lending.",
+    "timestamp": "2025-10-29 09:25:06"
+  },
+  {
+    "first_name": "Youmna",
+    "last_name": "Boudair",
+    "guid": "FC30D519-26F5-48A6-9944-9A9547BAA087",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high level of financial distress, indicated by 3 active payday loans and significant overdraft activity (66 occurrences in the last 30 days). Their mean closing balance is negative, and they have a history of frequent loan deductions without any new loans received. These factors suggest an inability to manage additional debt responsibly.",
+    "timestamp": "2025-10-29 09:25:10"
+  },
+  {
+    "first_name": "Bradley",
+    "last_name": "Robinson",
+    "guid": "0D5F0644-B8DD-4858-A5E7-54AA1F7BAAF8",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple overdrafts and negative balances across all accounts, indicating financial distress. There are 11 loan deductions in the last 30 days, with 2 distinct lenders, which suggests high existing loan exposure. Additionally, the applicant has a history of NSF activity and insufficient cash flow to support new borrowing.",
+    "timestamp": "2025-10-29 09:25:14"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Selkirk",
+    "guid": "347247C5-25A0-40A6-AC55-F72837133789",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan deductions or new loans received in the last 30 days, which is a positive factor. However, they have a current overdraft and a negative balance, indicating financial distress. Additionally, the account shows a high number of debits and significant withdrawals compared to deposits, suggesting poor cash flow management. Therefore, the application is declined due to high financial risk.",
+    "timestamp": "2025-10-29 09:25:20"
+  },
+  {
+    "first_name": "Dan",
+    "last_name": "Kirilo",
+    "guid": "679B27C4-9E8A-40EA-8B8F-91C87F5E328A",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no loan deductions or new loans received in the last 30 days, which is a positive factor. However, there are multiple overdrafts (3 in the chequing account) and a total of 5 payday loans flagged, indicating a high risk of financial distress. Given these factors, the application is declined.",
+    "timestamp": "2025-10-29 12:28:52"
+  },
+  {
+    "first_name": "Caitlin",
+    "last_name": "Brennan",
+    "guid": "98CFC273-A27E-4323-B6AC-3016670497E2",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, with zero new loans received and no loan deductions found. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-10-29 13:23:42"
+  },
+  {
+    "first_name": "Bonnie",
+    "last_name": "Keleher",
+    "guid": "F86FDEF3-4244-463A-B3CB-A667CDCC9698",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The account has been open for less than 6 months, which does not meet the minimum banking history requirement. Additionally, the account shows a negative balance trend with frequent overdrafts and no payday loan activity detected. These factors indicate a high risk for lending.",
+    "timestamp": "2025-10-29 13:44:44"
+  },
+  {
+    "first_name": "Rohab",
+    "last_name": "Wasim",
+    "guid": "BECBD598-88D3-43B8-BDCB-3C67F3462E2E",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity in the last 30 days, with zero loan deductions and no existing loans. However, the account age is not provided, and there are no transactions available to assess income stability or financial behavior. Without sufficient banking history, the application cannot be approved.",
+    "timestamp": "2025-10-29 13:44:47"
+  },
+  {
+    "first_name": "Tanvir",
+    "last_name": "Haque",
+    "guid": "4D89062B-E5A8-4679-B1CA-9B00910FB644",
+    "loan_type": "payday",
+    "loan_amount": "150",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account is less than 6 months old, which does not meet the minimum banking history requirement. Additionally, there are multiple loan deductions and existing payday loans, indicating a high risk of default. No gambling transactions were detected, but the overall financial behavior suggests instability.",
+    "timestamp": "2025-10-30 10:25:35"
+  },
+  {
+    "first_name": "Diane",
+    "last_name": "Strong",
+    "guid": "39973C47-490D-45E0-9BE5-112026244AB5",
+    "loan_type": "payday",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans and no loan deductions found in the last 30 days. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history. Additionally, there are frequent overdrafts, indicating potential financial distress.",
+    "timestamp": "2025-10-31 20:52:30"
+  },
+  {
+    "first_name": "Tatiana",
+    "last_name": "Smith",
+    "guid": "62E4B682-8B93-48D0-A101-F776FD86A5A1",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a total of 4 payday loan transactions in the last 30 days, with 700.00 received and 114.00 deducted. This indicates multiple active loans, which is a high-risk factor. Additionally, there are significant overdrafts across all accounts, with the savings account showing a mean closing balance of -12.19 and the chequing account having an overdraft of -114.00. The account age is less than 6 months, which also contributes to the decline.",
+    "timestamp": "2025-11-01 14:06:07"
+  },
+  {
+    "first_name": "Raj",
+    "last_name": "Koradia",
+    "guid": "DF674DB9-6B2B-4619-AD7D-34D7178602EC",
+    "loan_type": "payday",
+    "loan_amount": "350",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's account age is less than 6 months, which automatically results in a decline due to insufficient banking history. Additionally, the account shows a negative mean closing balance and a high number of overdrafts, indicating financial instability.",
+    "timestamp": "2025-11-02 12:17:40"
+  },
+  {
+    "first_name": "Yash",
+    "last_name": "Kumar",
+    "guid": "6C63DA1C-A9C6-4FA2-BF1C-D395A32F6D20",
+    "loan_amount": "550",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account is less than 6 months old, which does not meet the minimum banking history requirement. Additionally, there are multiple loan deductions and a high total of payday loan deductions, indicating financial distress. No gambling transactions were detected, but the overall financial behavior suggests a high risk for repayment.",
+    "timestamp": "2025-11-03 09:15:46"
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Phung",
+    "guid": "D81CCF2C-63DD-43AC-AD2D-A8A2150E06DB",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's account age is less than 6 months, which automatically results in a decline due to insufficient banking history. Additionally, there are no recent transactions available to assess income stability or loan deductions.",
+    "timestamp": "2025-11-03 09:15:50"
+  },
+  {
+    "first_name": "Fasal",
+    "last_name": "Hussain",
+    "guid": "3F35E63E-F832-45E5-9076-7F4412A505E1",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a total of 2 payday loan deductions in the last 30 days, indicating existing loan exposure. Additionally, there are 2 overdrafts and 5 NSFs, suggesting financial distress. The account age is less than 6 months, which does not meet the required banking history for approval. Overall, these factors contribute to a high-risk assessment.",
+    "timestamp": "2025-11-03 09:15:55"
+  },
+  {
+    "first_name": "Emeka",
+    "last_name": "Meju",
+    "guid": "44AD96B0-7CF7-45AC-8D0A-22F0991E9EC3",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions in the last 30 days, which is a positive factor. However, the account age is less than 6 months, leading to an automatic decline due to insufficient banking history. Additionally, there are no signs of stable income or predictable cash flow.",
+    "timestamp": "2025-11-03 09:16:03"
+  },
+  {
+    "first_name": "Nguyen Anh Thai",
+    "last_name": "Phan",
+    "guid": "ADF7F3F3-8FB5-404F-93CC-627E8864185E",
+    "loan_amount": "600",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank accounts show a total of 5 payday loan transactions in the last 30 days, with 5 loan deductions totaling $803.90, indicating high loan exposure. Additionally, the account age is less than 6 months, which does not meet the required banking history for approval. There are no NSF or overdraft issues, but the overall financial behavior suggests a high risk due to multiple loan deductions.",
+    "timestamp": "2025-11-03 09:16:07"
+  },
+  {
+    "first_name": "Elizabeth",
+    "last_name": "Phili",
+    "guid": "6201E8E4-0283-4E79-A618-F0C8B9BDC44E",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity flagged in the last 30 days, with no loan deductions found. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-11-03 09:16:11"
+  },
+  {
+    "first_name": "Rob",
+    "last_name": "Mccormack",
+    "guid": "01B8C957-6B76-4A84-AB0C-14B5074E93E1",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans and no loan deductions found in the last 30 days, which is a positive factor. However, the account age is less than 6 months, leading to an automatic decline due to insufficient banking history. Additionally, there are multiple overdrafts noted, indicating potential financial instability.",
+    "timestamp": "2025-11-03 09:16:15"
+  },
+  {
+    "first_name": "SIlvia",
+    "last_name": "Garcia",
+    "guid": "D4DDD606-9535-4DEB-9319-FE63114AF59D",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account is less than 6 months old, which does not meet the minimum banking history requirement for approval. Additionally, there are multiple overdrafts and high fees, indicating financial distress. No loan deductions were found, but the overall financial behavior suggests a high risk for repayment.",
+    "timestamp": "2025-11-03 09:16:19"
+  },
+  {
+    "first_name": "Randall",
+    "last_name": "Ribbonleg",
+    "guid": "733BDB0C-F3A5-466F-BF27-AEAF0C7E17CF",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's account has a negative balance of $-285.97 and shows a high frequency of overdrafts (35 in the last 30 days), indicating financial distress. Additionally, the account age is less than 6 months, which does not meet the minimum requirement for loan approval. There are no loan deductions found, but the overall financial behavior suggests high risk.",
+    "timestamp": "2025-11-03 09:16:23"
+  },
+  {
+    "first_name": "Tanya",
+    "last_name": "Taylor",
+    "guid": "D7A0D6A2-3AD8-4AB7-A90C-F22C6E949BF6",
+    "loan_amount": "350",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity in the last 30 days, with zero loan deductions and no new loans received. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history. Additionally, there are frequent overdrafts, indicating potential financial distress.",
+    "timestamp": "2025-11-03 09:16:27"
+  },
+  {
+    "first_name": "Chloe",
+    "last_name": "Meyer",
+    "guid": "6EA98A36-DD0C-4940-B171-D31ED64ECE04",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has insufficient banking history with an account age of less than 6 months, which automatically results in a decline. Additionally, there are no payday loan deductions or new loans received, and the account shows a negative balance trend with overdrafts present.",
+    "timestamp": "2025-11-03 09:16:31"
+  },
+  {
+    "first_name": "Aliza",
+    "last_name": "Farooqi",
+    "guid": "9F3560A1-3608-4FDA-B361-CBADE284D257",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple payday loan deductions totaling $1124.30 in the last 30 days, indicating high existing loan exposure. Additionally, there are 21 returns and a high number of debits, suggesting potential financial distress. The account age is not provided, but the lack of transaction history raises concerns about stability and reliability.",
+    "timestamp": "2025-11-03 09:16:35"
+  },
+  {
+    "first_name": "Braydon",
+    "last_name": "Tulk",
+    "guid": "06568BAB-09EA-442F-83DD-73A0A4348BF5",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple accounts with a total of 125 overdrafts in the last 30 days, indicating significant financial distress. There are no payday loans or deductions found, but the account age is less than 6 months, which leads to an automatic decline. Additionally, the mean closing balance is negative across all accounts, further highlighting the applicant's financial instability.",
+    "timestamp": "2025-11-03 09:16:39"
+  },
+  {
+    "first_name": "Dimitrije",
+    "last_name": "Stevanovic",
+    "guid": "DACEC914-4FD8-4D36-ABDD-0DD1D1DD48F9",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions, which is positive. However, the account has a significant negative balance of $-2642.94 and a high frequency of overdrafts (100 in the last 30 days), indicating financial distress. Additionally, the account age is less than 6 months, which does not meet the required banking history for approval.",
+    "timestamp": "2025-11-03 09:16:44"
+  },
+  {
+    "first_name": "Patrick",
+    "last_name": "ELGIE",
+    "guid": "18650D2C-28B3-4B21-9283-76962509751B",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a significant number of payday loan deductions, with 19 deductions totaling $8935.68 in the last 30 days, indicating high existing loan exposure. Additionally, there are 17 overdrafts and 1 NSF in the past month, suggesting financial distress. The account age is less than 6 months, which also leads to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-11-03 09:16:47"
+  },
+  {
+    "first_name": "Harjap",
+    "last_name": "Singh",
+    "guid": "B10CDBCC-53DA-4E9A-A7A0-A0FEDB4B5BC9",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions, with 5 deductions in the last 30 days and no new loans received. This indicates significant existing loan exposure. Additionally, there are 23 overdrafts in the last 30 days, suggesting financial distress. The account age is not specified, but if it is less than 6 months, it would also contribute to the decline.",
+    "timestamp": "2025-11-03 09:16:51"
+  },
+  {
+    "first_name": "Laksman",
+    "last_name": "Paranthaman",
+    "guid": "BB25554F-862F-4B98-9E78-D914F3EA486A",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (7 in the last 30 days) with no new loans received, indicating significant existing loan exposure. Additionally, the account has a history of overdrafts (6 in the last 30 days) and a mean closing balance that suggests financial instability. The account age is less than 6 months, which also leads to an automatic decline.",
+    "timestamp": "2025-11-03 09:16:55"
+  },
+  {
+    "first_name": "Renee",
+    "last_name": "Williams",
+    "guid": "A0C1C617-74D4-4EC1-8DB2-3E2A020D7EBF",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has insufficient banking history with only 8 days of account activity, which is below the required 6 months. Additionally, the account shows a negative balance and frequent overdrafts, indicating financial distress. There are no payday loans or deductions present, but the overall financial behavior does not support approval.",
+    "timestamp": "2025-11-03 09:16:59"
+  },
+  {
+    "first_name": "Rebecca Tyo",
+    "last_name": "Tyo",
+    "guid": "31DF3DA9-285B-4830-84D1-F591030D470E",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance and a mean closing balance of -50.43, indicating financial distress. There is a history of 15 overdrafts in the last 30 days, which raises concerns about cash flow. Additionally, the account age is less than 6 months, leading to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-11-03 09:17:02"
+  },
+  {
+    "first_name": "Jermy",
+    "last_name": "Abella",
+    "guid": "A46EEA1B-55A1-4405-AC24-97D3AF35A619",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple payday loan deductions totaling $1134.10 and has received $775.00 from payday lenders in the last 30 days. There are 15 distinct payday transactions, indicating a high level of loan activity. Additionally, the account has a significant number of overdrafts (73) and a negative cash flow trend, which suggests financial distress. Furthermore, the account age is less than 6 months, leading to an automatic decline.",
+    "timestamp": "2025-11-03 09:17:09"
+  },
+  {
+    "first_name": "Christan",
+    "last_name": "Edwards",
+    "guid": "3DCAB3DF-1D15-4F02-89C1-B2CC75094E5D",
+    "loan_amount": "350",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, with zero new loans received and no loan deductions found. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-11-03 09:17:12"
+  },
+  {
+    "first_name": "chantal",
+    "last_name": "hingston",
+    "guid": "B5DD83B2-C5CF-4C57-86E5-8979F20C5AD4",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's account age is less than 6 months, which does not meet the minimum banking history requirement for loan approval. Additionally, there are multiple overdrafts and a high number of debits, indicating potential financial distress.",
+    "timestamp": "2025-11-03 09:17:15"
+  },
+  {
+    "first_name": "Isaiah",
+    "last_name": "Bazilio",
+    "guid": "FC3CA242-F91B-414F-904A-579CD6198CE7",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions found in the last 30 days, which is positive. However, the account age is less than 6 months, leading to an automatic decline due to insufficient banking history. Additionally, there are frequent overdrafts, indicating potential financial distress.",
+    "timestamp": "2025-11-03 09:17:22"
+  },
+  {
+    "first_name": "Shaquille",
+    "last_name": "Persad",
+    "guid": "3A1A7068-1FE2-4427-8AB0-E0BF4A86ED1E",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions, which is a positive factor. However, the account age is less than 6 months, leading to an automatic decline due to insufficient banking history. Additionally, there are frequent overdrafts, indicating potential financial instability.",
+    "timestamp": "2025-11-03 09:17:25"
+  },
+  {
+    "first_name": "Raymond",
+    "last_name": "Omulindi",
+    "guid": "523856DE-7852-4431-8A15-16A6EF11357F",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of loan deductions, with 12 payday loan deductions totaling $1727.78 in the last 30 days, indicating significant reliance on payday loans. Additionally, there are 2 NSF transactions and 44 overdrafts, which suggest financial distress. The account age is not specified, but if it is less than 6 months, this would also contribute to the decline.",
+    "timestamp": "2025-11-03 09:17:28"
+  },
+  {
+    "first_name": "Tavish",
+    "last_name": "Newman",
+    "guid": "8FA5F293-EC90-45A4-AB07-D50C2EC1229C",
+    "loan_amount": "700",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (10 in the last 30 days) with no new loans received, indicating significant reliance on payday lending. Additionally, there are 2 overdrafts and 5 NSF transactions, suggesting financial distress. The account age is less than 6 months, which also leads to an automatic decline.",
+    "timestamp": "2025-11-03 09:17:31"
+  },
+  {
+    "first_name": "Ammara",
+    "last_name": "Salman",
+    "guid": "07514131-00A0-45E7-9DA2-39E37B7A9160",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions, but their account is currently overdrawn with a balance of -$103.80. Additionally, the account age is less than 6 months, which does not meet the required banking history for approval. There are also significant overdrafts and a high number of transactions indicating financial instability.",
+    "timestamp": "2025-11-03 09:17:34"
+  },
+  {
+    "first_name": "Shawn",
+    "last_name": "Karim",
+    "guid": "81A315EE-438E-4414-BF01-2D8EEAF6A97C",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple payday loan deductions (2 in the last 30 days) totaling $289.98, indicating existing loan exposure. Additionally, there are 34 overdraft occurrences in the last 30 days, suggesting financial distress. The account age is less than 6 months, which does not meet the required banking history for approval.",
+    "timestamp": "2025-11-03 09:17:38"
+  },
+  {
+    "first_name": "Brett",
+    "last_name": "Street",
+    "guid": "52584DE8-BABF-4A49-9053-477419261CCD",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a current account age of less than 6 months, which does not meet the minimum banking history requirement. Additionally, there are multiple payday loan deductions and a history of overdrafts, indicating financial distress. Therefore, the loan cannot be approved.",
+    "timestamp": "2025-11-03 09:17:42"
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Lewis",
+    "guid": "80D18FC4-4F87-4F1E-941D-C23214779C51",
+    "loan_amount": "550",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions found in the last 30 days. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history. Additionally, there are frequent overdrafts, indicating potential financial instability.",
+    "timestamp": "2025-11-03 09:17:45"
+  },
+  {
+    "first_name": "Julia",
+    "last_name": "Haswell",
+    "guid": "7FCB13DB-4915-44B8-87C4-F30F11EEE307",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account age is less than 6 months, which does not meet the minimum requirement for loan approval. Additionally, there are no loan deductions or new loans received, and no gambling activity detected. However, the insufficient banking history is the primary reason for the decline.",
+    "timestamp": "2025-11-03 09:17:50"
+  },
+  {
+    "first_name": "Darnell",
+    "last_name": "Richards",
+    "guid": "FF8FCA5B-BB38-4571-9C1B-28F66A7F6A5A",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or deductions, which is positive; however, the account age is less than 6 months, leading to an automatic decline due to insufficient banking history. Additionally, there are frequent overdrafts and a high number of fees and charges, indicating potential financial distress.",
+    "timestamp": "2025-11-03 09:17:53"
+  },
+  {
+    "first_name": "April",
+    "last_name": "Santos",
+    "guid": "4AAE789F-6790-4C34-8651-D566AB94EA23",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account has a negative balance of $-626.91 and a high frequency of overdrafts (36 in the last 30 days), indicating financial distress. Additionally, the account age is less than 6 months, which does not meet the minimum requirement for lending. There are no loan deductions found, but the overall financial behavior suggests high risk.",
+    "timestamp": "2025-11-03 09:17:58"
+  },
+  {
+    "first_name": "Randi",
+    "last_name": "Moore",
+    "guid": "4472366E-C675-47B5-8478-3551C312FEDB",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account is less than 6 months old, which does not meet the required banking history for approval. Additionally, there are multiple overdrafts and loan deductions present, indicating financial instability. No income stability was detected, and there were no transactions available for further evaluation.",
+    "timestamp": "2025-11-03 09:18:02"
+  },
+  {
+    "first_name": "Kerine",
+    "last_name": "Chambers",
+    "guid": "B38012D5-1EB2-46EA-8178-469F146970B0",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank report indicates no payday loan activity in the last 30 days, but there are multiple loan deductions totaling $415.11, which suggests existing financial obligations. Additionally, the account age is less than 6 months, leading to an automatic decline. There are also signs of financial distress with a history of overdrafts and a negative balance trend.",
+    "timestamp": "2025-11-03 09:18:05"
+  },
+  {
+    "first_name": "Eric",
+    "last_name": "Taylor",
+    "guid": "7CE9BEE2-BE89-4238-9666-BFF6D9E622E4",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's account age is less than 6 months, which leads to an automatic decline due to insufficient banking history. Additionally, there are no loan deductions or gambling transactions detected, but the lack of transaction history further supports the decision.",
+    "timestamp": "2025-11-03 09:37:33"
+  },
+  {
+    "first_name": "Jeannine",
+    "last_name": "Batt",
+    "guid": "0E9CEEA1-FB13-4A6D-BE4E-58D79FCD5242",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank account is less than 6 months old, which does not meet the required banking history for loan approval. Additionally, there are no transactions available to assess income stability or loan deductions, further supporting the decline decision.",
+    "timestamp": "2025-11-03 09:37:37"
+  },
+  {
+    "first_name": "Konstantina",
+    "last_name": "Koulogiannis",
+    "guid": "9EC3D7D3-8004-4CC3-9E9F-D01685233656",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a significant history of payday loan deductions, with 1 active loan and a total of 3 payday loans in the last 180 days. Additionally, there are 5 overdrafts in the last 30 days, indicating potential financial distress. The account age is less than 6 months, which does not meet the required banking history for approval.",
+    "timestamp": "2025-11-03 09:37:41"
+  },
+  {
+    "first_name": "Tonya",
+    "last_name": "Browne",
+    "guid": "35F40702-5FDD-4390-BE35-632D32291D72",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The account age is less than 6 months, which does not meet the minimum requirement for banking history. Additionally, there are no loan deductions or income stability indicators present, and the overall financial behavior suggests insufficient data for a lending decision.",
+    "timestamp": "2025-11-03 09:37:44"
+  },
+  {
+    "first_name": "Justice",
+    "last_name": "Darkwah",
+    "guid": "CFC5AA6E-73A9-458A-B394-37DFDBA07103",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of loan deductions, with 3 active payday loans and significant overdraft activity, indicating financial distress. Additionally, the average closing balance is negative, and there are numerous NSF occurrences. The account age is less than 6 months, which also contributes to the decline.",
+    "timestamp": "2025-11-03 09:37:47"
+  },
+  {
+    "first_name": "Eric",
+    "last_name": "Artelle",
+    "guid": "017ABD51-A7AD-4681-9D59-76618B50EDA2",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple payday loan deductions (6 total) and has received new payday loans (6 total) in the last 30 days, indicating high reliance on payday lending. Additionally, there are frequent overdrafts (82 in the last 30 days) and a negative mean closing balance, which suggests financial distress. The account age is not specified, but the overall financial behavior does not support approval.",
+    "timestamp": "2025-11-03 09:37:51"
+  },
+  {
+    "first_name": "Chris",
+    "last_name": "Legault",
+    "guid": "20E5336F-CDAE-41BA-9775-A11E76A54375",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's bank report shows no payday loan activity, with 0 new loans received and 0 loan deductions. However, the account age is only 6 days, which does not meet the minimum requirement of 6 months for banking history. Therefore, the application is declined due to insufficient banking history.",
+    "timestamp": "2025-11-03 09:37:54"
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "DEntremont",
+    "guid": "C2017E03-E447-4224-AAD4-9C9FFAAD56A6",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (12) and has received new loans (12) in the last 30 days, indicating significant reliance on payday lending. Additionally, the account has a history of overdrafts (7) and a negative mean closing balance in one account, which suggests financial distress. Furthermore, the account age is less than 6 months, leading to an automatic decline.",
+    "timestamp": "2025-11-03 09:37:59"
+  },
+  {
+    "first_name": "Bradley",
+    "last_name": "Soule",
+    "guid": "5F246365-17AF-4A92-907D-8CB44767A495",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant's account age is less than 6 months, which automatically results in a decline due to insufficient banking history. Additionally, there are no loan deductions or gambling transactions detected, but the lack of transaction history further supports the decision.",
+    "timestamp": "2025-11-03 09:38:02"
+  },
+  {
+    "first_name": "MAHMUD A JRADI",
+    "last_name": "JRADI",
+    "guid": "8494B62D-A92F-445C-B22B-20E0E0A4A125",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no loan deductions found, but the account has a negative mean closing balance and a high number of overdrafts (3 in the last 30 days). Additionally, the account age is less than 6 months, which does not meet the required banking history for approval.",
+    "timestamp": "2025-11-03 09:38:05"
+  },
+  {
+    "first_name": "Shai",
+    "last_name": "Buchler",
+    "guid": "0079DC71-71D7-44A8-9972-AA3882ECC0FC",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions found in the last 30 days. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history. Additionally, there are no NSF or overdraft occurrences, but the lack of transaction activity raises concerns about financial stability.",
+    "timestamp": "2025-11-03 10:26:24"
+  },
+  {
+    "first_name": "Richard",
+    "last_name": "Kasabri",
+    "guid": "696D0329-F48A-48BE-8567-4A39A86F52AD",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity in the last 30 days, with no loan deductions or new loans received. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-11-03 12:36:22"
+  },
+  {
+    "first_name": "Paula",
+    "last_name": "Marshall",
+    "guid": "B37CE05C-8E13-49A8-855A-7E176412D3CB",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans or loan deductions found in the last 30 days. However, the account age is less than 6 months, which leads to an automatic decline due to insufficient banking history.",
+    "timestamp": "2025-11-03 12:36:28"
+  },
+  {
+    "first_name": "Niroshan",
+    "last_name": "Selvaraj",
+    "guid": "CF24A9F7-5D46-4B77-AF36-983C99DA9AB1",
+    "loan_amount": "1200",
+    "decision": "Approved",
+    "approved_amount": 1200,
+    "rationale": "The applicant has no loan deductions or active payday loans, indicating a stable financial situation. There are no NSFs or overdrafts, which is a positive factor. The income appears consistent, and there are no gambling transactions detected, supporting the approval of the full loan amount.",
+    "timestamp": "2025-11-03 12:46:53"
+  },
+  {
+    "first_name": "Jahmila",
+    "last_name": "Martin",
+    "guid": "132B9C96-30B2-44B9-B4AB-1BA018C5A9D4",
+    "loan_amount": "450",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of loan deductions, with 6 payday loan deductions totaling $1164.00 in the last 30 days, indicating significant existing loan exposure. Additionally, there are 15 overdrafts in the last 30 days, which suggests financial instability. The applicant's financial behavior raises concerns about their ability to repay a new loan.",
+    "timestamp": "2025-11-03 13:11:55"
+  },
+  {
+    "first_name": "Randi",
+    "last_name": "Hilderbrandt",
+    "guid": "B49348EB-017B-4206-8A47-DC58B7CEF11B",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no active payday loans, but there is a significant overdraft history with 79 overdrafts in the last 30 days totaling over $2000. Additionally, the mean closing balance is negative, indicating financial instability. There are no gambling transactions detected, but the overall financial behavior suggests high risk.",
+    "timestamp": "2025-11-03 16:01:55"
+  },
+  {
+    "first_name": "Pia",
+    "last_name": "Sepulveda",
+    "guid": "86FAE225-582A-4AA0-AF23-56E7FEC2C533",
+    "loan_amount": "900",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 5 active payday loans with significant loan deductions totaling $1844.00 in the last 30 days. There are 16 overdrafts and a negative mean closing balance of -66.84, indicating financial distress. Additionally, the applicant has a high frequency of e-Transfers, which raises concerns about financial instability.",
+    "timestamp": "2025-11-03 16:02:00"
+  },
+  {
+    "first_name": "steven",
+    "last_name": "silveira",
+    "guid": "C97ACF42-9C99-4076-B8D8-A14952159B74",
+    "loan_amount": "450",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple overdrafts (6 in the last 30 days) and a negative balance across both accounts. There are no payday loans or deductions found, but the financial behavior indicates instability with a high number of debits and insufficient income to cover expenses. Additionally, the applicant has a history of negative balances which suggests financial distress.",
+    "timestamp": "2025-11-03 17:01:57"
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Soso",
+    "guid": "3E456A10-E76C-4402-A6EE-73892EBD745D",
+    "loan_amount": "750",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no loan deductions or payday loans flagged in the last 30 days. However, there is a significant concern due to the high number of loan deductions (9) and payday transactions (8) in the last 30 days, indicating financial distress. Additionally, the account shows a history of overdrafts (4 in the last 30 days) and a negative net cash flow from loans. Therefore, the application is declined.",
+    "timestamp": "2025-11-03 17:02:02"
+  },
+  {
+    "first_name": "Trevor",
+    "last_name": "Gilbert",
+    "guid": "440C90A5-51C9-453A-B5E2-5D1B0E569C86",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, but has a high number of overdrafts (8 in the last 30 days) and a negative mean closing balance. Additionally, there are significant loan deductions totaling $150.00, indicating financial distress. Overall, the financial behavior suggests high risk.",
+    "timestamp": "2025-11-03 19:01:55"
+  },
+  {
+    "first_name": "Jeff",
+    "last_name": "Irvine",
+    "guid": "3592BE3A-B3BA-43FE-A030-6DA64E77BE5E",
+    "loan_amount": "700",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 9 payday loan deductions totaling $1172.56 in the last 30 days, indicating high reliance on payday loans. Additionally, there are 10 overdrafts and 0 NSFs, which suggests financial distress. The presence of multiple loan deductions and overdrafts leads to a high-risk assessment, resulting in a decline.",
+    "timestamp": "2025-11-03 19:02:04"
+  },
+  {
+    "first_name": "Christine",
+    "last_name": "Baring",
+    "guid": "896D31C7-5BBB-42C8-B88A-567F1D3E1B32",
+    "loan_amount": "600",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 6 loan deductions and 6 new loans received in the last 30 days, indicating high reliance on payday loans. Additionally, there are 10 overdrafts in the last 30 days, which suggests financial instability. Given these factors, the application is declined.",
+    "timestamp": "2025-11-03 22:01:56"
+  },
+  {
+    "first_name": "Jalen",
+    "last_name": "Brown",
+    "guid": "6D2FC3B6-7661-41B0-A255-20F15CA42C8D",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no loan deductions or new loans received in the last 30 days. However, there are significant overdraft occurrences (9 in the last 30 days) indicating financial distress. Additionally, the average monthly income is low, and there are no stable income sources detected. Therefore, the application is declined due to high risk.",
+    "timestamp": "2025-11-04 01:56:58"
+  },
+  {
+    "first_name": "Lukusa",
+    "last_name": "Alain",
+    "guid": "C547A07C-92C4-4154-AB0C-041B1DCBE47C",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan deductions or new loans received in the last 30 days. However, both connected accounts show negative balances and frequent overdrafts, indicating financial distress. The applicant has a history of multiple overdrafts and a negative cash flow trend, which raises concerns about their ability to repay the loan. Therefore, the application is declined.",
+    "timestamp": "2025-11-04 02:02:00"
+  },
+  {
+    "first_name": "Hailey",
+    "last_name": "Nash",
+    "guid": "7ADC1ACF-31BC-4BFE-8B78-0620A33264DC",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 2 active payday loans with a total of 3 loan deductions in the last 30 days, indicating high loan exposure. Additionally, there are frequent overdrafts and a negative balance trend, which suggests financial instability. The applicant also has a history of gambling transactions, which further increases the risk. Therefore, the loan is declined.",
+    "timestamp": "2025-11-04 04:02:02"
+  },
+  {
+    "first_name": "Jessica",
+    "last_name": "Syslo",
+    "guid": "086B6B97-A090-4B4B-9B29-B0F42ACB7A8A",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 3 active payday loans with a total of 3 loan deductions in the last 30 days. There is a high frequency of overdrafts (7 in the last 30 days) and a negative balance trend. Additionally, there are no detected income sources, indicating financial instability. Therefore, the loan is declined.",
+    "timestamp": "2025-11-04 09:02:04"
+  },
+  {
+    "first_name": "Jadyn",
+    "last_name": "Pantin",
+    "guid": "695EE1E0-807C-49C7-97D7-917271AF3C63",
+    "loan_amount": "1150",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of overdrafts (144 in the last 30 days) and a negative balance in their savings account. There are 2 active payday loans, which indicates high existing loan exposure. Additionally, the applicant has a history of financial instability with significant loan deductions and overdrafts, leading to a high-risk assessment.",
+    "timestamp": "2025-11-04 09:02:09"
+  },
+  {
+    "first_name": "sarabjit",
+    "last_name": "Galri",
+    "guid": "07C7C486-4728-4D43-B7CD-0B54DEC36B14",
+    "loan_amount": "550",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, but has a significant number of overdrafts (123) and a negative balance trend. This indicates financial distress, which is a high risk factor for lending. Additionally, there are no income transactions detected, which raises concerns about income stability.",
+    "timestamp": "2025-11-04 09:02:14"
+  },
+  {
+    "first_name": "Stefan",
+    "last_name": "Mrvic",
+    "guid": "FAB565A1-45B8-4240-AD8A-B82B5F8F09AF",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan deductions or new loans received in the last 30 days. However, there is a history of existing loans with 1 active payday loan in the past 60 days, indicating potential financial strain. Additionally, there are multiple overdrafts in the past 180 days, which raises concerns about financial stability. Therefore, the application is declined.",
+    "timestamp": "2025-11-04 10:01:56"
+  },
+  {
+    "first_name": "Cristhian",
+    "last_name": "Tapia",
+    "guid": "8103F853-7F88-471D-927C-DDC4CAC3362E",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 19 payday loan deductions in the last 30 days totaling $3247.27, indicating high loan exposure. Additionally, there are 22 overdraft occurrences totaling $3941.53, which suggests financial distress. The account shows a negative net cash flow with more debits than credits, and there are no signs of stable income or payroll. These factors combined lead to a decision to decline the loan.",
+    "timestamp": "2025-11-04 13:01:57"
+  },
+  {
+    "first_name": "Jhellerie",
+    "last_name": "Valdepena",
+    "guid": "6713B808-6CD7-4815-A112-D2C92AB64E6B",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 0 loan deductions and 1 new payday loan received in the last 30 days, indicating potential reliance on payday loans. Additionally, there are no NSFs or overdrafts, which is a positive factor. However, the presence of a payday loan and the overall financial behavior suggests a risk of financial distress, leading to a decline.",
+    "timestamp": "2025-11-04 15:01:59"
+  },
+  {
+    "first_name": "Justin",
+    "last_name": "Clapp",
+    "guid": "3C1B316C-7CEC-49B7-A1A0-3F754A2EC067",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (6 in the last 30 days) with no new loans received, indicating significant existing loan exposure. Additionally, the account shows a negative mean closing balance and frequent overdrafts (105 in the last 30 days), which suggests financial distress. Therefore, the application for a payday loan is declined.",
+    "timestamp": "2025-11-04 18:01:56"
+  },
+  {
+    "first_name": "Sara Allaby",
+    "last_name": "Allaby",
+    "guid": "0A64CEDE-5EF9-4743-B9F0-BCD932D8FB61",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "No payday loan transactions were found, and the applicant has no loan deductions or income stability indicators. However, the overall financial behavior shows a lack of sufficient income and a high number of debits compared to credits, indicating potential financial distress.",
+    "timestamp": "2025-11-05 00:01:56"
+  },
+  {
+    "first_name": "Megan",
+    "last_name": "Catton",
+    "guid": "3403368D-DFA5-49E1-A6FF-27274C806190",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 4 payday loan deductions in the last 30 days totaling $1489.81, indicating high loan exposure. Additionally, there are 11 overdrafts and 11 NSFs, which suggest financial distress. The applicant's financial behavior shows instability with a high number of transactions and significant loan deductions, leading to a decline.",
+    "timestamp": "2025-11-05 01:01:59"
+  },
+  {
+    "first_name": "David",
+    "last_name": "Gaudet",
+    "guid": "ADA84961-714F-4C74-9DA7-16183999EB21",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, but has a significant number of overdrafts (19 in the last 30 days) totaling $2013.68, indicating financial distress. Additionally, the account shows a negative balance trend and high expenses compared to income, which raises concerns about repayment capacity.",
+    "timestamp": "2025-11-05 09:09:42"
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Dyck",
+    "guid": "6ABB8F86-DE38-4393-88FF-7B617CBAB0DA",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "No loan deductions were found, but the applicant has 2 active payday loans with a total of 3.09 in new loans received. The income appears unstable with a mean closing balance of 0.00 and a high number of debits compared to credits. Additionally, there are no NSF or overdraft issues, but the overall financial picture indicates potential risk.",
+    "timestamp": "2025-11-05 10:39:55"
+  },
+  {
+    "first_name": "Kheang",
+    "last_name": "Ung",
+    "guid": "AAEFAEAF-92CB-4DD9-8BB6-0C1B84BFFEE3",
+    "loan_amount": "600",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of loan deductions (15 payday deductions) and a significant overdraft history (26 overdrafts in the last 30 days), indicating financial distress. Additionally, the account shows a negative net balance trend, which raises concerns about repayment capacity.",
+    "timestamp": "2025-11-05 10:39:59"
+  },
+  {
+    "first_name": "Steve",
+    "last_name": "Sam",
+    "guid": "BB455164-0578-47F8-BE3D-5A40FD645989",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 2 active payday loans, which exceeds the acceptable limit of 1. Additionally, there are 2 overdrafts in the last 30 days, indicating potential financial distress. The income appears to be unstable with no payroll detected, and the overall cash flow does not support additional borrowing. Therefore, the application is declined.",
+    "timestamp": "2025-11-05 10:59:53"
+  },
+  {
+    "first_name": "David",
+    "last_name": "Gaudet",
+    "guid": "ADA84961-714F-4C74-9DA7-16183999EB21",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity in the last 30 days, with zero new loans received and zero loan deductions. However, there are 19 overdrafts in the last 30 days, indicating financial distress. Additionally, the applicant has a low balance of $7.87 and a high total of $6,703.17 in withdrawals, which raises concerns about cash flow. Given these factors, the application is declined.",
+    "timestamp": "2025-11-05 12:41:32"
+  },
+  {
+    "first_name": "Kim",
+    "last_name": "Louis",
+    "guid": "2C161B42-42FB-46BC-9D1D-56B841E53AA4",
+    "loan_amount": "650",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has only one active payday loan with a deduction in the last 30 days, but their financial behavior shows a concerning pattern with 31 debits and only 9 credits, indicating potential cash flow issues. There are no NSF or overdraft occurrences, which is positive, but the overall financial activity suggests instability. Additionally, there is no detected income stability from payroll, and the lack of transaction flags raises concerns about their ability to manage additional debt.",
+    "timestamp": "2025-11-05 14:44:49"
+  },
+  {
+    "first_name": "Maria MONINA",
+    "last_name": "Calugay",
+    "guid": "BC1D635C-C2E7-43F0-A04B-CB4760CC3879",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no recorded income from employment and no transactions flagged as payday loans, indicating a lack of financial activity. Additionally, there are no NSF or overdraft occurrences, but the absence of income stability and loan activity suggests insufficient repayment capacity. Therefore, the application for a payday loan is declined.",
+    "timestamp": "2025-11-05 14:47:34"
+  },
+  {
+    "first_name": "Tatiana",
+    "last_name": "Smith",
+    "guid": "62E4B682-8B93-48D0-A101-F776FD86A5A1",
+    "loan_type": "payday",
+    "loan_amount": "350",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a total of 4 payday loans in the last 30 days, indicating high existing loan exposure. Additionally, there are multiple overdrafts across accounts, with the savings account showing a mean closing balance of -50.44 and a total of 16 overdrafts. This suggests financial distress and an inability to manage cash flow effectively. Given these factors, the application for a payday loan is declined.",
+    "timestamp": "2025-11-05 16:33:43"
+  },
+  {
+    "first_name": "Kali",
+    "last_name": "Hart",
+    "guid": "69666630-7C18-40B0-979A-B20CCBEB8DF7",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan transactions flagged in the report, indicating no recent borrowing activity. However, they have a significant number of overdrafts (17 in the last 30 days) and a negative balance in one account, which suggests financial distress. Additionally, the applicant has multiple loan deductions (2 loans) and a high frequency of debits, which raises concerns about their repayment capacity. Given these factors, the application is declined.",
+    "timestamp": "2025-11-05 17:02:06"
+  },
+  {
+    "first_name": "Andre",
+    "last_name": "Rivera",
+    "guid": "9C02408E-A10E-4841-9CF0-FA5C29791A94",
+    "loan_amount": "100",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple overdrafts (3) and a negative mean closing balance across their accounts, indicating financial distress. There are no active payday loans, but the lack of income stability and high frequency of withdrawals raises concerns about their repayment capacity. Additionally, the applicant has not demonstrated consistent income, which is critical for loan approval.",
+    "timestamp": "2025-11-05 19:01:57"
+  },
+  {
+    "first_name": "George Jr",
+    "last_name": "Garabiles",
+    "guid": "7EBA3B87-6CB6-4CDD-A98F-FF4906839BC2",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan activity, but they exhibit high financial risk with 14 overdrafts in the last 30 days, resulting in a negative balance. Additionally, there is no evidence of stable income, as the average monthly employer income is $0.00, and the average monthly non-employer income is only $1110.01. Given these factors, the applicant does not meet the criteria for loan approval.",
+    "timestamp": "2025-11-05 20:01:59"
+  },
+  {
+    "first_name": "Sheila",
+    "last_name": "Traviss",
+    "guid": "9A5A9392-127E-490D-A20A-E8DFF090673E",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of loan deductions with 9 payday loan deductions in the last 30 days and 14 active payday loans overall, indicating financial distress. Additionally, there are 9 overdrafts in the last 30 days, which further raises concerns about their ability to manage cash flow. Given these factors, the applicant does not qualify for the requested payday loan.",
+    "timestamp": "2025-11-05 21:01:58"
+  },
+  {
+    "first_name": "Thomas",
+    "last_name": "Stavropoulos",
+    "guid": "9D45A837-2073-4806-8C1D-9D7C00ABA6BB",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no recorded income or payroll activity, indicating a lack of income stability. There are no payday loan transactions, deductions, or existing loans, which suggests a lack of borrowing history. Additionally, the account balances are very low, with a mean closing balance of only $3.99 in the chequing account and $0.01 in savings. Given these factors, the applicant does not meet the criteria for a payday loan.",
+    "timestamp": "2025-11-05 22:02:03"
+  },
+  {
+    "first_name": "Amanda",
+    "last_name": "Macko",
+    "guid": "97DB6F77-95DE-47A2-B8C9-E7BABD1FFA25",
+    "loan_amount": "450",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (6 in the last 30 days) and a significant amount of overdrafts (114), indicating financial distress. Additionally, the applicant has a negative mean closing balance across multiple accounts, which raises concerns about their ability to repay new loans. Given these factors, the application for a payday loan is declined.",
+    "timestamp": "2025-11-06 08:01:58"
+  },
+  {
+    "first_name": "Anab",
+    "last_name": "Salad",
+    "guid": "F955A29F-C6D5-465A-8EF5-F6152FBBC15C",
+    "loan_amount": "350",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of loan deductions (10) and has received multiple payday loans in the last 30 days, indicating financial distress. There are also frequent overdrafts (10), which further complicate their repayment capacity. Given these factors, along with the absence of stable income signals, the application is declined.",
+    "timestamp": "2025-11-06 12:02:02"
+  },
+  {
+    "first_name": "Ritik",
+    "last_name": "Ritik",
+    "guid": "70676352-0303-4D6B-AE4C-DF2FBFD6C702",
+    "loan_amount": "550",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has only one active payday loan and has not received any new loans in the last 30 days. However, there are no NSF or overdraft occurrences, indicating low financial distress. Despite this, the lack of steady income and the absence of payroll flags suggest insufficient income stability for the requested amount. Therefore, the application is declined.",
+    "timestamp": "2025-11-06 14:02:00"
+  },
+  {
+    "first_name": "Martin Pembroke",
+    "last_name": "Pembroke",
+    "guid": "4E84F0D7-5EC7-4E26-9BA4-EFD8EA94E5C4",
+    "loan_amount": "250",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts (245 in the last 30 days) and a negative mean closing balance, indicating financial distress. They also have 21 payday loan transactions in the last 30 days, which suggests a reliance on payday loans. Given these factors, along with the absence of stable income and the presence of multiple loan deductions, the application is declined.",
+    "timestamp": "2025-11-06 14:02:07"
+  },
+  {
+    "first_name": "VANESSA",
+    "last_name": "Faithful",
+    "guid": "60A8B18E-18CB-47A6-8B07-B3EEAC32E224",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of loan deductions with 2 payday loan deductions in the last 30 days and 3 active loans overall, indicating financial distress. Additionally, there are 3 overdrafts in the last 30 days, which raises concerns about their cash flow stability. The absence of steady payroll income further complicates their ability to repay new loans. Therefore, the application is declined.",
+    "timestamp": "2025-11-06 15:02:00"
+  },
+  {
+    "first_name": "Shennel",
+    "last_name": "Lodrick",
+    "guid": "13C0DA81-4212-4628-96E4-506A7571007B",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts (13 in the last 30 days) and a negative mean closing balance, indicating financial distress. There are 2 active payday loans, which is above the acceptable limit of 1. Additionally, gambling activity has been detected with 1 transaction totaling $25, but it does not meet the threshold for heavy gambling. Overall, the applicant's financial behavior suggests they are not in a stable position to take on additional debt. Gambling detected: 1 txn(s), total $25.0, max single $25.0.",
+    "timestamp": "2025-11-06 16:01:58"
+  },
+  {
+    "first_name": "Zannoon",
+    "last_name": "Ali",
+    "guid": "15425DDC-7E27-409E-BF22-76F6CE629A73",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has multiple overdrafts (3 in the last 30 days) and a high number of total debits (291), indicating potential financial distress. There are no payday loans flagged in the report, but the existing loans (2) and the overall cash flow suggest a risk of repayment issues. Additionally, the applicant has a history of low balances, which further supports the decision to decline the loan.",
+    "timestamp": "2025-11-06 16:02:01"
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Miller",
+    "guid": "D327C264-CB09-4E0A-B424-D52C2419C49C",
+    "loan_type": "payday",
+    "loan_amount": "1400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan transactions, with 10 new loans received and 10 loan deductions in the last 30 days, indicating significant reliance on payday loans. Additionally, there are no NSF or overdraft occurrences, but the overall financial behavior suggests distress due to the high volume of loan activity. Given these factors, along with the absence of stable income and the presence of a credit card with a negative balance, the application is declined.",
+    "timestamp": "2025-11-06 23:25:15"
+  },
+  {
+    "first_name": "Glendon",
+    "last_name": "Brown",
+    "guid": "470E1562-B16C-470C-AA9B-A61731F7D6AB",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan transactions, with 14 new loans received and 14 loan deductions in the last 30 days, indicating potential financial distress. Additionally, there are no NSF or overdraft issues, but the overall financial behavior suggests a reliance on payday loans. Given these factors, the applicant does not meet the criteria for approval.",
+    "timestamp": "2025-11-07 07:01:58"
+  },
+  {
+    "first_name": "Abiodun",
+    "last_name": "Salako",
+    "guid": "C7DE4D2D-8AE0-494F-9DD5-A0B7CA216448",
+    "loan_amount": "600",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has 2 active payday loans, which exceeds the limit of 1 for approval. Additionally, there is 1 overdraft recorded, indicating potential financial distress. The absence of consistent payroll income and the lack of recent transactions further suggest instability in their financial behavior. Therefore, the application for a payday loan is declined.",
+    "timestamp": "2025-11-07 08:01:58"
+  },
+  {
+    "first_name": "Caroline",
+    "last_name": "Laing",
+    "guid": "40CB9ED9-E749-4484-8A5D-2EB3A283F9BF",
+    "loan_type": "payday",
+    "loan_amount": "650",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no recorded payday loan transactions, but their financial behavior shows significant risk factors. They have a high frequency of overdrafts (15 in the last 30 days) and a negative mean closing balance, indicating financial distress. Additionally, the lack of stable income sources and the absence of payroll detection further contribute to the decision to decline the loan application.",
+    "timestamp": "2025-11-07 15:33:58"
+  },
+  {
+    "first_name": "James",
+    "last_name": "Breadmore",
+    "guid": "78276B47-7B64-46C5-8D80-C46E3CD8B210",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of payday loan deductions (7 in the last 30 days) with no new loans received, indicating financial distress. Additionally, there are 2 overdrafts in the last 30 days, which raises concerns about their cash flow. The absence of stable income, as indicated by the lack of payroll flags, further supports the decision to decline the loan application.",
+    "timestamp": "2025-11-07 17:01:56"
+  },
+  {
+    "first_name": "Hamza",
+    "last_name": "abdelnaser",
+    "guid": "BFA23A29-8A70-45DC-BFD1-3CF3938F8F60",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no detected income stability as there are no payroll transactions flagged. Additionally, there are no payday loan transactions in the last 30 days, indicating no recent borrowing activity. The account shows a concerning number of overdrafts (9 in the last 30 days), which suggests financial distress. Given these factors, the application for a payday loan is declined.",
+    "timestamp": "2025-11-07 18:01:35"
+  },
+  {
+    "first_name": "Alan",
+    "last_name": "Chung",
+    "guid": "5B67C473-58CF-44D2-BE56-ADFA600B6D0D",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance in their chequing account and a high frequency of overdrafts (81 in the last 30 days), indicating financial distress. They have 1 active payday loan with 2 loan deductions in the last 30 days, which poses a risk. Additionally, there is no stable income detected, and the overall cash flow is concerning with significant withdrawals compared to deposits.",
+    "timestamp": "2025-11-07 18:01:56"
+  },
+  {
+    "first_name": "Nicoleta",
+    "last_name": "Mazomenos",
+    "guid": "15DB0D9B-5188-4A30-981B-21DDEA86E0BF",
+    "loan_amount": "950",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of payday loan deductions, with 30 payday transactions in the last 30 days, indicating significant reliance on payday loans. Additionally, there is 1 overdraft recorded, which suggests potential financial distress. The applicant has 2 active payday loans, which exceeds the acceptable limit of 1 for approval. Given these factors, the application is declined.",
+    "timestamp": "2025-11-07 19:01:59"
+  },
+  {
+    "first_name": "Yash",
+    "last_name": "Patel",
+    "guid": "F4AE1365-A322-4AD9-ACAC-6B609F0F0B44",
+    "loan_amount": "150",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of loan deductions, with 4 payday loan deductions in the last 30 days and 5 total loans. Additionally, there are 10 overdrafts in the last 30 days, indicating financial distress. The mean closing balance is negative, suggesting a lack of sufficient funds to cover expenses. Given these factors, the applicant does not meet the criteria for approval.",
+    "timestamp": "2025-11-07 21:01:57"
+  },
+  {
+    "first_name": "Noah",
+    "last_name": "Tegland",
+    "guid": "8973B7FF-DBD3-4719-A1D0-74A6E0240C57",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance in their chequing account and a high frequency of overdrafts (52 in the last 30 days), indicating financial distress. They have received 7 payday loans but have also made 6 loan deductions, suggesting they are actively managing multiple loans. Additionally, the overall cash flow is negative, and there are no signs of stable income. Given these factors, the risk of default is too high.",
+    "timestamp": "2025-11-07 22:02:01"
+  },
+  {
+    "first_name": "Matthew",
+    "last_name": "Czekalski",
+    "guid": "B9BCF11E-54F7-4AAE-B1E7-0FF0D6F5334A",
+    "loan_amount": "150",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of payday loan deductions, with 9 deductions in the last 30 days and a total of 27 over the last 90 days, indicating significant existing loan exposure. Additionally, there are 15 overdrafts in the last 30 days, suggesting financial distress. The overall cash flow shows a negative trend with more withdrawals than deposits, further supporting the decision to decline the loan.",
+    "timestamp": "2025-11-07 22:02:06"
+  },
+  {
+    "first_name": "Matthew",
+    "last_name": "Mckenzie",
+    "guid": "52C408EA-06EB-4615-B2FC-463165B3598B",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no steady income as indicated by the lack of payroll flags and a negative mean closing balance across all accounts. There are no payday loans or deductions, but the applicant has a significant number of overdrafts (63 in the last 30 days) and a negative cash flow, indicating financial distress. Given these factors, the applicant does not qualify for the loan.",
+    "timestamp": "2025-11-07 23:01:56"
+  },
+  {
+    "first_name": "Evan",
+    "last_name": "Wolsey",
+    "guid": "E0F1FC75-1331-4FC4-BE5B-0717EE2C6229",
+    "loan_type": "payday",
+    "loan_amount": "950",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no recorded payday loan transactions, indicating no existing loan exposure. However, there are 2 overdrafts in the last 30 days, which suggests financial distress. The average monthly employer income is low at $420.40, and the mean balance after payroll is negative. Given these factors, the applicant does not demonstrate sufficient income stability or repayment capacity for the requested loan.",
+    "timestamp": "2025-11-08 06:45:42"
+  },
+  {
+    "first_name": "Aashutosh",
+    "last_name": "Jani",
+    "guid": "9F543914-AAA9-427B-9286-B4EBCAF43302",
+    "loan_amount": "900",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a significant number of loan deductions (5 payday loan deductions totaling $2407.00) and no new loans received in the last 30 days. Additionally, there are 78 overdrafts, indicating high financial distress. Gambling activity is present with 1 transaction totaling $41.00, but it does not meet the threshold for heavy gambling. Overall, the financial behavior suggests an inability to manage existing debts, leading to the decline of the loan application. Gambling detected: 1 txn(s), total $41.0, max single $41.0.",
+    "timestamp": "2025-11-08 11:02:00"
+  },
+  {
+    "first_name": "tara",
+    "last_name": "boyle",
+    "guid": "6E5F829F-CD02-48F7-9159-636401F9D060",
+    "loan_amount": "500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts (5 in the last 30 days) and a negative mean balance after payroll (-37.52), indicating financial distress. Additionally, there are 12 loan transactions in the last 30 days, which suggests a high level of existing loan exposure. Given these factors, the applicant does not meet the criteria for approval.",
+    "timestamp": "2025-11-08 11:02:04"
+  },
+  {
+    "first_name": "Tara",
+    "last_name": "Harris",
+    "guid": "FD160A5B-AE50-4477-BD23-428A86BAE226",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a total of 4 active payday loans, which exceeds the acceptable limit of 1 active loan. Additionally, there are frequent overdrafts (47 in the last 30 days) indicating financial distress. The account balances are consistently negative, further supporting the decision to decline the loan application.",
+    "timestamp": "2025-11-08 12:01:57"
+  },
+  {
+    "first_name": "Josephine",
+    "last_name": "Namulwana",
+    "guid": "E48455C9-42C7-460E-920E-B9950733B10D",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a significant number of payday loan deductions (11) and has been flagged for high overdraft activity (35 overdrafts in the last 30 days), indicating financial distress. Additionally, the mean closing balance is negative, suggesting ongoing cash flow issues. With no stable income detected and multiple loan deductions, the risk of repayment is too high to approve the loan.",
+    "timestamp": "2025-11-08 12:02:01"
+  },
+  {
+    "first_name": "Jithin",
+    "last_name": "Achankunju Luke",
+    "guid": "50455D92-045E-4F57-AC2A-97FEA868BD2A",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan transactions flagged in the last 30 days, indicating no recent borrowing activity. However, there are 2 overdrafts in the last 30 days, which suggests financial distress. Additionally, the applicant has a history of 1 active payday loan, which raises concerns about their repayment capacity. Given these factors, the application is declined.",
+    "timestamp": "2025-11-08 12:02:03"
+  },
+  {
+    "first_name": "Sashamani",
+    "last_name": "Walker",
+    "guid": "F4B1A0B1-376B-44B1-8A25-BE7CA51FECC7",
+    "loan_amount": "1000",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts (23 in the last 30 days) and significant loan deductions (2 payday loans deducted totaling $570). Additionally, there are no active payday loans, but the overall financial behavior indicates distress with a negative cash flow. The applicant's income appears unstable, and there are no payroll flags detected, which raises concerns about their ability to repay the loan.",
+    "timestamp": "2025-11-08 14:01:58"
+  },
+  {
+    "first_name": "Aaron",
+    "last_name": "Stevens",
+    "guid": "F79680F9-B844-4305-A47A-9605D293E4D5",
+    "loan_amount": "150",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan transactions flagged in the last 30 days, but they have a high frequency of overdrafts (8 in the last 30 days) and a negative mean closing balance. Additionally, there are 2 active payday loans from the savings account, indicating existing loan exposure. Given these factors, the applicant is at high financial risk, leading to a decline.",
+    "timestamp": "2025-11-08 16:01:57"
+  },
+  {
+    "first_name": "Meital",
+    "last_name": "Resnikov",
+    "guid": "D4E60481-D749-4CA0-BFB2-E10D88E8225A",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts, with 15 overdrafts in the last 30 days, indicating financial distress. Additionally, there are 4 active payday loans, which exceeds the acceptable limit of 1 active loan. The income appears unstable with no consistent payroll detected, and the overall cash flow shows significant withdrawals compared to deposits. Given these factors, the application is declined.",
+    "timestamp": "2025-11-08 17:02:00"
+  },
+  {
+    "first_name": "mark",
+    "last_name": "ritchie",
+    "guid": "D696AA7C-51DF-4D55-ADAA-5B2ED2F5F120",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of loan deductions with 12 payday loan deductions in the last 30 days, indicating financial distress. Additionally, there are 2 distinct lenders involved, which suggests multiple active loans. The account shows a significant number of overdrafts (51) and a negative mean closing balance, further highlighting financial instability. Gambling activity is also present, with 1 transaction detected, but it does not meet the threshold for automatic decline. Overall, the applicant's financial behavior does not support the approval of a new payday loan. Gambling detected: 1 txn(s), total $888.36, max single $888.36.",
+    "timestamp": "2025-11-08 18:01:57"
+  },
+  {
+    "first_name": "Andre mike",
+    "last_name": "Mike",
+    "guid": "B6603C5D-7446-4B78-AABA-59F2EF80469D",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a significant number of payday loan transactions (23 in the last 30 days) with a total of 23 loan deductions, indicating high existing loan exposure. Additionally, there are 32 overdrafts in the last 30 days, which suggests financial distress. The balance in the primary chequing account is negative, and there is no evidence of stable income, as the income sources are inconsistent. Therefore, the application is declined due to high risk.",
+    "timestamp": "2025-11-08 21:02:02"
+  },
+  {
+    "first_name": "Amanda",
+    "last_name": "Audenaert",
+    "guid": "54088831-31A6-4075-80D4-971707AF34E0",
+    "loan_amount": "350",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no payday loan transactions in the last 30 days, indicating no new loans received. However, they have one existing loan with a deduction of $311.01, which suggests financial strain. Additionally, there are no NSF or overdraft occurrences, but the overall cash flow appears tight with significant expenses compared to income. Given these factors, the applicant does not meet the criteria for approval.",
+    "timestamp": "2025-11-08 21:02:06"
+  },
+  {
+    "first_name": "Jasmine",
+    "last_name": "Arruda",
+    "guid": "3A57D3C5-D40F-4580-B056-319C14C30B56",
+    "loan_amount": "1500",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance in their chequing account and a high frequency of overdrafts (132 in the last 30 days), indicating financial distress. They have 13 payday loan transactions, with 13 deductions, suggesting multiple active loans. The income appears unstable with no payroll detected, and the overall cash flow is concerning. Therefore, the application is declined due to high financial risk.",
+    "timestamp": "2025-11-09 00:02:02"
+  },
+  {
+    "first_name": "Jai-Raj",
+    "last_name": "Jhajj",
+    "guid": "4AF78732-C172-4F1F-A246-44AE34DA9B80",
+    "loan_type": "payday",
+    "loan_amount": "300",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance in their chequing account and has experienced 31 overdrafts in the last 30 days, indicating significant financial distress. There are 12 payday loan transactions, which suggests a high reliance on payday loans. Additionally, there is no evidence of stable income, as the average monthly employer income is reported as $0.00. Given these factors, the applicant does not qualify for the loan.",
+    "timestamp": "2025-11-09 05:59:44"
+  },
+  {
+    "first_name": "Tiffany",
+    "last_name": "Hunt",
+    "guid": "50643029-7D1E-4A18-8553-A13C5753C5E7",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high frequency of overdrafts, with 9 occurrences in the last 30 days, indicating financial distress. Additionally, there are 2 active payday loans, which exceeds the acceptable limit of 1 active loan. The overall cash flow shows a significant imbalance with high withdrawals compared to deposits, further supporting the decision to decline the application.",
+    "timestamp": "2025-11-09 13:01:59"
+  },
+  {
+    "first_name": "Laura",
+    "last_name": "Reffo",
+    "guid": "303EB0A3-EBBD-4E7F-B27E-0384377A5D8A",
+    "loan_type": "payday",
+    "loan_amount": "400",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no recorded payday loan activity, with 0 new loans received and 0 loan deductions in the last 30 days. However, there are 6 overdrafts recorded, indicating financial distress. Additionally, the account shows a negative balance trend with a current overdraft, which raises concerns about repayment capacity. Given these factors, the application is declined.",
+    "timestamp": "2025-11-09 13:54:33"
+  },
+  {
+    "first_name": "Ravi",
+    "last_name": "Sagar",
+    "guid": "87C8EFAE-B8D7-4441-8F82-16E7C7FFE496",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a high number of active payday loans, with 3 loans reported in the last 30 days. Additionally, there are 2 overdrafts recorded, indicating potential financial distress. The income appears to be unstable with no payroll detected, and the overall cash flow shows significant withdrawals compared to deposits. Given these factors, the application for a payday loan is declined.",
+    "timestamp": "2025-11-09 19:32:46"
+  },
+  {
+    "first_name": "Van Carlo",
+    "last_name": "Labiano",
+    "guid": "13B5CE4D-D58B-4E4D-A2A2-26F0CA755659",
+    "loan_amount": "200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has no stable income as indicated by the absence of payroll flags and a negative average monthly balance. There are 42 overdrafts in the last 30 days, indicating financial distress. Additionally, the applicant has no active payday loans, but the overall financial behavior shows high risk due to frequent overdrafts and a negative cash flow.",
+    "timestamp": "2025-11-09 22:01:59"
+  },
+  {
+    "first_name": "Harpreet",
+    "last_name": "Chahal",
+    "guid": "DF062C6E-234F-44C7-8946-576569290D63",
+    "loan_amount": "1200",
+    "decision": "Declined",
+    "approved_amount": null,
+    "rationale": "The applicant has a negative balance in their chequing account and a high frequency of overdrafts (299 in the last 30 days), indicating financial distress. They have 2 active payday loans, which is above the acceptable limit for approval. Additionally, there are no signs of stable income, as the average monthly employer income is low and there are no payroll transactions detected. Given these factors, the application is declined.",
+    "timestamp": "2025-11-10 02:02:04"
   }
 ]

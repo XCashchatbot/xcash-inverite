@@ -1,3 +1,452 @@
 [
- 
+  {
+    "first_name": "Emmanuel",
+    "last_name": "elemchukwu",
+    "address": "675 huntington ridge drive, mississauga, 925808d0-3195-ea11-a812-000d3a0c2b5d, l5r4h7",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-10-27 18:50:27"
+  },
+  {
+    "first_name": "Roubense Bautista",
+    "last_name": "Bautista",
+    "address": "9 rue lafrance, apt 5, victoriaville, qc, g6p 9p7",
+    "detected_province": "quebec",
+    "loan_type": "payday",
+    "loan_amount": "250",
+    "timestamp": "2025-10-29 12:42:23"
+  },
+  {
+    "first_name": "Kulminder",
+    "last_name": "Rai",
+    "address": "3716 5th ave, port alberni, british columbia, v9y4k4",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "400",
+    "timestamp": "2025-10-29 23:15:30"
+  },
+  {
+    "first_name": "Fortune-Judith",
+    "last_name": "Domtinet",
+    "address": "260 rue st-redempteur, 401, gatineau, québec, j8x2t1",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "600",
+    "timestamp": "2025-10-30 09:16:51"
+  },
+  {
+    "first_name": "Jonathan",
+    "last_name": "Sheppard",
+    "address": "p.o. box 23, lark harbour, nl - newfoundland and labrador, a0l1h0",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "250",
+    "timestamp": "2025-10-31 07:17:38"
+  },
+  {
+    "first_name": "christina jolie",
+    "last_name": "jolie",
+    "address": "7580 main street, louisbourg, nova scotia, b1c 1k1",
+    "detected_province": "nova scotia",
+    "loan_type": "payday",
+    "loan_amount": "250",
+    "timestamp": "2025-10-31 08:14:59"
+  },
+  {
+    "first_name": "Navneet",
+    "last_name": "Navneet",
+    "address": "13485 87a avenue, surrey, british columbia, v3w6b7",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-10-31 11:36:44"
+  },
+  {
+    "first_name": "Monica",
+    "last_name": "Smith",
+    "address": "162 rue lorette, dieppe, nb, e1a0c4",
+    "detected_province": "new brunswick",
+    "loan_type": "payday",
+    "loan_amount": "550",
+    "timestamp": "2025-11-01 11:19:10"
+  },
+  {
+    "first_name": "sabrina",
+    "last_name": "youden",
+    "address": "209 springfield crescent, 45, waterloo, ont, n2t2n1",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "250",
+    "timestamp": "2025-11-01 12:50:09"
+  },
+  {
+    "first_name": "Bryan",
+    "last_name": "Manantan",
+    "address": "135 bleecker, 104, toronto, ontatio, m4x1x2",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-01 15:04:52"
+  },
+  {
+    "first_name": "Elen",
+    "last_name": "Hernandez",
+    "address": "126 laurentia bay, winnipeg, mb, r2c0h1",
+    "detected_province": "manitoba",
+    "loan_type": "payday",
+    "loan_amount": "600",
+    "timestamp": "2025-11-01 17:14:52"
+  },
+  {
+    "first_name": "Deborah",
+    "last_name": "Rupert",
+    "address": "a3 house 14 cluster, chisasibi, qc, j0m 1e0",
+    "detected_province": "quebec",
+    "loan_type": "payday",
+    "loan_amount": "1250",
+    "timestamp": "2025-11-01 17:47:25"
+  },
+  {
+    "first_name": "Leanne",
+    "last_name": "Voutour",
+    "address": "2 north street, charlottetown, pe, c1e 1v4",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-02 09:33:02"
+  },
+  {
+    "first_name": "Courtney",
+    "last_name": "Allison",
+    "address": "250 scottsdale drive, guelph, ont, n1g2k8",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "600",
+    "timestamp": "2025-11-02 10:12:24"
+  },
+  {
+    "first_name": "Robin",
+    "last_name": "States",
+    "address": "586 colby drive, cole harbour, ns, b2v 1x9",
+    "detected_province": "nova scotia",
+    "loan_type": "payday",
+    "loan_amount": "1350",
+    "timestamp": "2025-11-02 11:03:51"
+  },
+  {
+    "first_name": "Tolerance",
+    "last_name": "Mugororotsi",
+    "address": "422 whelan crescent, saskatoon, sk, s7l 7c1",
+    "detected_province": "saskatchewan",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-02 11:30:17"
+  },
+  {
+    "first_name": "Bruce",
+    "last_name": "Budgell",
+    "address": "47 maple, badger, nl, a0h 1a0",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "700",
+    "timestamp": "2025-11-02 18:38:27"
+  },
+  {
+    "first_name": "Rita",
+    "last_name": "Blyde",
+    "address": "170 torbay road, 224, st. john's, nl, a1a 2h3",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "100",
+    "timestamp": "2025-11-03 07:22:38"
+  },
+  {
+    "first_name": "sara",
+    "last_name": "zadghanad",
+    "address": "985 crystal crt, basement suit, coquitlam, bc, v3c 5x5",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-03 14:21:08"
+  },
+  {
+    "first_name": "James",
+    "last_name": "Russell",
+    "address": "3615 carrington road, 212, west kelowna, british columbia, v4t 3n6",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-03 21:03:31"
+  },
+  {
+    "first_name": "Manav",
+    "last_name": "Manav",
+    "address": "12123 new mclellan road, surrey, bc, v3x2x8",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-04 07:40:51"
+  },
+  {
+    "first_name": "Veronica",
+    "last_name": "Burgess",
+    "address": "224 forest street, yarmouth, nova scotia, b5a5h4",
+    "detected_province": "nova scotia",
+    "loan_type": "payday",
+    "loan_amount": "300",
+    "timestamp": "2025-11-04 11:50:37"
+  },
+  {
+    "first_name": "Ashley",
+    "last_name": "Gray",
+    "address": "634 riverview road, bear river, nova scotia, b0s1b0",
+    "detected_province": "nova scotia",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-05 10:37:28"
+  },
+  {
+    "first_name": "Clayton",
+    "last_name": "Sedrovic",
+    "address": "1534 5th ave, trail, bc, v1r1t8",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-05 14:09:51"
+  },
+  {
+    "first_name": "Vienna",
+    "last_name": "Smith",
+    "address": "913 tremauden, 913, the pas, mb, r9a1m2",
+    "detected_province": "manitoba",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-06 01:10:03"
+  },
+  {
+    "first_name": "Sandeep",
+    "last_name": "Sandeep",
+    "address": "3080 kilpatrick ave, courtenay, bc, v9n 0h3",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-06 07:21:49"
+  },
+  {
+    "first_name": "Herbert",
+    "last_name": "Walmsley",
+    "address": "416 paling ave, 2, hamilton, ont, l8h5k4",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "300",
+    "timestamp": "2025-11-06 12:37:38"
+  },
+  {
+    "first_name": "aymaan islam",
+    "last_name": "Islam",
+    "address": "944g chancellor dr, winnipeg, manitoba, r3t2k1",
+    "detected_province": "manitoba",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-06 18:59:27"
+  },
+  {
+    "first_name": "Ishvinder",
+    "last_name": "Kour",
+    "address": "1812 riverside ave, kelowna, bc, v1y 1a7",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-07 14:39:08"
+  },
+  {
+    "first_name": "Melanie",
+    "last_name": "Saunders",
+    "address": "41 ferryland street east, st. john's, nl, a1e 2k9",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-07 15:06:35"
+  },
+  {
+    "first_name": "Frederick",
+    "last_name": "Connolly",
+    "address": "4 wilkie ave., north sydney, nova scotia, b2a1y4",
+    "detected_province": "nova scotia",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-07 17:55:46"
+  },
+  {
+    "first_name": "Courtney",
+    "last_name": "noble",
+    "address": "75 main street, carters cove, nl, a0g1p0",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "600",
+    "timestamp": "2025-11-07 19:19:18"
+  },
+  {
+    "first_name": "COREY",
+    "last_name": "Qavvik",
+    "address": "01 seal road, 18, kugaaruk, nu, x0b-1k0",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "650",
+    "timestamp": "2025-11-07 21:09:01"
+  },
+  {
+    "first_name": "Christ",
+    "last_name": "Guiboche",
+    "address": "1 broadway st, rathwell, mb, r0g1s0",
+    "detected_province": "manitoba",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-08 04:12:37"
+  },
+  {
+    "first_name": "Mathieu",
+    "last_name": "Leclerc",
+    "address": "101 rue samuel caron, montmagny, qc, g5v",
+    "detected_province": "quebec",
+    "loan_type": "payday",
+    "loan_amount": "",
+    "timestamp": "2025-11-08 23:22:51"
+  },
+  {
+    "first_name": "Ernest",
+    "last_name": "Stewart",
+    "address": "6 oceanview street, grand bank, nl, a0e 1w0",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-09 12:52:25"
+  },
+  {
+    "first_name": "Troy",
+    "last_name": "Cock",
+    "address": "335 prior rd s, kelowna, british columbia, v1x 2y3",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-09 19:28:23"
+  },
+  {
+    "first_name": "Adam",
+    "last_name": "Wood",
+    "address": "32 oakleigh place, 2, winnipeg, manitoba, r2m0l1",
+    "detected_province": "manitoba",
+    "loan_type": "payday",
+    "loan_amount": "100",
+    "timestamp": "2025-11-10 07:37:34"
+  },
+  {
+    "first_name": "Alhousseyni",
+    "last_name": "Haidara",
+    "address": "4671 18e avenue, 1, montreal, quebec, h1x2n6",
+    "detected_province": "quebec",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-10 09:06:05"
+  },
+  {
+    "first_name": "Mary",
+    "last_name": "DeMerchant",
+    "address": "147 broadway street, 3, woodstock o, nb, e7m1b6",
+    "detected_province": "new brunswick",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-10 10:30:39"
+  },
+  {
+    "first_name": "Amands",
+    "last_name": "Kew",
+    "address": "401 argyle street north, regina, saskatchewan, s4r4c9",
+    "detected_province": "saskatchewan",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-12 14:58:28"
+  },
+  {
+    "first_name": "Corey",
+    "last_name": "Panika",
+    "address": "p.o. box 845, rankin inlet, nunavut, x0c0g0",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": "800",
+    "timestamp": "2025-11-12 17:49:58"
+  },
+  {
+    "first_name": "Simona",
+    "last_name": "Knorr",
+    "address": "1483 jefferson ave, west vancouver, bc, v7t2b6",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-13 03:07:36"
+  },
+  {
+    "first_name": "Francis",
+    "last_name": "Richards",
+    "address": "331 broad street, 1, regina, saskatchewan, s4r 2x8",
+    "detected_province": "saskatchewan",
+    "loan_type": "payday",
+    "loan_amount": "350",
+    "timestamp": "2025-11-13 06:01:14"
+  },
+  {
+    "first_name": "Kyle",
+    "last_name": "Bewers",
+    "address": "1805 richardson rd, saskatoon, sk, s7l 4b6",
+    "detected_province": "saskatchewan",
+    "loan_type": "payday",
+    "loan_amount": "400",
+    "timestamp": "2025-11-13 14:28:29"
+  },
+  {
+    "first_name": "kavin John",
+    "last_name": "luklukan",
+    "address": "24 westwood drive, dartmouth, ns, b2x 1y5",
+    "detected_province": "nova scotia",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-13 14:50:00"
+  },
+  {
+    "first_name": "Carissa",
+    "last_name": "Taylor",
+    "address": "372 assiniboine ave, winnipeg, mb, r330y2",
+    "detected_province": "manitoba",
+    "loan_type": "payday",
+    "loan_amount": "700",
+    "timestamp": "2025-11-14 21:56:15"
+  },
+  {
+    "first_name": "Timothy",
+    "last_name": "Campbell",
+    "address": "13678 grosvenor rd, 201, surrey, british columbia, v3r 5e2",
+    "detected_province": "british columbia",
+    "loan_type": "payday",
+    "loan_amount": "1500",
+    "timestamp": "2025-11-14 23:18:27"
+  },
+  {
+    "first_name": "John Alexander",
+    "last_name": "Alexander",
+    "address": "141 upper waweig road, house, waweig, nb, e3l4m9",
+    "detected_province": "new brunswick",
+    "loan_type": "payday",
+    "loan_amount": "500",
+    "timestamp": "2025-11-15 11:31:06"
+  },
+  {
+    "first_name": "Donald",
+    "last_name": "Mitchell",
+    "address": "608 main drive, terrenceville, nl, a0e2x0",
+    "detected_province": "newfoundland",
+    "loan_type": "payday",
+    "loan_amount": "700",
+    "timestamp": "2025-11-15 12:04:01"
+  }
 ]
