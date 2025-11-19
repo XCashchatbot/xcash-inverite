@@ -1,5 +1,5 @@
 # === formidable_receiver.py ===
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, make_response 
 from dotenv import load_dotenv
 from inverite_data import fetch_report, convert_to_text
 from loan_analyzer import analyze_bank_statement
@@ -195,6 +195,9 @@ def add_to_pending_queue(item):
 # ──────────────────────────────────────
 # 3️⃣ Payday Form Submission (Main Logic)
 # ──────────────────────────────────────
+
+
+
 @app.route("/webhook/payday", methods=["POST"])
 def payday_webhook():
     """
@@ -210,7 +213,8 @@ def payday_webhook():
         first_name = data.get("first_name", "").strip()
         last_name = data.get("last_name", "").strip()
         loan_type = data.get("loan_type", "payday")
-        loan_amount = data.get("loan_amount", "")
+        loan_amount_raw = data.get("loan_amount", "")
+        loan_amount = float(loan_amount_raw) if loan_amount_raw else 0.0
         address = data.get("address", "").strip().lower()
 
         print(f"⏳ Checking province eligibility for {first_name} {last_name}...")
@@ -233,7 +237,6 @@ def payday_webhook():
         detected_province = None
         for province, variants in all_known_provinces.items():
             for variant in variants:
-                # match with commas or spaces to avoid false positives like "london"
                 if (
                     f" {variant} " in f" {address} "
                     or f",{variant}," in address
@@ -249,17 +252,6 @@ def payday_webhook():
         if detected_province not in allowed_provinces:
             print(f"🚫 Application rejected — Province not supported: {detected_province or 'unknown'}")
 
-            skipped_entry = {
-                "first_name": first_name,
-                "last_name": last_name,
-                "address": address,
-                "detected_province": detected_province or "unknown",
-                "loan_type": loan_type,
-                "loan_amount": loan_amount,
-                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            }
-
-            # Save rejection
             if os.path.exists(SKIPPED_FILE):
                 try:
                     with open(SKIPPED_FILE, "r", encoding="utf-8") as f:
@@ -269,7 +261,17 @@ def payday_webhook():
             else:
                 skipped_data = []
 
+            skipped_entry = {
+                "first_name": first_name,
+                "last_name": last_name,
+                "address": address,
+                "detected_province": detected_province or "unknown",
+                "loan_type": loan_type,
+                "loan_amount": loan_amount,
+                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            }
             skipped_data.append(skipped_entry)
+
             with open(SKIPPED_FILE, "w", encoding="utf-8") as f:
                 json.dump(skipped_data, f, indent=2, ensure_ascii=False)
 
@@ -307,8 +309,41 @@ def payday_webhook():
 
         # 🧾 Report Found – Fetch & Analyze
         report = fetch_report(guid)
-        text_summary = convert_to_text(report)
-        decision = analyze_bank_statement(text_summary, loan_amount)
+        report_dict, text_summary = convert_to_text(report)
+        decision_raw = analyze_bank_statement(report_dict, text_summary, loan_amount)
+
+        print("🔍 decision_raw type:", type(decision_raw), "value:", repr(decision_raw))
+
+        # --- Normalize decision into a dict so .get() never crashes ---
+        if isinstance(decision_raw, dict):
+            decision = decision_raw
+        elif isinstance(decision_raw, str):
+            try:
+                parsed = json.loads(decision_raw)
+                if isinstance(parsed, dict):
+                    decision = parsed
+                else:
+                    decision = {
+                        "decision": "Error",
+                        "approved_amount": None,
+                        "rationale": f"Non-dict JSON from analyzer: {parsed}",
+                    }
+            except json.JSONDecodeError:
+                decision = {
+                    "decision": "Error",
+                    "approved_amount": None,
+                    "rationale": decision_raw,
+                }
+        else:
+            decision = {
+                "decision": "Error",
+                "approved_amount": None,
+                "rationale": f"Unexpected decision type: {type(decision_raw)}",
+            }
+
+        decision.setdefault("decision", "Error")
+        decision.setdefault("approved_amount", None)
+        decision.setdefault("rationale", "No rationale provided.")
 
         # 🔄 Save decision
         DECISION_LOG_FILE = "payday_loan_decisions.json"
@@ -347,8 +382,10 @@ def payday_webhook():
         }), 200
 
     except Exception as e:
-        print(f"❌ Failed to parse JSON: {e}")
+        print(f"❌ Error in /webhook/payday: {e!r}")
+        traceback.print_exc()
         return jsonify({"error": str(e)}), 500
+
 
   
 

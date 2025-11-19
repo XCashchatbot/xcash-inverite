@@ -448,5 +448,14 @@
     "loan_type": "payday",
     "loan_amount": "700",
     "timestamp": "2025-11-15 12:04:01"
+  },
+  {
+    "first_name": "Godwin",
+    "last_name": "Adigun",
+    "address": "",
+    "detected_province": "unknown",
+    "loan_type": "payday",
+    "loan_amount": 500.0,
+    "timestamp": "2025-11-19 12:41:40"
   }
 ]

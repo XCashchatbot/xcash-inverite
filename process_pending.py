@@ -118,10 +118,12 @@ def process_pending():
 
         try:
             report = fetch_report(guid)
-            text_summary = convert_to_text(report)
+            report_dict, text_summary = convert_to_text(report)
+
 
             # Run analyzer safely
-            decision_raw = analyze_bank_statement(text_summary, loan_amount)
+            decision_raw = analyze_bank_statement(report_dict, text_summary, loan_amount)
+
 
             # ---- Normalize LLM output ----
             if isinstance(decision_raw, dict):

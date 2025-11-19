@@ -298,3 +298,8 @@
 {"guid": "4AA30B65-3A36-4E3E-A7D0-2AB07D841668", "name": "Chantal Teixeira", "status": "Verified", "timestamp": "2025-11-17 17:18:16"}
 {"guid": "1F5A14CE-4820-40CC-BF61-B1042E509977", "name": "NICHOLAS CHENJE", "status": "Verified", "timestamp": "2025-11-17 17:29:42"}
 {"guid": "53B88EEB-118F-4C89-8BBF-958E1E390250", "name": "Kinshuk Bisht", "status": "Verified", "timestamp": "2025-11-17 18:31:43"}
+{"guid": "7C24943C-E30F-4E6F-A526-96ACD5A9AEB8", "name": "Gustavo Chandias Paz", "status": "Verified", "timestamp": "2025-11-19 15:41:47"}
+{"guid": "15FB5CA8-F914-4F31-A40A-DD62B46F598C", "name": "GODWIN TOHEEB ADIGUN", "status": "Verified", "timestamp": "2025-11-19 17:03:32"}
+{"guid": "0197FCF4-ECDC-46DB-9A89-FDB14617DB05", "name": "", "status": "Verified", "timestamp": "2025-11-19 17:05:11"}
+{"guid": "C4E26836-68AF-4C24-B8CD-0AE94831B825", "name": "Isabell Carrick", "status": "Verified", "timestamp": "2025-11-19 17:56:11"}
+{"guid": "953BD58C-772E-4BB2-A4E0-49FB902C5EE3", "name": "IVAN ACE BELEN BANAWA", "status": "Verified", "timestamp": "2025-11-19 18:01:48"}

@@ -1,0 +1,5068 @@
+{
+  "name": "Kinshuk Bisht",
+  "complete_datetime": "2025-11-17 18:31:14",
+  "referenceid": "payday_kinshuk BISHT",
+  "request": "53B88EEB-118F-4C89-8BBF-958E1E390250",
+  "status": "Verified",
+  "type": "bankverify",
+  "accounts": [
+    {
+      "type": "credit-card",
+      "bank_pdf_statements": [],
+      "institution": "001",
+      "account": "2967",
+      "routing_code": "",
+      "transit": "",
+      "statistics": {
+        "debits_30_count": "0",
+        "credits_30_count": "0",
+        "debits_30_total": "0.00",
+        "credits_30_total": "0.00",
+        "returns_30_count": "0",
+        "returns_30_debits": "0.00",
+        "returns_30_credits": "0.00",
+        "returns_30_net": "0.00",
+        "loans_30_count": "0",
+        "loans_30_debits": "0.00",
+        "loans_30_credits": "0.00",
+        "loans_30_net": "0.00",
+        "payday_30_count": "0",
+        "payday_30_debits": "0.00",
+        "payday_30_credits": "0.00",
+        "payday_30_net": "0.00",
+        "overdraft_30_count": "0",
+        "overdraft_30_debits": "0.00",
+        "overdraft_30_credits": "0.00",
+        "overdraft_30_net": "0.00",
+        "debits_60_count": "0",
+        "credits_60_count": "0",
+        "debits_60_total": "0.00",
+        "credits_60_total": "0.00",
+        "returns_60_count": "0",
+        "returns_60_debits": "0.00",
+        "returns_60_credits": "0.00",
+        "returns_60_net": "0.00",
+        "loans_60_count": "0",
+        "loans_60_debits": "0.00",
+        "loans_60_credits": "0.00",
+        "loans_60_net": "0.00",
+        "payday_60_count": "0",
+        "payday_60_debits": "0.00",
+        "payday_60_credits": "0.00",
+        "payday_60_net": "0.00",
+        "overdraft_60_count": "0",
+        "overdraft_60_debits": "0.00",
+        "overdraft_60_credits": "0.00",
+        "overdraft_60_net": "0.00",
+        "debits_90_count": "0",
+        "credits_90_count": "0",
+        "debits_90_total": "0.00",
+        "credits_90_total": "0.00",
+        "returns_90_count": "0",
+        "returns_90_debits": "0.00",
+        "returns_90_credits": "0.00",
+        "returns_90_net": "0.00",
+        "loans_90_count": "0",
+        "loans_90_debits": "0.00",
+        "loans_90_credits": "0.00",
+        "loans_90_net": "0.00",
+        "payday_90_count": "0",
+        "payday_90_debits": "0.00",
+        "payday_90_credits": "0.00",
+        "payday_90_net": "0.00",
+        "overdraft_90_count": "0",
+        "overdraft_90_debits": "0.00",
+        "overdraft_90_credits": "0.00",
+        "overdraft_90_net": "0.00",
+        "debits_180_count": "0",
+        "credits_180_count": "0",
+        "debits_180_total": "0.00",
+        "credits_180_total": "0.00",
+        "returns_180_count": "0",
+        "returns_180_debits": "0.00",
+        "returns_180_credits": "0.00",
+        "returns_180_net": "0.00",
+        "loans_180_count": "0",
+        "loans_180_debits": "0.00",
+        "loans_180_credits": "0.00",
+        "loans_180_net": "0.00",
+        "payday_180_count": "0",
+        "payday_180_debits": "0.00",
+        "payday_180_credits": "0.00",
+        "payday_180_net": "0.00",
+        "overdraft_180_count": "0",
+        "overdraft_180_debits": "0.00",
+        "overdraft_180_credits": "0.00",
+        "overdraft_180_net": "0.00",
+        "debits_365_count": "1",
+        "credits_365_count": "20",
+        "debits_365_total": "4000.00",
+        "credits_365_total": "3980.11",
+        "returns_365_count": "0",
+        "returns_365_debits": "0.00",
+        "returns_365_credits": "0.00",
+        "returns_365_net": "0.00",
+        "loans_365_count": "0",
+        "loans_365_debits": "0.00",
+        "loans_365_credits": "0.00",
+        "loans_365_net": "0.00",
+        "payday_365_count": "0",
+        "payday_365_debits": "0.00",
+        "payday_365_credits": "0.00",
+        "payday_365_net": "0.00",
+        "overdraft_365_count": "0",
+        "overdraft_365_debits": "0.00",
+        "overdraft_365_credits": "0.00",
+        "overdraft_365_net": "0.00",
+        "mean_closing_balance_30": "0.00",
+        "mean_closing_balance_60": "0.00",
+        "mean_closing_balance_90": "0.00",
+        "mean_closing_balance_180": "0.00",
+        "mean_closing_balance_365": "0.00",
+        "has_30_days": true,
+        "has_60_days": true,
+        "has_90_days": true,
+        "has_180_days": true,
+        "has_365_days": false,
+        "days_of_history": "297",
+        "current_overdraft": false,
+        "quarter_all_time": {
+          "number_of_deposit": "20",
+          "amount_of_deposit": "3980.11",
+          "average_number_of_deposit": "6.67",
+          "average_amount_of_deposit": "1326.70",
+          "highest_deposit": "1707.12",
+          "lowest_deposit": "5.00",
+          "number_of_withdrawal": "1",
+          "amount_of_withdrawal": "4000.00",
+          "average_number_of_withdrawal": "0.33",
+          "average_amount_of_withdrawal": "1333.33",
+          "highest_withdrawal": "4000.00",
+          "lowest_withdrawal": "4000.00",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "n/a",
+          "lowest_balance": "n/a",
+          "average_balance": "n/a",
+          "highest_overdraft": "n/a",
+          "lowest_overdraft": "n/a",
+          "number_of_overdraft": "n/a",
+          "average_amount_overdraft": "n/a",
+          "newest_transaction": "2025-03-24",
+          "oldest_transaction": "2025-01-24"
+        },
+        "quarter_3_months": {
+          "number_of_deposit": "0",
+          "amount_of_deposit": "0.00",
+          "average_number_of_deposit": "0.00",
+          "average_amount_of_deposit": "0.00",
+          "highest_deposit": "0.00",
+          "lowest_deposit": "0.00",
+          "number_of_withdrawal": "0",
+          "amount_of_withdrawal": "0.00",
+          "average_number_of_withdrawal": "0.00",
+          "average_amount_of_withdrawal": "0.00",
+          "highest_withdrawal": "0.00",
+          "lowest_withdrawal": "0.00",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "n/a",
+          "lowest_balance": "n/a",
+          "average_balance": "n/a",
+          "highest_overdraft": "n/a",
+          "lowest_overdraft": "n/a",
+          "number_of_overdraft": "n/a",
+          "average_amount_overdraft": "n/a",
+          "newest_transaction": "n/a",
+          "oldest_transaction": "n/a"
+        },
+        "quarter_6_months": {
+          "number_of_deposit": "0",
+          "amount_of_deposit": "0.00",
+          "average_number_of_deposit": "0.00",
+          "average_amount_of_deposit": "0.00",
+          "highest_deposit": "0.00",
+          "lowest_deposit": "0.00",
+          "number_of_withdrawal": "0",
+          "amount_of_withdrawal": "0.00",
+          "average_number_of_withdrawal": "0.00",
+          "average_amount_of_withdrawal": "0.00",
+          "highest_withdrawal": "0.00",
+          "lowest_withdrawal": "0.00",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "n/a",
+          "lowest_balance": "n/a",
+          "average_balance": "n/a",
+          "highest_overdraft": "n/a",
+          "lowest_overdraft": "n/a",
+          "number_of_overdraft": "n/a",
+          "average_amount_overdraft": "n/a",
+          "newest_transaction": "n/a",
+          "oldest_transaction": "n/a"
+        },
+        "quarter_9_months": {
+          "number_of_deposit": "19",
+          "amount_of_deposit": "3973.16",
+          "average_number_of_deposit": "6.33",
+          "average_amount_of_deposit": "1324.39",
+          "highest_deposit": "1707.12",
+          "lowest_deposit": "5.00",
+          "number_of_withdrawal": "0",
+          "amount_of_withdrawal": "0.00",
+          "average_number_of_withdrawal": "0.00",
+          "average_amount_of_withdrawal": "0.00",
+          "highest_withdrawal": "0.00",
+          "lowest_withdrawal": "0.00",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "n/a",
+          "lowest_balance": "n/a",
+          "average_balance": "n/a",
+          "highest_overdraft": "n/a",
+          "lowest_overdraft": "n/a",
+          "number_of_overdraft": "n/a",
+          "average_amount_overdraft": "n/a",
+          "newest_transaction": "2025-03-24",
+          "oldest_transaction": "2025-03-02"
+        },
+        "quarter_12_months": {
+          "number_of_deposit": "1",
+          "amount_of_deposit": "6.95",
+          "average_number_of_deposit": "0.33",
+          "average_amount_of_deposit": "2.32",
+          "highest_deposit": "6.95",
+          "lowest_deposit": "6.95",
+          "number_of_withdrawal": "1",
+          "amount_of_withdrawal": "4000.00",
+          "average_number_of_withdrawal": "0.33",
+          "average_amount_of_withdrawal": "1333.33",
+          "highest_withdrawal": "4000.00",
+          "lowest_withdrawal": "4000.00",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "n/a",
+          "lowest_balance": "n/a",
+          "average_balance": "n/a",
+          "highest_overdraft": "n/a",
+          "lowest_overdraft": "n/a",
+          "number_of_overdraft": "n/a",
+          "average_amount_overdraft": "n/a",
+          "newest_transaction": "2025-02-03",
+          "oldest_transaction": "2025-01-24"
+        },
+        "employer_monthly_income": {
+          "0_months_ago": "0.00",
+          "1_months_ago": "0.00",
+          "2_months_ago": "0.00",
+          "3_months_ago": "0.00",
+          "4_months_ago": "0.00",
+          "5_months_ago": "0.00",
+          "6_months_ago": "0.00",
+          "7_months_ago": "0.00",
+          "8_months_ago": "0.00",
+          "9_months_ago": "0.00",
+          "10_months_ago": "0.00",
+          "11_months_ago": "0.00",
+          "12_months_ago": "0.00"
+        },
+        "government_monthly_income": {
+          "0_months_ago": "0.00",
+          "1_months_ago": "0.00",
+          "2_months_ago": "0.00",
+          "3_months_ago": "0.00",
+          "4_months_ago": "0.00",
+          "5_months_ago": "0.00",
+          "6_months_ago": "0.00",
+          "7_months_ago": "0.00",
+          "8_months_ago": "0.00",
+          "9_months_ago": "0.00",
+          "10_months_ago": "0.00",
+          "11_months_ago": "0.00",
+          "12_months_ago": "0.00"
+        },
+        "total_monthly_credit": {
+          "0_months_ago": "0.00",
+          "1_months_ago": "0.00",
+          "2_months_ago": "0.00",
+          "3_months_ago": "0.00",
+          "4_months_ago": "0.00",
+          "5_months_ago": "0.00",
+          "6_months_ago": "0.00",
+          "7_months_ago": "0.00",
+          "8_months_ago": "3973.16",
+          "9_months_ago": "0.00",
+          "10_months_ago": "6.95",
+          "11_months_ago": "0.00",
+          "12_months_ago": "0.00"
+        },
+        "government_monthly_income_freq": {
+          "0_months_ago": "0",
+          "1_months_ago": "0",
+          "2_months_ago": "0",
+          "3_months_ago": "0",
+          "4_months_ago": "0",
+          "5_months_ago": "0",
+          "6_months_ago": "0",
+          "7_months_ago": "0",
+          "8_months_ago": "0",
+          "9_months_ago": "0",
+          "10_months_ago": "0",
+          "11_months_ago": "0",
+          "12_months_ago": "0"
+        },
+        "employer_monthly_income_freq": {
+          "0_months_ago": "0",
+          "1_months_ago": "0",
+          "2_months_ago": "0",
+          "3_months_ago": "0",
+          "4_months_ago": "0",
+          "5_months_ago": "0",
+          "6_months_ago": "0",
+          "7_months_ago": "0",
+          "8_months_ago": "0",
+          "9_months_ago": "0",
+          "10_months_ago": "0",
+          "11_months_ago": "0",
+          "12_months_ago": "0"
+        },
+        "average_monthly_employer_income": "0.00",
+        "average_monthly_govt_income": "0.00",
+        "average_monthly_non_employer_income": "1326.70",
+        "average_monthly_free_cash_flow": "2660.04",
+        "employer_income_30_to_average": "n/a",
+        "total_deposit_trend": "0.00",
+        "shopping_debit_count": "0",
+        "shopping_debit_total": "0.00",
+        "shopping_credit_count": "7",
+        "shopping_credit_total": "1434.15",
+        "shopping_net": "1434.15",
+        "auto_and_transport_debit_count": "0",
+        "auto_and_transport_debit_total": "0.00",
+        "auto_and_transport_credit_count": "1",
+        "auto_and_transport_credit_total": "30.00",
+        "auto_and_transport_net": "30.00",
+        "fees_and_charges_debit_count": "0",
+        "fees_and_charges_debit_total": "0.00",
+        "fees_and_charges_credit_count": "7",
+        "fees_and_charges_credit_total": "65.85",
+        "fees_and_charges_net": "65.85",
+        "transfer_debit_count": "1",
+        "transfer_debit_total": "4000.00",
+        "transfer_credit_count": "5",
+        "transfer_credit_total": "2450.11",
+        "transfer_net": "-1549.89",
+        "monthly_category_stats": [
+          {
+            "start": "2025-03-01",
+            "end": "2025-03-31",
+            "result": {
+              "shopping_debit_count": "0",
+              "shopping_debit_total": "0.00",
+              "shopping_credit_count": "7",
+              "shopping_credit_total": "1434.15",
+              "shopping_net": "1434.15",
+              "auto_and_transport_debit_count": "0",
+              "auto_and_transport_debit_total": "0.00",
+              "auto_and_transport_credit_count": "1",
+              "auto_and_transport_credit_total": "30.00",
+              "auto_and_transport_net": "30.00",
+              "fees_and_charges_debit_count": "0",
+              "fees_and_charges_debit_total": "0.00",
+              "fees_and_charges_credit_count": "6",
+              "fees_and_charges_credit_total": "58.90",
+              "fees_and_charges_net": "58.90",
+              "transfer_debit_count": "0",
+              "transfer_debit_total": "0.00",
+              "transfer_credit_count": "5",
+              "transfer_credit_total": "2450.11",
+              "transfer_net": "2450.11"
+            }
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-02-28",
+            "result": {
+              "transfer_debit_count": "1",
+              "transfer_debit_total": "4000.00",
+              "transfer_credit_count": "0",
+              "transfer_credit_total": "0.00",
+              "transfer_net": "-4000.00"
+            }
+          },
+          {
+            "start": "2025-01-01",
+            "end": "2025-01-31",
+            "result": {
+              "fees_and_charges_debit_count": "0",
+              "fees_and_charges_debit_total": "0.00",
+              "fees_and_charges_credit_count": "1",
+              "fees_and_charges_credit_total": "6.95",
+              "fees_and_charges_net": "6.95"
+            }
+          }
+        ]
+      },
+      "bank": "Bank of Montreal",
+      "transactions": [
+        {
+          "date": "2025-03-24",
+          "details": "CASH ADVANCE FEE",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "5.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-23",
+          "details": "AMZN Mktp CA*QB3HK3A53 WWW.AMAZON.CA ON",
+          "category": "shopping",
+          "credit": "111.29",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-23",
+          "details": "AMZN Mktp CA*341ME1XJ3 WWW.AMAZON.CA ON",
+          "category": "shopping",
+          "credit": "204.73",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-21",
+          "details": "REMITLY* M7673 VANCOUVER BC",
+          "category": "transfer/wire",
+          "credit": "58.12",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-18",
+          "details": "CASH ADVANCE FEE",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "5.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-17",
+          "details": "REMITLY* NBC9F VANCOUVER BC",
+          "category": "transfer/wire",
+          "credit": "1707.12",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-17",
+          "details": "RELIANCE ESSO TORONTO ON",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "30.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-17",
+          "details": "WAL-MART # 3740 ETOBICOKE ON",
+          "category": "shopping",
+          "credit": "207.67",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-15",
+          "details": "CAA MEMBERSHIP THORNHILL ON",
+          "category": "fees_and_charges",
+          "credit": "33.90",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-13",
+          "details": "PCD BIBA FASHION LIMIT NEW DELHI DEL",
+          "category": "shopping/clothing",
+          "credit": "78.48",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-13",
+          "details": "REMITLY* C106D VANCOUVER BC",
+          "category": "transfer/wire",
+          "credit": "84.06",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-13",
+          "details": "CASH ADVANCE FEE",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "5.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-12",
+          "details": "REMITLY* EDA64 VANCOUVER BC",
+          "category": "transfer/wire",
+          "credit": "87.75",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-12",
+          "details": "CASH ADVANCE FEE",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "5.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-12",
+          "details": "TITAN INDUSTRIES LTD DELHI IND",
+          "category": "shopping",
+          "credit": "394.36",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-11",
+          "details": "LEVIS NEW DELHI DEL",
+          "category": "shopping/clothing",
+          "credit": "16.95",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-10",
+          "details": "CASH ADVANCE FEE",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "5.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-08",
+          "details": "REMITLY* K6309 VANCOUVER BC",
+          "category": "transfer/wire",
+          "credit": "513.06",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-03-02",
+          "details": "TITAN INDUSTRIES LTD GURGAON IND",
+          "category": "shopping",
+          "credit": "420.67",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-02-03",
+          "details": "TRSF FROM/DE ACCT/CPT 0474-XXXX-970",
+          "category": "transfer",
+          "credit": "",
+          "debit": "4000.00",
+          "flags": [
+            "is_regular"
+          ]
+        },
+        {
+          "date": "2025-01-24",
+          "details": "ANNUAL CARD FEE",
+          "category": "fees_and_charges/provider_fee/recurring",
+          "credit": "6.95",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Chequing",
+      "available_balance": "447.52",
+      "current_balance": "447.52",
+      "bank_pdf_statements": [],
+      "institution": "001",
+      "account": "3743970",
+      "routing_code": "",
+      "transit": "04742",
+      "statistics": {
+        "mean_closing_balance": "308.79",
+        "mean_closing_balance_30": "510.65",
+        "debits_30_count": "150",
+        "credits_30_count": "12",
+        "debits_30_total": "12723.50",
+        "credits_30_total": "12783.74",
+        "returns_30_count": "0",
+        "returns_30_debits": "0.00",
+        "returns_30_credits": "0.00",
+        "returns_30_net": "0.00",
+        "loans_30_count": "2",
+        "loans_30_debits": "518.00",
+        "loans_30_credits": "450.00",
+        "loans_30_net": "-68.00",
+        "payday_30_count": "2",
+        "payday_30_debits": "518.00",
+        "payday_30_credits": "450.00",
+        "payday_30_net": "-68.00",
+        "overdraft_30_count": "0",
+        "overdraft_30_debits": "0.00",
+        "overdraft_30_credits": "0.00",
+        "overdraft_30_net": "0.00",
+        "debits_60_count": "285",
+        "credits_60_count": "24",
+        "debits_60_total": "21012.73",
+        "credits_60_total": "21471.49",
+        "returns_60_count": "0",
+        "returns_60_debits": "0.00",
+        "returns_60_credits": "0.00",
+        "returns_60_net": "0.00",
+        "loans_60_count": "2",
+        "loans_60_debits": "518.00",
+        "loans_60_credits": "450.00",
+        "loans_60_net": "-68.00",
+        "payday_60_count": "2",
+        "payday_60_debits": "518.00",
+        "payday_60_credits": "450.00",
+        "payday_60_net": "-68.00",
+        "overdraft_60_count": "0",
+        "overdraft_60_debits": "0.00",
+        "overdraft_60_credits": "0.00",
+        "overdraft_60_net": "0.00",
+        "debits_90_count": "287",
+        "credits_90_count": "24",
+        "debits_90_total": "21016.85",
+        "credits_90_total": "21471.49",
+        "returns_90_count": "0",
+        "returns_90_debits": "0.00",
+        "returns_90_credits": "0.00",
+        "returns_90_net": "0.00",
+        "loans_90_count": "2",
+        "loans_90_debits": "518.00",
+        "loans_90_credits": "450.00",
+        "loans_90_net": "-68.00",
+        "payday_90_count": "2",
+        "payday_90_debits": "518.00",
+        "payday_90_credits": "450.00",
+        "payday_90_net": "-68.00",
+        "overdraft_90_count": "2",
+        "overdraft_90_debits": "4.12",
+        "overdraft_90_credits": "0.00",
+        "overdraft_90_net": "-4.12",
+        "debits_180_count": "292",
+        "credits_180_count": "24",
+        "debits_180_total": "21039.90",
+        "credits_180_total": "21471.49",
+        "returns_180_count": "0",
+        "returns_180_debits": "0.00",
+        "returns_180_credits": "0.00",
+        "returns_180_net": "0.00",
+        "loans_180_count": "2",
+        "loans_180_debits": "518.00",
+        "loans_180_credits": "450.00",
+        "loans_180_net": "-68.00",
+        "payday_180_count": "2",
+        "payday_180_debits": "518.00",
+        "payday_180_credits": "450.00",
+        "payday_180_net": "-68.00",
+        "overdraft_180_count": "5",
+        "overdraft_180_debits": "12.17",
+        "overdraft_180_credits": "0.00",
+        "overdraft_180_net": "-12.17",
+        "debits_365_count": "305",
+        "credits_365_count": "29",
+        "debits_365_total": "28063.97",
+        "credits_365_total": "28511.49",
+        "returns_365_count": "0",
+        "returns_365_debits": "0.00",
+        "returns_365_credits": "0.00",
+        "returns_365_net": "0.00",
+        "loans_365_count": "2",
+        "loans_365_debits": "518.00",
+        "loans_365_credits": "450.00",
+        "loans_365_net": "-68.00",
+        "payday_365_count": "2",
+        "payday_365_debits": "518.00",
+        "payday_365_credits": "450.00",
+        "payday_365_net": "-68.00",
+        "overdraft_365_count": "5",
+        "overdraft_365_debits": "12.17",
+        "overdraft_365_credits": "0.00",
+        "overdraft_365_net": "-12.17",
+        "mean_closing_balance_60": "468.19",
+        "mean_closing_balance_90": "308.79",
+        "mean_closing_balance_180": "155.41",
+        "mean_closing_balance_365": "577.65",
+        "has_30_days": true,
+        "has_60_days": true,
+        "has_90_days": true,
+        "has_180_days": true,
+        "has_365_days": false,
+        "days_of_history": "287",
+        "mean_balance_after_payroll": "664.54",
+        "current_overdraft": false,
+        "quarter_all_time": {
+          "number_of_deposit": "29",
+          "amount_of_deposit": "28511.49",
+          "average_number_of_deposit": "9.67",
+          "average_amount_of_deposit": "9503.83",
+          "highest_deposit": "4000.00",
+          "lowest_deposit": "28.00",
+          "number_of_withdrawal": "305",
+          "amount_of_withdrawal": "28063.97",
+          "average_number_of_withdrawal": "101.67",
+          "average_amount_of_withdrawal": "9354.66",
+          "highest_withdrawal": "4000.00",
+          "lowest_withdrawal": "0.05",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "4000.00",
+          "lowest_balance": "-11.24",
+          "average_balance": "827.81",
+          "highest_overdraft": "-3.07",
+          "lowest_overdraft": "-11.24",
+          "number_of_overdraft": "5",
+          "average_amount_overdraft": "-7.92",
+          "newest_transaction": "2025-11-17",
+          "oldest_transaction": "2025-02-03"
+        },
+        "quarter_3_months": {
+          "number_of_deposit": "24",
+          "amount_of_deposit": "21471.49",
+          "average_number_of_deposit": "8.00",
+          "average_amount_of_deposit": "7157.16",
+          "highest_deposit": "3020.93",
+          "lowest_deposit": "28.00",
+          "number_of_withdrawal": "287",
+          "amount_of_withdrawal": "21016.85",
+          "average_number_of_withdrawal": "95.67",
+          "average_amount_of_withdrawal": "7005.62",
+          "highest_withdrawal": "1621.54",
+          "lowest_withdrawal": "0.12",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "3132.55",
+          "lowest_balance": "-11.24",
+          "average_balance": "806.41",
+          "highest_overdraft": "-11.12",
+          "lowest_overdraft": "-11.24",
+          "number_of_overdraft": "2",
+          "average_amount_overdraft": "-11.18",
+          "newest_transaction": "2025-11-17",
+          "oldest_transaction": "2025-08-29"
+        },
+        "quarter_6_months": {
+          "number_of_deposit": "0",
+          "amount_of_deposit": "0.00",
+          "average_number_of_deposit": "0.00",
+          "average_amount_of_deposit": "0.00",
+          "highest_deposit": "0.00",
+          "lowest_deposit": "0.00",
+          "number_of_withdrawal": "5",
+          "amount_of_withdrawal": "23.05",
+          "average_number_of_withdrawal": "1.67",
+          "average_amount_of_withdrawal": "7.68",
+          "highest_withdrawal": "11.00",
+          "lowest_withdrawal": "0.05",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "11.93",
+          "lowest_balance": "-7.12",
+          "average_balance": "-0.88",
+          "highest_overdraft": "-3.07",
+          "lowest_overdraft": "-7.12",
+          "number_of_overdraft": "3",
+          "average_amount_overdraft": "-5.75",
+          "newest_transaction": "2025-07-31",
+          "oldest_transaction": "2025-05-30"
+        },
+        "quarter_9_months": {
+          "number_of_deposit": "0",
+          "amount_of_deposit": "0.00",
+          "average_number_of_deposit": "0.00",
+          "average_amount_of_deposit": "0.00",
+          "highest_deposit": "0.00",
+          "lowest_deposit": "0.00",
+          "number_of_withdrawal": "12",
+          "amount_of_withdrawal": "3024.07",
+          "average_number_of_withdrawal": "4.00",
+          "average_amount_of_withdrawal": "1008.02",
+          "highest_withdrawal": "670.00",
+          "lowest_withdrawal": "3.50",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "3036.00",
+          "lowest_balance": "15.93",
+          "average_balance": "1169.86",
+          "highest_overdraft": "0.00",
+          "lowest_overdraft": "0.00",
+          "number_of_overdraft": "0",
+          "average_amount_overdraft": "0.00",
+          "newest_transaction": "2025-04-30",
+          "oldest_transaction": "2025-02-28"
+        },
+        "quarter_12_months": {
+          "number_of_deposit": "4",
+          "amount_of_deposit": "6540.00",
+          "average_number_of_deposit": "1.33",
+          "average_amount_of_deposit": "2180.00",
+          "highest_deposit": "4000.00",
+          "lowest_deposit": "40.00",
+          "number_of_withdrawal": "1",
+          "amount_of_withdrawal": "4000.00",
+          "average_number_of_withdrawal": "0.33",
+          "average_amount_of_withdrawal": "1333.33",
+          "highest_withdrawal": "4000.00",
+          "lowest_withdrawal": "4000.00",
+          "number_of_nsf": "0",
+          "average_number_nsf": "0.00",
+          "highest_balance": "4000.00",
+          "lowest_balance": "0.00",
+          "average_balance": "1724.00",
+          "highest_overdraft": "0.00",
+          "lowest_overdraft": "0.00",
+          "number_of_overdraft": "0",
+          "average_amount_overdraft": "0.00",
+          "newest_transaction": "2025-02-10",
+          "oldest_transaction": "2025-02-03"
+        },
+        "employer_monthly_income": {
+          "0_months_ago": "3020.93",
+          "1_months_ago": "8518.56",
+          "2_months_ago": "0.00",
+          "3_months_ago": "0.00",
+          "4_months_ago": "0.00",
+          "5_months_ago": "0.00",
+          "6_months_ago": "0.00",
+          "7_months_ago": "0.00",
+          "8_months_ago": "0.00",
+          "9_months_ago": "0.00",
+          "10_months_ago": "0.00",
+          "11_months_ago": "0.00",
+          "12_months_ago": "0.00"
+        },
+        "government_monthly_income": {
+          "0_months_ago": "0.00",
+          "1_months_ago": "0.00",
+          "2_months_ago": "0.00",
+          "3_months_ago": "0.00",
+          "4_months_ago": "0.00",
+          "5_months_ago": "0.00",
+          "6_months_ago": "0.00",
+          "7_months_ago": "0.00",
+          "8_months_ago": "0.00",
+          "9_months_ago": "0.00",
+          "10_months_ago": "0.00",
+          "11_months_ago": "0.00",
+          "12_months_ago": "0.00"
+        },
+        "total_monthly_credit": {
+          "0_months_ago": "5970.93",
+          "1_months_ago": "13068.56",
+          "2_months_ago": "2432.00",
+          "3_months_ago": "0.00",
+          "4_months_ago": "0.00",
+          "5_months_ago": "0.00",
+          "6_months_ago": "0.00",
+          "7_months_ago": "0.00",
+          "8_months_ago": "0.00",
+          "9_months_ago": "7040.00",
+          "10_months_ago": "0.00",
+          "11_months_ago": "0.00",
+          "12_months_ago": "0.00"
+        },
+        "government_monthly_income_freq": {
+          "0_months_ago": "0",
+          "1_months_ago": "0",
+          "2_months_ago": "0",
+          "3_months_ago": "0",
+          "4_months_ago": "0",
+          "5_months_ago": "0",
+          "6_months_ago": "0",
+          "7_months_ago": "0",
+          "8_months_ago": "0",
+          "9_months_ago": "0",
+          "10_months_ago": "0",
+          "11_months_ago": "0",
+          "12_months_ago": "0"
+        },
+        "employer_monthly_income_freq": {
+          "0_months_ago": "1",
+          "1_months_ago": "3",
+          "2_months_ago": "0",
+          "3_months_ago": "0",
+          "4_months_ago": "0",
+          "5_months_ago": "0",
+          "6_months_ago": "0",
+          "7_months_ago": "0",
+          "8_months_ago": "0",
+          "9_months_ago": "0",
+          "10_months_ago": "0",
+          "11_months_ago": "0",
+          "12_months_ago": "0"
+        },
+        "average_monthly_employer_income": "1153.95",
+        "average_monthly_govt_income": "0.00",
+        "average_monthly_non_employer_income": "1697.20",
+        "average_monthly_free_cash_flow": "5657.55",
+        "employer_income_30_to_average": "5.19",
+        "total_deposit_trend": "4.48",
+        "likely_new_account": 1,
+        "income_debit_count": "3",
+        "income_debit_total": "0.29",
+        "income_credit_count": "4",
+        "income_credit_total": "11539.49",
+        "income_net": "11539.20",
+        "insurance_debit_count": "2",
+        "insurance_debit_total": "963.73",
+        "insurance_credit_count": "0",
+        "insurance_credit_total": "0.00",
+        "insurance_net": "-963.73",
+        "food_and_dining_debit_count": "142",
+        "food_and_dining_debit_total": "1240.63",
+        "food_and_dining_credit_count": "0",
+        "food_and_dining_credit_total": "0.00",
+        "food_and_dining_net": "-1240.63",
+        "entertainment_debit_count": "75",
+        "entertainment_debit_total": "12518.76",
+        "entertainment_credit_count": "11",
+        "entertainment_credit_total": "7482.00",
+        "entertainment_net": "-5036.76",
+        "health_and_fitness_debit_count": "10",
+        "health_and_fitness_debit_total": "296.40",
+        "health_and_fitness_credit_count": "1",
+        "health_and_fitness_credit_total": "500.00",
+        "health_and_fitness_net": "203.60",
+        "auto_and_transport_debit_count": "11",
+        "auto_and_transport_debit_total": "303.56",
+        "auto_and_transport_credit_count": "1",
+        "auto_and_transport_credit_total": "420.00",
+        "auto_and_transport_net": "116.44",
+        "home_debit_count": "1",
+        "home_debit_total": "12.00",
+        "home_credit_count": "0",
+        "home_credit_total": "0.00",
+        "home_net": "-12.00",
+        "business_services_debit_count": "1",
+        "business_services_debit_total": "342.00",
+        "business_services_credit_count": "0",
+        "business_services_credit_total": "0.00",
+        "business_services_net": "-342.00",
+        "bills_and_utilities_debit_count": "4",
+        "bills_and_utilities_debit_total": "276.34",
+        "bills_and_utilities_credit_count": "0",
+        "bills_and_utilities_credit_total": "0.00",
+        "bills_and_utilities_net": "-276.34",
+        "shopping_debit_count": "18",
+        "shopping_debit_total": "1317.94",
+        "shopping_credit_count": "0",
+        "shopping_credit_total": "0.00",
+        "shopping_net": "-1317.94",
+        "fees_and_charges_debit_count": "28",
+        "fees_and_charges_debit_total": "2434.23",
+        "fees_and_charges_credit_count": "11",
+        "fees_and_charges_credit_total": "8170.00",
+        "fees_and_charges_net": "5735.77",
+        "transfer_debit_count": "10",
+        "transfer_debit_total": "8358.09",
+        "transfer_credit_count": "1",
+        "transfer_credit_total": "400.00",
+        "transfer_net": "-7958.09",
+        "monthly_category_stats": [
+          {
+            "start": "2025-11-01",
+            "end": "2025-11-30",
+            "result": {
+              "income_debit_count": "0",
+              "income_debit_total": "0.00",
+              "income_credit_count": "1",
+              "income_credit_total": "3020.93",
+              "income_net": "3020.93",
+              "food_and_dining_debit_count": "39",
+              "food_and_dining_debit_total": "374.21",
+              "food_and_dining_credit_count": "0",
+              "food_and_dining_credit_total": "0.00",
+              "food_and_dining_net": "-374.21",
+              "entertainment_debit_count": "23",
+              "entertainment_debit_total": "3750.00",
+              "entertainment_credit_count": "1",
+              "entertainment_credit_total": "800.00",
+              "entertainment_net": "-2950.00",
+              "health_and_fitness_debit_count": "1",
+              "health_and_fitness_debit_total": "16.95",
+              "health_and_fitness_credit_count": "0",
+              "health_and_fitness_credit_total": "0.00",
+              "health_and_fitness_net": "-16.95",
+              "auto_and_transport_debit_count": "3",
+              "auto_and_transport_debit_total": "110.40",
+              "auto_and_transport_credit_count": "0",
+              "auto_and_transport_credit_total": "0.00",
+              "auto_and_transport_net": "-110.40",
+              "business_services_debit_count": "1",
+              "business_services_debit_total": "342.00",
+              "business_services_credit_count": "0",
+              "business_services_credit_total": "0.00",
+              "business_services_net": "-342.00",
+              "bills_and_utilities_debit_count": "3",
+              "bills_and_utilities_debit_total": "124.10",
+              "bills_and_utilities_credit_count": "0",
+              "bills_and_utilities_credit_total": "0.00",
+              "bills_and_utilities_net": "-124.10",
+              "shopping_debit_count": "3",
+              "shopping_debit_total": "140.02",
+              "shopping_credit_count": "0",
+              "shopping_credit_total": "0.00",
+              "shopping_net": "-140.02",
+              "fees_and_charges_debit_count": "7",
+              "fees_and_charges_debit_total": "1179.97",
+              "fees_and_charges_credit_count": "4",
+              "fees_and_charges_credit_total": "1750.00",
+              "fees_and_charges_net": "570.03",
+              "transfer_debit_count": "1",
+              "transfer_debit_total": "66.04",
+              "transfer_credit_count": "1",
+              "transfer_credit_total": "400.00",
+              "transfer_net": "333.96"
+            }
+          },
+          {
+            "start": "2025-10-01",
+            "end": "2025-10-31",
+            "result": {
+              "income_debit_count": "0",
+              "income_debit_total": "0.00",
+              "income_credit_count": "3",
+              "income_credit_total": "8518.56",
+              "income_net": "8518.56",
+              "insurance_debit_count": "1",
+              "insurance_debit_total": "293.73",
+              "insurance_credit_count": "0",
+              "insurance_credit_total": "0.00",
+              "insurance_net": "-293.73",
+              "food_and_dining_debit_count": "73",
+              "food_and_dining_debit_total": "629.73",
+              "food_and_dining_credit_count": "0",
+              "food_and_dining_credit_total": "0.00",
+              "food_and_dining_net": "-629.73",
+              "entertainment_debit_count": "34",
+              "entertainment_debit_total": "5536.85",
+              "entertainment_credit_count": "5",
+              "entertainment_credit_total": "2880.00",
+              "entertainment_net": "-2656.85",
+              "health_and_fitness_debit_count": "7",
+              "health_and_fitness_debit_total": "234.25",
+              "health_and_fitness_credit_count": "0",
+              "health_and_fitness_credit_total": "0.00",
+              "health_and_fitness_net": "-234.25",
+              "auto_and_transport_debit_count": "5",
+              "auto_and_transport_debit_total": "122.81",
+              "auto_and_transport_credit_count": "1",
+              "auto_and_transport_credit_total": "420.00",
+              "auto_and_transport_net": "297.19",
+              "shopping_debit_count": "10",
+              "shopping_debit_total": "532.93",
+              "shopping_credit_count": "0",
+              "shopping_credit_total": "0.00",
+              "shopping_net": "-532.93",
+              "fees_and_charges_debit_count": "11",
+              "fees_and_charges_debit_total": "1165.51",
+              "fees_and_charges_credit_count": "2",
+              "fees_and_charges_credit_total": "1250.00",
+              "fees_and_charges_net": "84.49",
+              "transfer_debit_count": "6",
+              "transfer_debit_total": "4156.60",
+              "transfer_credit_count": "0",
+              "transfer_credit_total": "0.00",
+              "transfer_net": "-4156.60"
+            }
+          },
+          {
+            "start": "2025-09-01",
+            "end": "2025-09-30",
+            "result": {
+              "income_debit_count": "1",
+              "income_debit_total": "0.12",
+              "income_credit_count": "0",
+              "income_credit_total": "0.00",
+              "income_net": "-0.12",
+              "food_and_dining_debit_count": "30",
+              "food_and_dining_debit_total": "236.69",
+              "food_and_dining_credit_count": "0",
+              "food_and_dining_credit_total": "0.00",
+              "food_and_dining_net": "-236.69",
+              "entertainment_debit_count": "11",
+              "entertainment_debit_total": "1329.41",
+              "entertainment_credit_count": "3",
+              "entertainment_credit_total": "1302.00",
+              "entertainment_net": "-27.41",
+              "health_and_fitness_debit_count": "2",
+              "health_and_fitness_debit_total": "45.20",
+              "health_and_fitness_credit_count": "0",
+              "health_and_fitness_credit_total": "0.00",
+              "health_and_fitness_net": "-45.20",
+              "auto_and_transport_debit_count": "3",
+              "auto_and_transport_debit_total": "70.35",
+              "auto_and_transport_credit_count": "0",
+              "auto_and_transport_credit_total": "0.00",
+              "auto_and_transport_net": "-70.35",
+              "home_debit_count": "1",
+              "home_debit_total": "12.00",
+              "home_credit_count": "0",
+              "home_credit_total": "0.00",
+              "home_net": "-12.00",
+              "bills_and_utilities_debit_count": "1",
+              "bills_and_utilities_debit_total": "152.24",
+              "bills_and_utilities_credit_count": "0",
+              "bills_and_utilities_credit_total": "0.00",
+              "bills_and_utilities_net": "-152.24",
+              "shopping_debit_count": "3",
+              "shopping_debit_total": "194.42",
+              "shopping_credit_count": "0",
+              "shopping_credit_total": "0.00",
+              "shopping_net": "-194.42",
+              "fees_and_charges_debit_count": "3",
+              "fees_and_charges_debit_total": "60.75",
+              "fees_and_charges_credit_count": "3",
+              "fees_and_charges_credit_total": "1130.00",
+              "fees_and_charges_net": "1069.25",
+              "transfer_debit_count": "2",
+              "transfer_debit_total": "135.45",
+              "transfer_credit_count": "0",
+              "transfer_credit_total": "0.00",
+              "transfer_net": "-135.45"
+            }
+          },
+          {
+            "start": "2025-08-01",
+            "end": "2025-08-31",
+            "result": {
+              "income_debit_count": "1",
+              "income_debit_total": "0.12",
+              "income_credit_count": "0",
+              "income_credit_total": "0.00",
+              "income_net": "-0.12",
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "0",
+              "fees_and_charges_credit_total": "0.00",
+              "fees_and_charges_net": "-4.00"
+            }
+          },
+          {
+            "start": "2025-07-01",
+            "end": "2025-07-31",
+            "result": {
+              "income_debit_count": "1",
+              "income_debit_total": "0.05",
+              "income_credit_count": "0",
+              "income_credit_total": "0.00",
+              "income_net": "-0.05",
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "0",
+              "fees_and_charges_credit_total": "0.00",
+              "fees_and_charges_net": "-4.00"
+            }
+          },
+          {
+            "start": "2025-06-01",
+            "end": "2025-06-30",
+            "result": {
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "0",
+              "fees_and_charges_credit_total": "0.00",
+              "fees_and_charges_net": "-4.00",
+              "entertainment_debit_count": "1",
+              "entertainment_debit_total": "11.00",
+              "entertainment_credit_count": "0",
+              "entertainment_credit_total": "0.00",
+              "entertainment_net": "-11.00"
+            }
+          },
+          {
+            "start": "2025-05-01",
+            "end": "2025-05-31",
+            "result": {
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "0",
+              "fees_and_charges_credit_total": "0.00",
+              "fees_and_charges_net": "-4.00"
+            }
+          },
+          {
+            "start": "2025-04-01",
+            "end": "2025-04-30",
+            "result": {
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "0",
+              "fees_and_charges_credit_total": "0.00",
+              "fees_and_charges_net": "-4.00",
+              "entertainment_debit_count": "2",
+              "entertainment_debit_total": "353.50",
+              "entertainment_credit_count": "0",
+              "entertainment_credit_total": "0.00",
+              "entertainment_net": "-353.50"
+            }
+          },
+          {
+            "start": "2025-03-01",
+            "end": "2025-03-31",
+            "result": {
+              "shopping_debit_count": "2",
+              "shopping_debit_total": "450.57",
+              "shopping_credit_count": "0",
+              "shopping_credit_total": "0.00",
+              "shopping_net": "-450.57",
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "0",
+              "fees_and_charges_credit_total": "0.00",
+              "fees_and_charges_net": "-4.00",
+              "insurance_debit_count": "1",
+              "insurance_debit_total": "670.00",
+              "insurance_credit_count": "0",
+              "insurance_credit_total": "0.00",
+              "insurance_net": "-670.00",
+              "entertainment_debit_count": "4",
+              "entertainment_debit_total": "1538.00",
+              "entertainment_credit_count": "0",
+              "entertainment_credit_total": "0.00",
+              "entertainment_net": "-1538.00"
+            }
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-02-28",
+            "result": {
+              "health_and_fitness_debit_count": "0",
+              "health_and_fitness_debit_total": "0.00",
+              "health_and_fitness_credit_count": "1",
+              "health_and_fitness_credit_total": "500.00",
+              "health_and_fitness_net": "500.00",
+              "fees_and_charges_debit_count": "1",
+              "fees_and_charges_debit_total": "4.00",
+              "fees_and_charges_credit_count": "2",
+              "fees_and_charges_credit_total": "4040.00",
+              "fees_and_charges_net": "4036.00",
+              "transfer_debit_count": "1",
+              "transfer_debit_total": "4000.00",
+              "transfer_credit_count": "0",
+              "transfer_credit_total": "0.00",
+              "transfer_net": "-4000.00",
+              "entertainment_debit_count": "0",
+              "entertainment_debit_total": "0.00",
+              "entertainment_credit_count": "2",
+              "entertainment_credit_total": "2500.00",
+              "entertainment_net": "2500.00"
+            }
+          }
+        ]
+      },
+      "bank": "Bank of Montreal",
+      "transactions": [
+        {
+          "date": "2025-11-17",
+          "details": "LONGO'S # 5",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "7.18",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "447.52"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "454.70"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "PLANET FITNESS FEE/FRA",
+          "category": "health_and_fitness",
+          "credit": "",
+          "debit": "16.95",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "459.70"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "18.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "476.65"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO.CA 20253201824EF2AFE",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "300.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "495.07"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "795.07"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "PIZZA PIZZA # 0",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "29.90",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "797.32"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "PIZZA PIZZA # 0",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.37",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "827.22"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "4.37",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "832.59"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202531920183EF19A",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "836.96"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "TIM HORTONS #32",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "936.96"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "LCBO/RAO #672",
+          "category": "food_and_dining/alcohol_and_bars",
+          "credit": "",
+          "debit": "75.20",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "939.21"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202531917528D4631",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1014.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR RECVD VOPAY INTERNATIONAL 202531917447B3210",
+          "category": "fees_and_charges/loans",
+          "credit": "400.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1114.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253191645E4B33C",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "714.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253191610DAB16D",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "814.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR AD RECVD PAYBILT INC. 20253191544HZTGGJ",
+          "category": "entertainment/gambling",
+          "credit": "800.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1014.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202531912325CD55A",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "214.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202531909427A75E7",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "314.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253190839CA28DE",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "414.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR AD RECVD ZUM RAILS 20253190827VCPNQN",
+          "category": "fees_and_charges/loans",
+          "credit": "250.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "614.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253190733A5CA23",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "364.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "9.78",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "564.41"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253190300849BF8",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "574.19"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253190105117A97",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "674.19"
+        },
+        {
+          "date": "2025-11-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 2025319005570F8DA",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "774.19"
+        },
+        {
+          "date": "2025-11-14",
+          "details": "RECURRING PYMNT 14NOV2025FIDO MOBILE 731 ON",
+          "category": "bills_and_utilities/phone",
+          "credit": "",
+          "debit": "94.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "874.19"
+        },
+        {
+          "date": "2025-11-14",
+          "details": "66038 MACS CONV",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "8.57",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "968.89"
+        },
+        {
+          "date": "2025-11-14",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "18.37",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "977.46"
+        },
+        {
+          "date": "2025-11-14",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "995.83"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "ONLINE PURCHASE 13NOV2025REMITLY E84E2 BC",
+          "category": "transfer",
+          "credit": "",
+          "debit": "66.04",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "997.50"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "SHELL FLYING J #80500",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "32.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1063.54"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR AD RECVD PAY2DAY 6 20253171758R5M6QN",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "800.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1096.24"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "SIMPLE FIN BUS/ENT",
+          "category": "business_services",
+          "credit": "",
+          "debit": "342.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "296.24"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR SENT PAY2DAYSTORE 13 PAYDAY O 20253171657UQRGNR",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "272.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "638.24"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "16.57",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "910.24"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253171349B1AE99",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "500.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "926.81"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253171035078394",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1426.81"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "LOANEXPRESS.CA MSP/DIV",
+          "category": "fees_and_charges/loans/payday",
+          "credit": "",
+          "debit": "518.00",
+          "flags": [
+            "is_payday"
+          ],
+          "balance": "1626.81"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "LOC DEPOSITS MSP/DIV",
+          "category": "fees_and_charges",
+          "credit": "",
+          "debit": "10.07",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2144.81"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20253170731673545",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2154.88"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2354.88"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR SENT PAY2DAY 20253170541MKKR6T",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "320.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2356.55"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR SENT SAN 20253170540BDJSEA",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2676.55"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "INTERAC ETRNSFR SENT RAVEN RAJAN 20253170533TAQNXU",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "356.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2776.55"
+        },
+        {
+          "date": "2025-11-13",
+          "details": "MILLER WASTE SY PAY/PAY",
+          "category": "income/paycheck",
+          "credit": "3020.93",
+          "debit": "",
+          "flags": [
+            "is_payroll"
+          ],
+          "balance": "3132.55"
+        },
+        {
+          "date": "2025-11-12",
+          "details": "PURPLE PINEAPPL",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "21.89",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "111.62"
+        },
+        {
+          "date": "2025-11-12",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "13.95",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "133.51"
+        },
+        {
+          "date": "2025-11-12",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "147.46"
+        },
+        {
+          "date": "2025-11-12",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "14.45",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "149.71"
+        },
+        {
+          "date": "2025-11-12",
+          "details": "INTERAC ETRNSFR SENT RAVEN RAJAN 20253151336NV974U",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "20.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "164.16"
+        },
+        {
+          "date": "2025-11-12",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "184.16"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.48",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "186.41"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "CREDIT GROUP BUS/ENT",
+          "category": "fees_and_charges/collections_agency",
+          "credit": "",
+          "debit": "19.95",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "188.89"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "208.84"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "211.09"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "7.98",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "212.76"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "32.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "220.74"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "73.29",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "253.44"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "1.73",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "326.73"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "328.46"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.13",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "330.71"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "PIZZA PIZZA # 1",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "3.94",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "333.84"
+        },
+        {
+          "date": "2025-11-10",
+          "details": "ICE FLAME - ALB",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "24.27",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "337.78"
+        },
+        {
+          "date": "2025-11-07",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202531119179CBFED",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "22.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "362.05"
+        },
+        {
+          "date": "2025-11-07",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "14.66",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "384.05"
+        },
+        {
+          "date": "2025-11-07",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "398.71"
+        },
+        {
+          "date": "2025-11-06",
+          "details": "FOOD BASICS 85",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "13.43",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "403.71"
+        },
+        {
+          "date": "2025-11-06",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "417.14"
+        },
+        {
+          "date": "2025-11-05",
+          "details": "LONGO'S # 11",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "11.47",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "422.14"
+        },
+        {
+          "date": "2025-11-05",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "433.61"
+        },
+        {
+          "date": "2025-11-04",
+          "details": "INTERAC ETRNSFR AD RECVD RAVEN RAJAN 20253082039BBQYWD",
+          "category": "transfer/email",
+          "credit": "400.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "435.86"
+        },
+        {
+          "date": "2025-11-04",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "11.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "35.86"
+        },
+        {
+          "date": "2025-11-04",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "47.82"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "ONLINE PURCHASE 2NOV2025WINIBLE.COM TX 19.00X1.438947368",
+          "category": "bills_and_utilities/internet",
+          "credit": "",
+          "debit": "27.34",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "49.49"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "ONLINE PURCHASE 2NOV2025WINIBLE.COM TX 1.43X1.44055944",
+          "category": "bills_and_utilities/internet",
+          "credit": "",
+          "debit": "2.06",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "76.83"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "CREDIT GROUP BUS/ENT",
+          "category": "fees_and_charges/collections_agency",
+          "credit": "",
+          "debit": "19.95",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "78.89"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "98.84"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "INTERAC ETRNSFR FULFILL PAYDIRECT BILLING SOLUTI 20253061659D94A27",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "52.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "100.51"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "152.51"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "45.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "154.76"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "52.07",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "199.76"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202530523531C92B2",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "251.83"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "INTERAC ETRNSFR SENT PAY2DAY 20253052124AAPG4C",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "20.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "351.83"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "INTERAC ETRNSFR AD RECVD ZUM RAILS 20253051647ZEUFVP",
+          "category": "fees_and_charges/loans",
+          "credit": "300.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "371.83"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 2025305132351854F",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "400.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "71.83"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "8.45",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "471.83"
+        },
+        {
+          "date": "2025-11-03",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202530501515FC879",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "480.28"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "EXCESS ITEMS 133 AT $1.25",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "166.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "580.28"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "ONLINE PURCHASE 30OCT2025KUNFUPAY ML",
+          "category": "fees_and_charges/loans",
+          "credit": "",
+          "debit": "17.30",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "746.53"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "ONLINE PURCHASE 30OCT2025REMITLY GC52A BC",
+          "category": "transfer",
+          "credit": "",
+          "debit": "800.65",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "763.83"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.04",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1564.48"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "16.02",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1567.52"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1583.54"
+        },
+        {
+          "date": "2025-10-31",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "7.26",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1587.54"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "ONLINE PURCHASE 29OCT2025VIP TIPS SERVICE NOR 12.99X1.668206312",
+          "category": "fees_and_charges/service_fee",
+          "credit": "",
+          "debit": "21.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1594.80"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "16.57",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1616.47"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 202530314395A7FE4",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "500.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1633.04"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "INTERAC ETRNSFR SENT PAY2DAY 202530310013ADRGK",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "300.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2133.04"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 20253030853A986CA",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2433.04"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 20253030618B517B3",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "250.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2533.04"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2783.04"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "INTERAC ETRNSFR FULFILL PAYDIRECT BILLING SOLUTI 202530305432DBC60",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "250.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2788.04"
+        },
+        {
+          "date": "2025-10-30",
+          "details": "MILLER WASTE SY PAY/PAY",
+          "category": "income/paycheck",
+          "credit": "2962.81",
+          "debit": "",
+          "flags": [
+            "is_payroll"
+          ],
+          "balance": "3038.04"
+        },
+        {
+          "date": "2025-10-29",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "13.46",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "75.23"
+        },
+        {
+          "date": "2025-10-29",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 20253021454F72458",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "88.69"
+        },
+        {
+          "date": "2025-10-29",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "188.69"
+        },
+        {
+          "date": "2025-10-28",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "11.29",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "193.69"
+        },
+        {
+          "date": "2025-10-28",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "14.95",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "204.98"
+        },
+        {
+          "date": "2025-10-28",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "219.93"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.48",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "222.18"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "DOLLAR TREE # 4",
+          "category": "shopping",
+          "credit": "",
+          "debit": "1.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "224.66"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "226.36"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "37.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "228.61"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "85.27",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "265.86"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "UNIQUE HAIR SAL",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "22.60",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "351.13"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "373.73"
+        },
+        {
+          "date": "2025-10-27",
+          "details": "FORTINOS (QUEEN",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.59",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "378.73"
+        },
+        {
+          "date": "2025-10-24",
+          "details": "SHOPPERS DRUG M",
+          "category": "health_and_fitness/pharmacy",
+          "credit": "",
+          "debit": "8.05",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "381.32"
+        },
+        {
+          "date": "2025-10-24",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 2025297163684751F",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "389.37"
+        },
+        {
+          "date": "2025-10-24",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "19.27",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "489.37"
+        },
+        {
+          "date": "2025-10-24",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "508.64"
+        },
+        {
+          "date": "2025-10-24",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "7.26",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "510.89"
+        },
+        {
+          "date": "2025-10-24",
+          "details": "INTERAC ETRNSFR RECVD LOAN EXPRESS CORP. 20252970603519215",
+          "category": "fees_and_charges/loans/payday",
+          "credit": "450.00",
+          "debit": "",
+          "flags": [
+            "is_payday"
+          ],
+          "balance": "518.15"
+        },
+        {
+          "date": "2025-10-23",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 20252961923683ADC",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "400.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "68.15"
+        },
+        {
+          "date": "2025-10-23",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.04",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "468.15"
+        },
+        {
+          "date": "2025-10-23",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "15.57",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "471.19"
+        },
+        {
+          "date": "2025-10-23",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "486.76"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "RECURRING PYMNT 21OCT2025GOOGLE YOUTUBE NS",
+          "category": "entertainment/movies_and_music",
+          "credit": "",
+          "debit": "12.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "491.76"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 2025295204469365A",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "504.18"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "DOLLAR TREE # 4",
+          "category": "shopping",
+          "credit": "",
+          "debit": "1.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "704.18"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "705.88"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "718.84"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 2025295052236B5D3",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "720.51"
+        },
+        {
+          "date": "2025-10-22",
+          "details": "INTERAC ETRNSFR AD RECVD PAY2DAY 20 20252950048VB5EJJ",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "800.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "920.51"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "ONLINE PURCHASE 20OCT2025REMITLY FFF79 BC",
+          "category": "transfer",
+          "credit": "",
+          "debit": "1621.54",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "120.51"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "INTERAC ETRNSFR SENT PAY2DAY 202529422406JUTE6",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "171.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1742.05"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "INTERAC ETRNSFR FULFILL PAYDIRECT BILLING SOLUTI 20252941604A4CC6F",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1913.05"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2113.05"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "INTERAC ETRNSFR FULFILL PAYDIRECT BILLING SOLUTI 20252941510D8BEC5",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2126.01"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "INTERAC ETRNSFR FULFILL PAYDIRECT BILLING SOLUTI 2025294130109DAAE",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2226.01"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "4.06",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2326.01"
+        },
+        {
+          "date": "2025-10-21",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2330.07"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "ONLINE PURCHASE 17OCT2025AMZN MKTP CA NM35Q4RS ON",
+          "category": "shopping",
+          "credit": "",
+          "debit": "197.17",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2331.74"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "ONLINE PURCHASE 20OCT2025WHOP.COM PAY BSLYRL NY 31.50X1.442222222",
+          "category": "entertainment/games",
+          "credit": "",
+          "debit": "45.43",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2528.91"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "INTERAC ETRNSFR FULFILL PAYDIRECT BILLING SOLUTI 2025293184462F28F",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2574.34"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "DOLLAR TREE # 4",
+          "category": "shopping",
+          "credit": "",
+          "debit": "1.98",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2674.34"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "28.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2676.32"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "55.37",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2705.02"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "84.86",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2760.39"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "UNIQUE HAIR SAL",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "25.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2845.25"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2870.25"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "INTERAC ETRNSFR AD RECVD WYZIA FINANCIAL INC. 202529309324BUU3M",
+          "category": "entertainment/gambling",
+          "credit": "1900.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2875.25"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "INTERAC ETRNSFR AD RECVD PAYBILT INC. 20252930640UMEWZU",
+          "category": "entertainment/gambling",
+          "credit": "700.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "975.25"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "66038 MACS CONV",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "13.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "275.25"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "FORTINOS (QUEEN",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "4.28",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "288.67"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "13.98",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "292.95"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "SUBWAY 56291",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.36",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "306.93"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "TIM HORTONS #32",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "4.66",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "309.29"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "INTERAC ETRNSFR SENT RAVEN RAJAN 20252911730NXNCYE",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "50.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "313.95"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "10.91",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "363.95"
+        },
+        {
+          "date": "2025-10-20",
+          "details": "66038 MACS CONV",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "374.86"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "ONLINE PURCHASE 16OCT2025AMZN MKTP CA NM9L82I5 ON",
+          "category": "shopping",
+          "credit": "",
+          "debit": "36.15",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "387.28"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202529020318FC11A",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "423.43"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252901945F67F70",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "523.43"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252901931CAA10A",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "623.43"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "18.24",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "723.43"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252901220293113",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "741.67"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "841.67"
+        },
+        {
+          "date": "2025-10-17",
+          "details": "PLANET FITNESS FEE/FRA",
+          "category": "health_and_fitness",
+          "credit": "",
+          "debit": "16.95",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "843.92"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "ONLINE PURCHASE 16OCT2025REMITLY D6B16 BC",
+          "category": "transfer",
+          "credit": "",
+          "debit": "892.14",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "860.87"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 202528919545AAE40",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "300.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1753.01"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "ECHELON INS INS/ASS",
+          "category": "insurance",
+          "credit": "",
+          "debit": "293.73",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2053.01"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.04",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2346.74"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "16.57",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2349.78"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "INTERAC ETRNSFR SENT SURREY PERFUMER 20252891309V7PK5M",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "113.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2366.35"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "INTERAC ETRNSFR SENT PAY2DAY 202528909384JYTHE",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2479.35"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "INTERAC ETRNSFR FULFILL PAYBILT INC. 20252890709932334",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2679.35"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202528906278963C2",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2879.35"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2979.35"
+        },
+        {
+          "date": "2025-10-16",
+          "details": "MILLER WASTE SY PAY/PAY",
+          "category": "income/paycheck",
+          "credit": "2959.48",
+          "debit": "",
+          "flags": [
+            "is_payroll"
+          ],
+          "balance": "2981.60"
+        },
+        {
+          "date": "2025-10-15",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202528819499427E9",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "105.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "22.12"
+        },
+        {
+          "date": "2025-10-15",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "127.12"
+        },
+        {
+          "date": "2025-10-15",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "140.08"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "141.75"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "143.75"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "1.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "156.71"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "PURPLE PINEAPPL",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "11.70",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "158.38"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "4.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "170.08"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "ETOBICOKE STORE",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "25.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "174.75"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "UNIQUE HAIR SAL",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "26.05",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "199.75"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "225.80"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 2025285183267B71F",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "228.05"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO.CA 202528513559DCD99",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "328.05"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "TST-GWALIA SWEE",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "10.15",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "428.05"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "FOODS",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "50.82",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "438.20"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "7145 GOREWAY D",
+          "category": "auto_and_transport/parking",
+          "credit": "420.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "489.02"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "MCDONALD'S #647",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "13.41",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "69.02"
+        },
+        {
+          "date": "2025-10-14",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "6.20",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "82.43"
+        },
+        {
+          "date": "2025-10-10",
+          "details": "RECURRING PYMNT 9OCT2025PATREON MEMBERSHIP 22.59X1.432492253",
+          "category": "fees_and_charges/service_fee",
+          "credit": "",
+          "debit": "32.36",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "88.63"
+        },
+        {
+          "date": "2025-10-10",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252831749E24AD1",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "120.99"
+        },
+        {
+          "date": "2025-10-10",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "19.90",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "220.99"
+        },
+        {
+          "date": "2025-10-10",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "240.89"
+        },
+        {
+          "date": "2025-10-09",
+          "details": "RECURRING PYMNT 8OCT2025WINIBLE TRIAL ONE DA TX 29.99X1.431477159",
+          "category": "fees_and_charges/service_fee",
+          "credit": "",
+          "debit": "42.93",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "243.14"
+        },
+        {
+          "date": "2025-10-09",
+          "details": "ONLINE PURCHASE 8OCT2025WINIBLE.COM TX 1.50X1.426666666",
+          "category": "transfer",
+          "credit": "",
+          "debit": "2.14",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "286.07"
+        },
+        {
+          "date": "2025-10-09",
+          "details": "INTERAC ETRNSFR AD RECVD WYZIA FINANCIAL INC. 20252821722XDETKN",
+          "category": "entertainment/gambling",
+          "credit": "50.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "288.21"
+        },
+        {
+          "date": "2025-10-09",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "16.57",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "238.21"
+        },
+        {
+          "date": "2025-10-09",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "254.78"
+        },
+        {
+          "date": "2025-10-08",
+          "details": "ONLINE PURCHASE 7OCT2025WINIBLE.COM TX 1.50X1.426666666",
+          "category": "shopping",
+          "credit": "",
+          "debit": "2.14",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "257.03"
+        },
+        {
+          "date": "2025-10-08",
+          "details": "ONLINE PURCHASE 7OCT2025WINIBLE.COM TX 29.99X1.431477159",
+          "category": "transfer",
+          "credit": "",
+          "debit": "42.93",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "259.17"
+        },
+        {
+          "date": "2025-10-08",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "302.10"
+        },
+        {
+          "date": "2025-10-08",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "7.26",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "315.06"
+        },
+        {
+          "date": "2025-10-07",
+          "details": "ONLINE PURCHASE 6OCT2025QUICKIE LAUNDRY ON",
+          "category": "fees_and_charges/service_fee/laundromat",
+          "credit": "",
+          "debit": "10.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "322.32"
+        },
+        {
+          "date": "2025-10-07",
+          "details": "INTERAC ETRNSFR AD RECVD WYZIA FINANCIAL INC. 20252802353MUPYAY",
+          "category": "entertainment/gambling",
+          "credit": "100.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "332.32"
+        },
+        {
+          "date": "2025-10-07",
+          "details": "INTERAC ETRNSFR SENT RAVEN RAJAN 20252802204H5XYN8",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "30.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "232.32"
+        },
+        {
+          "date": "2025-10-07",
+          "details": "INTERAC ETRNSFR AD RECVD WYZIA FINANCIAL INC. 20252802022XWW4EF",
+          "category": "entertainment/gambling",
+          "credit": "130.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "262.32"
+        },
+        {
+          "date": "2025-10-07",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "13.56",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "132.32"
+        },
+        {
+          "date": "2025-10-07",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "145.88"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "PURPLE PINEAPPL",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "23.40",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "148.13"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "UNIQUE HAIR SAL",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "22.60",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "171.53"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252790107ADA6DA",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "300.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "194.13"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "27.80",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "494.13"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "POPEYES #13409",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "5.97",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "521.93"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "66.59",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "527.90"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "5.86",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "594.49"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "600.35"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO.CA 20252781017A4DFD3",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "602.60"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "1.98",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "802.60"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "804.58"
+        },
+        {
+          "date": "2025-10-06",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "9.58",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "806.83"
+        },
+        {
+          "date": "2025-10-03",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "1.91",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "816.41"
+        },
+        {
+          "date": "2025-10-03",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202527620322FFCCA",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "818.32"
+        },
+        {
+          "date": "2025-10-03",
+          "details": "FORTINOS MAJOR",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "15.97",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "918.32"
+        },
+        {
+          "date": "2025-10-03",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "934.29"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "ONLINE PURCHASE 2OCT2025REMITLY SAD16 BC",
+          "category": "transfer",
+          "credit": "",
+          "debit": "797.20",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "936.54"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "INTERAC ETRNSFR SENT PAY2DAY 20252751918SZDVQK",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "",
+          "debit": "200.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1733.74"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "INTERAC ETRNSFR SENT SAN 20252751714DZZNNG",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1933.74"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.09",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2033.74"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "19.40",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2035.83"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2055.23"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 2025275061859D2B7",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "50.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2057.48"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "INTERAC ETRNSFR SENT LL 20252750527UQB7F7",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "644.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2107.48"
+        },
+        {
+          "date": "2025-10-02",
+          "details": "MILLER WASTE SY PAY/PAY",
+          "category": "income/paycheck",
+          "credit": "2596.27",
+          "debit": "",
+          "flags": [
+            "is_payroll"
+          ],
+          "balance": "2751.48"
+        },
+        {
+          "date": "2025-10-01",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "11.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "155.21"
+        },
+        {
+          "date": "2025-10-01",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "167.17"
+        },
+        {
+          "date": "2025-10-01",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "11.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "172.17"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "Interest",
+          "category": "income/investment_income",
+          "credit": "",
+          "debit": "0.12",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "184.13"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "EXCESS ITEMS 42 AT $1.25",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "52.50",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "184.25"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "DOLLAR TREE # 4",
+          "category": "shopping",
+          "credit": "",
+          "debit": "5.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "236.75"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "9324 PF QUEENS PLATE L",
+          "category": "auto_and_transport/public_transportation",
+          "credit": "",
+          "debit": "4.80",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "242.17"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "CARIBBEAN QUEEN",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "12.08",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "246.97"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "POPEYES 13062",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "5.97",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "259.05"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "UNIQUE HAIR SAL",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "22.60",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "265.02"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "287.62"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "PIZZA PIZZA # 1",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "5.37",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "291.62"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "ESSO CIRCLE K",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "31.04",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "296.99"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "93.31",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "328.03"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "3.66",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "421.34"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "4.37",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "425.00"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252701906490D63",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "429.37"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "FORTINOS (QUEEN",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.31",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "529.37"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "FORTINOS (QUEEN",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.68",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "532.68"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "6.20",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "535.36"
+        },
+        {
+          "date": "2025-09-29",
+          "details": "66038 MACS CONV",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "7.54",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "541.56"
+        },
+        {
+          "date": "2025-09-26",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "4.19",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "549.10"
+        },
+        {
+          "date": "2025-09-26",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "18.90",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "553.29"
+        },
+        {
+          "date": "2025-09-26",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252691040AA01BE",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "10.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "572.19"
+        },
+        {
+          "date": "2025-09-26",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202526909400A5A0B",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "582.19"
+        },
+        {
+          "date": "2025-09-26",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202526908575D5E64",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "682.19"
+        },
+        {
+          "date": "2025-09-26",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "4.93",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "782.19"
+        },
+        {
+          "date": "2025-09-25",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.04",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "787.12"
+        },
+        {
+          "date": "2025-09-25",
+          "details": "T T SUPERMARKET",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "13.19",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "790.16"
+        },
+        {
+          "date": "2025-09-25",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.17",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "803.35"
+        },
+        {
+          "date": "2025-09-24",
+          "details": "ONLINE PURCHASE 24SEP2025GGBAMARKETING MAD",
+          "category": "bills_and_utilities",
+          "credit": "",
+          "debit": "152.24",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "805.52"
+        },
+        {
+          "date": "2025-09-24",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "957.76"
+        },
+        {
+          "date": "2025-09-24",
+          "details": "TIM HORTONS #42",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "6.84",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "970.72"
+        },
+        {
+          "date": "2025-09-24",
+          "details": "INTERAC ETRNSFR AD RECVD WYZIA FINANCIAL INC. 20252670025PRYNFE",
+          "category": "entertainment/gambling",
+          "credit": "28.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "977.56"
+        },
+        {
+          "date": "2025-09-24",
+          "details": "INTERAC ETRNSFR AD RECVD WYZIA FINANCIAL INC. 20252670025JAMFQV",
+          "category": "entertainment/gambling",
+          "credit": "274.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "949.56"
+        },
+        {
+          "date": "2025-09-23",
+          "details": "ONLINE PURCHASE 22SEP2025SGL/TELEGRAM PREMIUM GBR",
+          "category": "entertainment/movies_and_music",
+          "credit": "",
+          "debit": "56.99",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "675.56"
+        },
+        {
+          "date": "2025-09-23",
+          "details": "ONLINE PURCHASE 22SEP2025PAYPAL JULIA777HAPPY ON",
+          "category": "transfer",
+          "credit": "",
+          "debit": "50.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "732.55"
+        },
+        {
+          "date": "2025-09-23",
+          "details": "FORTINOS HWY 7",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "12.96",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "782.97"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "ONLINE PURCHASE 21SEP2025GOOGLE YOUTUBE NS",
+          "category": "entertainment/movies_and_music",
+          "credit": "",
+          "debit": "12.42",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "795.93"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "ONLINE PURCHASE 20SEP2025OLG 1 800 387 0098 ON",
+          "category": "home/mortgage_and_rent",
+          "credit": "",
+          "debit": "12.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "808.35"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "ONLINE PURCHASE 20SEP2025WINIBLE.COM TX 3.00X1.416666666",
+          "category": "fees_and_charges/service_fee",
+          "credit": "",
+          "debit": "4.25",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "820.35"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "ONLINE PURCHASE 20SEP2025WINIBLE.COM TX 59.99X1.4174029",
+          "category": "transfer",
+          "credit": "",
+          "debit": "85.03",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "824.60"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "FOODS",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "18.07",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "909.63"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "PURPLE PINEAPPL",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "34.35",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "927.70"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "GRACE'S PATTY W",
+          "category": "food_and_dining/alcohol_and_bars",
+          "credit": "",
+          "debit": "5.65",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "962.05"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "UNIQUE HAIR SAL",
+          "category": "health_and_fitness/personal_care",
+          "credit": "",
+          "debit": "22.60",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "967.70"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "FORTINOS (QUEEN",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.47",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "990.30"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "INTERAC ETRNSFR AD RECVD ZUM RAILS 20252651033PV97DA",
+          "category": "fees_and_charges/loans",
+          "credit": "500.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "992.77"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "PETRO-CANADA 35",
+          "category": "auto_and_transport/gas_and_fuel",
+          "credit": "",
+          "debit": "34.51",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "492.77"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "POPEYES #13409",
+          "category": "food_and_dining",
+          "credit": "",
+          "debit": "5.97",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "527.28"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "WALMART STORE #",
+          "category": "shopping",
+          "credit": "",
+          "debit": "95.69",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "533.25"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.67",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "628.94"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "FORTINOS (QUEEN",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "3.94",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "631.61"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.17",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "635.55"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 202526321560919C8",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "637.72"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "FOOD WORLD",
+          "category": "food_and_dining/groceries",
+          "credit": "",
+          "debit": "2.34",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "737.72"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252631403D27BBA",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "400.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "740.06"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252631301162FD9",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1140.06"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252631222881206",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1240.06"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "INTERAC ETRNSFR RECVD KINSHUK BISHT 20252631202768033",
+          "category": "entertainment/gambling",
+          "credit": "1000.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1340.06"
+        },
+        {
+          "date": "2025-09-22",
+          "details": "TIM HORTONS #15",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "2.17",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "340.06"
+        },
+        {
+          "date": "2025-09-19",
+          "details": "CITY SOUTH PIZZ",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "6.50",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "342.23"
+        },
+        {
+          "date": "2025-09-19",
+          "details": "INTERAC ETRNSFR RECVD GODAY.CA 20252621823829941",
+          "category": "fees_and_charges/loans/high_cost",
+          "credit": "300.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "348.73"
+        },
+        {
+          "date": "2025-09-19",
+          "details": "INTERAC ETRNSFR FULFILL LOONIO 20252621624D1FD49",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "250.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "48.73"
+        },
+        {
+          "date": "2025-09-19",
+          "details": "LONGO'S # 20",
+          "category": "food_and_dining/cafes_and_restaurants",
+          "credit": "",
+          "debit": "20.03",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "298.73"
+        },
+        {
+          "date": "2025-09-19",
+          "details": "INTERAC ETRNSFR RECVD 15213622 CANADA INC. 20252621516099204",
+          "category": "fees_and_charges/loans",
+          "credit": "330.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "318.76"
+        },
+        {
+          "date": "2025-08-29",
+          "details": "Interest",
+          "category": "income/investment_income",
+          "credit": "",
+          "debit": "0.12",
+          "flags": [
+            "is_end_overdraft",
+            "is_in_overdraft"
+          ],
+          "balance": "-11.24"
+        },
+        {
+          "date": "2025-08-29",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_in_overdraft"
+          ],
+          "balance": "-11.12"
+        },
+        {
+          "date": "2025-07-31",
+          "details": "Interest",
+          "category": "income/investment_income",
+          "credit": "",
+          "debit": "0.05",
+          "flags": [
+            "is_in_overdraft"
+          ],
+          "balance": "-7.12"
+        },
+        {
+          "date": "2025-07-31",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_in_overdraft"
+          ],
+          "balance": "-7.07"
+        },
+        {
+          "date": "2025-06-30",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_in_overdraft",
+            "is_start_overdraft"
+          ],
+          "balance": "-3.07"
+        },
+        {
+          "date": "2025-06-23",
+          "details": "INTERAC ETRNSFR SENT KINSHUK BISHT 20251721246758CFB",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "11.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "0.93"
+        },
+        {
+          "date": "2025-05-30",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "11.93"
+        },
+        {
+          "date": "2025-04-30",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "15.93"
+        },
+        {
+          "date": "2025-04-14",
+          "details": "INTERAC ETRNSFR SENT KINSHUK BISHT 20251041247438140",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "350.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "19.93"
+        },
+        {
+          "date": "2025-04-14",
+          "details": "INTERAC ETRNSFR SENT KINSHUK BISHT 20251041246086013",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "3.50",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "369.93"
+        },
+        {
+          "date": "2025-03-31",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "373.43"
+        },
+        {
+          "date": "2025-03-28",
+          "details": "ONLINE PURCHASE 26MAR2025DRAFTKINGS AB",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "500.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "377.43"
+        },
+        {
+          "date": "2025-03-26",
+          "details": "RECURRING PYMNT 26MAR2025ROGERS 731 ON",
+          "category": "shopping/electronics_and_software",
+          "credit": "",
+          "debit": "319.64",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "877.43"
+        },
+        {
+          "date": "2025-03-25",
+          "details": "ONLINE PURCHASE 23MAR2025DRAFTKINGS AB",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "338.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1197.07"
+        },
+        {
+          "date": "2025-03-25",
+          "details": "INTERAC ETRNSFR SENT SAN 20250841947RB5EVG",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "100.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1535.07"
+        },
+        {
+          "date": "2025-03-25",
+          "details": "INTERAC ETRNSFR SENT LL 20250841934Z7NHQ5",
+          "category": "entertainment/gambling",
+          "credit": "",
+          "debit": "600.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "1635.07"
+        },
+        {
+          "date": "2025-03-24",
+          "details": "WALMART STORE #3740",
+          "category": "shopping",
+          "credit": "",
+          "debit": "130.93",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2235.07"
+        },
+        {
+          "date": "2025-03-17",
+          "details": "INTERAC ETRNSFR SENT INS 20250761747BBAFA4",
+          "category": "insurance",
+          "credit": "",
+          "debit": "670.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2366.00"
+        },
+        {
+          "date": "2025-02-28",
+          "details": "PRACTICAL PLAN",
+          "category": "fees_and_charges/provider_fee",
+          "credit": "",
+          "debit": "4.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "3036.00"
+        },
+        {
+          "date": "2025-02-20",
+          "details": "INTERAC ETRNSFR RECVD KINSHUK BISHT 20250511003036880",
+          "category": "entertainment/gambling",
+          "credit": "500.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "3040.00"
+        },
+        {
+          "date": "2025-02-10",
+          "details": "31 REXDALE BLV",
+          "category": "health_and_fitness/pharmacy",
+          "credit": "500.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2540.00"
+        },
+        {
+          "date": "2025-02-06",
+          "details": "INTERAC ETRNSFR RECVD KINSHUK BISHT 20250372145717901",
+          "category": "entertainment/gambling",
+          "credit": "2000.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "2040.00"
+        },
+        {
+          "date": "2025-02-03",
+          "details": "Branch transaction",
+          "category": "fees_and_charges/service_fee",
+          "credit": "40.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "40.00"
+        },
+        {
+          "date": "2025-02-03",
+          "details": "0005280610006232967",
+          "category": "transfer",
+          "credit": "",
+          "debit": "4000.00",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "0.00"
+        },
+        {
+          "date": "2025-02-03",
+          "details": "Branch transaction",
+          "category": "fees_and_charges/service_fee",
+          "credit": "4000.00",
+          "debit": "",
+          "flags": [
+            "is_regular"
+          ],
+          "balance": "4000.00"
+        }
+      ],
+      "payschedules": [
+        {
+          "score": 4,
+          "account": "001-04742-3743970",
+          "details": "MILLER WASTE SY PAY/PAY",
+          "income_type": "monthly_income/paycheck",
+          "monthly_income": "5769.74",
+          "estimated_gross_income": null,
+          "estimated_monthly_gross_income": null,
+          "frequency": "semimonthly:1:15",
+          "payments": [
+            {
+              "date": "2025-11-13",
+              "details": "MILLER WASTE SY PAY/PAY",
+              "category": "",
+              "credit": "3020.93",
+              "debit": "",
+              "flags": [
+                "is_payroll"
+              ],
+              "balance": "3132.55"
+            },
+            {
+              "date": "2025-10-30",
+              "details": "MILLER WASTE SY PAY/PAY",
+              "category": "",
+              "credit": "2962.81",
+              "debit": "",
+              "flags": [
+                "is_payroll"
+              ],
+              "balance": "3038.04"
+            },
+            {
+              "date": "2025-10-16",
+              "details": "MILLER WASTE SY PAY/PAY",
+              "category": "",
+              "credit": "2959.48",
+              "debit": "",
+              "flags": [
+                "is_payroll"
+              ],
+              "balance": "2981.60"
+            },
+            {
+              "date": "2025-10-02",
+              "details": "MILLER WASTE SY PAY/PAY",
+              "category": "",
+              "credit": "2596.27",
+              "debit": "",
+              "flags": [
+                "is_payroll"
+              ],
+              "balance": "2751.48"
+            }
+          ],
+          "future_payments": [
+            "2025-12-01",
+            "2025-12-15",
+            "2026-01-01",
+            "2026-01-15"
+          ],
+          "missed_payments": []
+        }
+      ]
+    }
+  ],
+  "all_bank_pdf_statements": [],
+  "address": "36 BRIARWOOD AVEETOBICOKE ONM9W 6G7",
+  "contacts": [
+    {
+      "type": "email",
+      "contact": "kinshukbisht@gmail.com"
+    },
+    {
+      "type": "phone",
+      "contact": "705-975-3803",
+      "location": "mobile"
+    },
+    {
+      "type": "phone",
+      "contact": "905-475-6356",
+      "location": "work"
+    }
+  ]
+}

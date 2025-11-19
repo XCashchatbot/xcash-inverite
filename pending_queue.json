@@ -406,39 +406,11 @@
     "timestamp": "2025-11-10 09:12:41"
   },
   {
-    "first_name": "Natoyia",
-    "last_name": "Audit",
-    "loan_type": "payday",
-    "loan_amount": "950",
-    "timestamp": "2025-11-12 13:56:45"
-  },
-  {
     "first_name": "Judie",
     "last_name": "Saladino",
     "loan_type": "payday",
     "loan_amount": "1500",
     "timestamp": "2025-11-12 14:49:22"
-  },
-  {
-    "first_name": "Rachel",
-    "last_name": "Dixon",
-    "loan_type": "payday",
-    "loan_amount": "500",
-    "timestamp": "2025-11-12 15:00:26"
-  },
-  {
-    "first_name": "Myla",
-    "last_name": "Fontanilla",
-    "loan_type": "payday",
-    "loan_amount": "400",
-    "timestamp": "2025-11-12 15:22:57"
-  },
-  {
-    "first_name": "Allison",
-    "last_name": "Smith",
-    "loan_type": "payday",
-    "loan_amount": "400",
-    "timestamp": "2025-11-12 16:12:28"
   },
   {
     "first_name": "Adrianne",
@@ -462,53 +434,11 @@
     "timestamp": "2025-11-12 21:58:52"
   },
   {
-    "first_name": "Sarah",
-    "last_name": "Waechter",
-    "loan_type": "payday",
-    "loan_amount": "450",
-    "timestamp": "2025-11-13 10:10:22"
-  },
-  {
-    "first_name": "VANESSA",
-    "last_name": "morales",
-    "loan_type": "payday",
-    "loan_amount": "1350",
-    "timestamp": "2025-11-13 10:45:05"
-  },
-  {
-    "first_name": "Saficta",
-    "last_name": "Sivapatham",
-    "loan_type": "payday",
-    "loan_amount": "400",
-    "timestamp": "2025-11-13 11:44:15"
-  },
-  {
-    "first_name": "Zachary",
-    "last_name": "Patriquin",
-    "loan_type": "payday",
-    "loan_amount": "500",
-    "timestamp": "2025-11-13 14:19:23"
-  },
-  {
     "first_name": "Cemal",
     "last_name": "Dogan",
     "loan_type": "payday",
     "loan_amount": "800",
     "timestamp": "2025-11-13 14:20:57"
-  },
-  {
-    "first_name": "Cody",
-    "last_name": "Harvey",
-    "loan_type": "payday",
-    "loan_amount": "650",
-    "timestamp": "2025-11-13 16:33:50"
-  },
-  {
-    "first_name": "Judy",
-    "last_name": "Barazi",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-13 16:46:46"
   },
   {
     "first_name": "Ann Marie",
@@ -523,20 +453,6 @@
     "loan_type": "payday",
     "loan_amount": "800",
     "timestamp": "2025-11-13 19:21:29"
-  },
-  {
-    "first_name": "carsen",
-    "last_name": "loeppky",
-    "loan_type": "payday",
-    "loan_amount": "1500",
-    "timestamp": "2025-11-13 23:08:13"
-  },
-  {
-    "first_name": "Chad",
-    "last_name": "Jones",
-    "loan_type": "payday",
-    "loan_amount": "250",
-    "timestamp": "2025-11-13 23:52:57"
   },
   {
     "first_name": "Sandy",
@@ -560,53 +476,11 @@
     "timestamp": "2025-11-14 04:40:24"
   },
   {
-    "first_name": "Raffi",
-    "last_name": "Akbari",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-14 06:34:44"
-  },
-  {
-    "first_name": "Pam",
-    "last_name": "Gervais",
-    "loan_type": "payday",
-    "loan_amount": "600",
-    "timestamp": "2025-11-14 09:08:23"
-  },
-  {
     "first_name": "Tremayne",
     "last_name": "Morris",
     "loan_type": "payday",
     "loan_amount": "500",
     "timestamp": "2025-11-14 09:52:16"
-  },
-  {
-    "first_name": "Abdel",
-    "last_name": "Mohamed",
-    "loan_type": "payday",
-    "loan_amount": "500",
-    "timestamp": "2025-11-14 10:29:34"
-  },
-  {
-    "first_name": "Julie",
-    "last_name": "Sposato",
-    "loan_type": "payday",
-    "loan_amount": "200",
-    "timestamp": "2025-11-14 11:41:07"
-  },
-  {
-    "first_name": "Edilyn",
-    "last_name": "Flondarina",
-    "loan_type": "payday",
-    "loan_amount": "1000",
-    "timestamp": "2025-11-14 11:43:11"
-  },
-  {
-    "first_name": "Donald",
-    "last_name": "Ryles",
-    "loan_type": "payday",
-    "loan_amount": "250",
-    "timestamp": "2025-11-14 13:25:57"
   },
   {
     "first_name": "Giovanni",
@@ -616,32 +490,11 @@
     "timestamp": "2025-11-14 13:58:36"
   },
   {
-    "first_name": "Nakeisha",
-    "last_name": "Edwards",
-    "loan_type": "payday",
-    "loan_amount": "300",
-    "timestamp": "2025-11-14 14:07:06"
-  },
-  {
     "first_name": "Paul",
     "last_name": "DA SILVA",
     "loan_type": "payday",
     "loan_amount": "800",
     "timestamp": "2025-11-14 14:19:36"
-  },
-  {
-    "first_name": "Nelia",
-    "last_name": "Gouveia",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-14 15:00:52"
-  },
-  {
-    "first_name": "Thomas",
-    "last_name": "Phillips",
-    "loan_type": "payday",
-    "loan_amount": "",
-    "timestamp": "2025-11-14 15:14:06"
   },
   {
     "first_name": "Samantha",
@@ -658,67 +511,11 @@
     "timestamp": "2025-11-14 20:40:07"
   },
   {
-    "first_name": "Sean",
-    "last_name": "Camacho",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-14 21:11:23"
-  },
-  {
     "first_name": "David E. Jackson",
     "last_name": "Jackson",
     "loan_type": "payday",
     "loan_amount": "300",
     "timestamp": "2025-11-14 22:29:13"
-  },
-  {
-    "first_name": "Sergio",
-    "last_name": "Abegao",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-14 23:27:20"
-  },
-  {
-    "first_name": "James",
-    "last_name": "Weese",
-    "loan_type": "payday",
-    "loan_amount": "100",
-    "timestamp": "2025-11-14 23:40:26"
-  },
-  {
-    "first_name": "Ewen",
-    "last_name": "Chen",
-    "loan_type": "payday",
-    "loan_amount": "500",
-    "timestamp": "2025-11-15 02:53:28"
-  },
-  {
-    "first_name": "Hetasvi",
-    "last_name": "Kayastha",
-    "loan_type": "payday",
-    "loan_amount": "550",
-    "timestamp": "2025-11-15 05:08:08"
-  },
-  {
-    "first_name": "Dustin",
-    "last_name": "Turner",
-    "loan_type": "payday",
-    "loan_amount": "300",
-    "timestamp": "2025-11-15 07:24:22"
-  },
-  {
-    "first_name": "Eleni",
-    "last_name": "Calaitzis",
-    "loan_type": "payday",
-    "loan_amount": "750",
-    "timestamp": "2025-11-15 07:40:39"
-  },
-  {
-    "first_name": "Jacqueline",
-    "last_name": "Morris",
-    "loan_type": "payday",
-    "loan_amount": "1500",
-    "timestamp": "2025-11-15 08:55:18"
   },
   {
     "first_name": "Ken",
@@ -728,25 +525,11 @@
     "timestamp": "2025-11-15 10:59:05"
   },
   {
-    "first_name": "kirsti duckworth",
-    "last_name": "Duckworth",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-15 11:09:37"
-  },
-  {
     "first_name": "Ribert",
     "last_name": "Chaumont",
     "loan_type": "payday",
     "loan_amount": "1500",
     "timestamp": "2025-11-15 11:50:56"
-  },
-  {
-    "first_name": "samuel",
-    "last_name": "walters",
-    "loan_type": "payday",
-    "loan_amount": "500",
-    "timestamp": "2025-11-15 11:52:38"
   },
   {
     "first_name": "Salar",
@@ -756,32 +539,11 @@
     "timestamp": "2025-11-15 11:53:27"
   },
   {
-    "first_name": "Maria Luisa",
-    "last_name": "Brown",
-    "loan_type": "payday",
-    "loan_amount": "300",
-    "timestamp": "2025-11-15 13:09:03"
-  },
-  {
-    "first_name": "Vivek",
-    "last_name": "Patel",
-    "loan_type": "payday",
-    "loan_amount": "1000",
-    "timestamp": "2025-11-15 13:55:36"
-  },
-  {
     "first_name": "Kojo",
     "last_name": "Almasi",
     "loan_type": "payday",
     "loan_amount": "150",
     "timestamp": "2025-11-17 10:36:11"
-  },
-  {
-    "first_name": "Siyara",
-    "last_name": "Burrell-Willock",
-    "loan_type": "payday",
-    "loan_amount": "250",
-    "timestamp": "2025-11-17 10:52:19"
   },
   {
     "first_name": "Amina",
@@ -796,27 +558,6 @@
     "loan_type": "payday",
     "loan_amount": "600",
     "timestamp": "2025-11-17 11:58:33"
-  },
-  {
-    "first_name": "Nicholas",
-    "last_name": "Chenje",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-17 12:11:12"
-  },
-  {
-    "first_name": "Chantal",
-    "last_name": "Teixeira",
-    "loan_type": "payday",
-    "loan_amount": "800",
-    "timestamp": "2025-11-17 12:13:00"
-  },
-  {
-    "first_name": "kinshuk",
-    "last_name": "BISHT",
-    "loan_type": "payday",
-    "loan_amount": "1200",
-    "timestamp": "2025-11-17 13:31:23"
   },
   {
     "first_name": "Connor",

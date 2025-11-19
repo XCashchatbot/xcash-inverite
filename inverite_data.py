@@ -49,10 +49,19 @@ def _get_accounts(report: dict) -> List[dict]:
 def _extract_applicant_info(report: dict) -> Tuple[str, str, str, str]:
     """
     Return (display_name, first_name, last_name, email) with robust fallbacks.
+    Handles cases where 'identity', 'request', or 'applicant' are not dicts.
     """
+
+    def _as_dict(obj):
+        return obj if isinstance(obj, dict) else {}
+
     # 1) identity.full_name or identity.name
-    identity = report.get("identity") or {}
-    id_full = _first_nonempty(identity.get("full_name"), identity.get("name"))
+    identity_raw = report.get("identity") or {}
+    identity = _as_dict(identity_raw)
+    id_full = _first_nonempty(
+        identity.get("full_name"),
+        identity.get("name"),
+    )
 
     # 2) top-level name (portal shows this)
     top_name = _first_nonempty(report.get("name"))
@@ -69,14 +78,16 @@ def _extract_applicant_info(report: dict) -> Tuple[str, str, str, str]:
         if holder_from_acc:
             break
 
-    # 4) request name & email
-    req = report.get("request") or {}
+    # 4) request name & email (sometimes not a dict!)
+    req_raw = report.get("request") or {}
+    req = _as_dict(req_raw)
     req_first = _norm(req.get("first_name") or "")
     req_last = _norm(req.get("last_name") or "")
     req_email = _norm(req.get("email") or "")
 
-    # 5) applicant block (your current schema)
-    applicant = report.get("applicant") or {}
+    # 5) applicant block (sometimes missing or wrong type)
+    applicant_raw = report.get("applicant") or {}
+    applicant = _as_dict(applicant_raw)
     app_first = _norm(applicant.get("first_name") or "")
     app_last  = _norm(applicant.get("last_name") or "")
     app_email = _norm(applicant.get("email") or "")
@@ -96,8 +107,16 @@ def _extract_applicant_info(report: dict) -> Tuple[str, str, str, str]:
     )
 
     # also pick best first/last
-    first_name = _first_nonempty(req_first, app_first, (display_name.split(" ")[0] if display_name and display_name != "Unknown" else ""))
-    last_name  = _first_nonempty(req_last, app_last, (" ".join(display_name.split(" ")[1:]) if display_name and " " in display_name else ""))
+    first_name = _first_nonempty(
+        req_first,
+        app_first,
+        (display_name.split(" ")[0] if display_name and display_name != "Unknown" else "")
+    )
+    last_name  = _first_nonempty(
+        req_last,
+        app_last,
+        (" ".join(display_name.split(" ")[1:]) if display_name and " " in display_name else "")
+    )
 
     return display_name or "", first_name or "", last_name or "", email or ""
 
@@ -161,6 +180,16 @@ def fetch_report(guid: str, retries: int = 8, delay: int = 5) -> dict:
 # 2️⃣ Convert Inverite JSON → text
 # ───────────────────────────────
 def convert_to_text(report_json: dict) -> str:
+
+    # 🔧 Normalize: allow JSON string or dict
+    if isinstance(report_json, str):
+        try:
+            report_json = json.loads(report_json)
+            print("ℹ️ convert_to_text: parsed JSON string into dict")
+        except Exception as e:
+            print("❌ convert_to_text: failed to parse JSON string:", e)
+            raise TypeError(f"Expected dict or JSON string for report_json, got invalid string: {repr(report_json)[:200]}")
+
     sections: List[str] = []
 
     # Robust applicant info
@@ -279,4 +308,5 @@ def convert_to_text(report_json: dict) -> str:
     else:
         sections.append("No transactions available.")
 
-    return "\n".join(sections)
+    return report_json, "\n".join(sections)
+
