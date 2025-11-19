@@ -3,14 +3,15 @@ import json
 import re
 from typing import Dict, Any
 from dotenv import load_dotenv
-import OpenAI
+from openai import OpenAI
+
 from report_features import extract_critical_signals
 
 # Load .env and check OpenAI key
 load_dotenv()
 if not os.environ.get("OPENAI_API_KEY"):
     raise ValueError("OPENAI_API_KEY is missing from environment")
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI()
 
 # ============================================================
 # Safe JSON parser
