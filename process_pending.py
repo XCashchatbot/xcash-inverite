@@ -23,7 +23,6 @@ def file_lock(lock_path: Path, poll_interval=0.1, timeout=30):
     start = time.time()
     while True:
         try:
-            # create a lockfile exclusively
             fd = os.open(str(lock_path), os.O_CREAT | os.O_EXCL | os.O_RDWR)
             try:
                 yield
@@ -43,7 +42,6 @@ def read_json_list(filepath: Path):
     if not filepath.exists():
         return []
     with open(filepath, "r", encoding="utf-8") as f:
-        # raise if invalid so we don't silently nuke content
         return json.load(f)
 
 def write_json_list_atomic(filepath: Path, data):
@@ -58,7 +56,6 @@ def append_unique_decision(entry: dict, filepath: Path):
     lockfile = filepath.with_suffix(filepath.suffix + ".lock")
     with file_lock(lockfile):
         data = read_json_list(filepath) if filepath.exists() else []
-        # Deduplicate by (guid, timestamp). Adjust if you prefer only guid.
         seen = {(d.get("guid"), d.get("timestamp")) for d in data}
         key = (entry.get("guid"), entry.get("timestamp"))
         if key not in seen:
@@ -74,23 +71,22 @@ def find_guid_in_notifications(first_name, last_name):
     ln = last_name.lower()
     with open(NOTIFICATION_LOG, "r", encoding="utf-8") as f:
         for line in f:
-            line = line.strip()
-            if not line:
-                continue
             try:
                 entry = json.loads(line)
-            except json.JSONDecodeError:
+            except:
                 continue
             name = (entry.get("name") or "").lower()
-            if fn in name and ln in name and (entry.get("status") or "").lower() == "verified":
+            status = (entry.get("status") or "").lower()
+            if fn in name and ln in name and status == "verified":
                 return entry.get("guid")
     return None
+
 
 def process_pending():
     try:
         queue = read_json_list(PENDING_QUEUE_FILE) if PENDING_QUEUE_FILE.exists() else []
     except Exception as e:
-        print(f"❌ Pending queue is invalid JSON: {e}")
+        print(f"❌ Pending queue invalid JSON: {e}")
         queue = []
 
     if not queue:
@@ -101,13 +97,20 @@ def process_pending():
     for applicant in queue:
         first = applicant.get("first_name", "").strip()
         last  = applicant.get("last_name", "").strip()
-        loan_amount = applicant.get("loan_amount", "")
+        loan_amount_raw = applicant.get("loan_amount", "")
+
+        # --- FIX: ensure loan_amount is a float ---
+        try:
+            loan_amount = float(loan_amount_raw)
+        except:
+            print(f"⚠️ Invalid loan_amount '{loan_amount_raw}', using 0.0")
+            loan_amount = 0.0
 
         print(f"⏳ Checking pending applicant: {first} {last}...")
 
         guid = find_guid_in_notifications(first, last)
         if not guid:
-            print(f"⚠️ No Inverite report yet for {first} {last}, keeping in queue.")
+            print(f"⚠️ No Inverite report for {first} {last}, keep in queue.")
             new_queue.append(applicant)
             continue
 
@@ -117,19 +120,37 @@ def process_pending():
             report = fetch_report(guid)
             text_summary = convert_to_text(report)
 
-            # 🔐 SAFETY: normalize the result from analyze_bank_statement
-            decision = analyze_bank_statement(text_summary, loan_amount)
+            # Run analyzer safely
+            decision_raw = analyze_bank_statement(text_summary, loan_amount)
 
-            if not isinstance(decision, dict):
-                print(
-                    f"⚠️ Unexpected decision type for {first} {last}: "
-                    f"{type(decision)} -> {decision}"
-                )
+            # ---- Normalize LLM output ----
+            if isinstance(decision_raw, dict):
+                decision = decision_raw
+            elif isinstance(decision_raw, str):
+                try:
+                    parsed = json.loads(decision_raw)
+                    decision = parsed if isinstance(parsed, dict) else {
+                        "decision": "Error",
+                        "approved_amount": None,
+                        "rationale": f"Invalid JSON: {parsed}"
+                    }
+                except:
+                    decision = {
+                        "decision": "Error",
+                        "approved_amount": None,
+                        "rationale": decision_raw
+                    }
+            else:
                 decision = {
                     "decision": "Error",
                     "approved_amount": None,
-                    "rationale": f"Non-dict decision: {decision}",
+                    "rationale": f"Unexpected type: {type(decision_raw)}"
                 }
+
+            # Ensure keys always exist
+            decision.setdefault("decision", "Error")
+            decision.setdefault("approved_amount", None)
+            decision.setdefault("rationale", "No rationale returned.")
 
             decision_entry = {
                 "first_name": first,
@@ -145,19 +166,20 @@ def process_pending():
             if append_unique_decision(decision_entry, DECISION_LOG_FILE):
                 print(f"✅ Decision saved for {first} {last}: {decision.get('decision')}")
             else:
-                print(f"ℹ️ Skipped duplicate decision for {first} {last}")
+                print(f"ℹ️ Duplicate decision skipped for {first} {last}")
 
         except Exception as e:
             print(f"❌ Error analyzing {first} {last}: {e}")
             new_queue.append(applicant)
 
-    # Atomically write the updated queue
+    # Write updated queue
     try:
         write_json_list_atomic(PENDING_QUEUE_FILE, new_queue)
     except Exception as e:
         print(f"❌ Could not update pending queue: {e}")
     else:
         print("✅ Pending list updated.")
+
 
 if __name__ == "__main__":
     print("🚀 Starting process_pending.py...")
